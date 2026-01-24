@@ -6,6 +6,8 @@
     <title>Dum-E-Odisha: Cloud Kitchen Strategic Blueprint</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <!-- 
     Palette Selection: "Royal & Vibrant"
     Primary: #1E3A8A (Deep Blue - Trust/Professional)
@@ -42,6 +44,10 @@
         font-family: "Inter", sans-serif;
         background-color: #f3f4f6;
         color: #1f2937;
+      }
+      
+      h1, h2, h3, .brand-font {
+        font-family: 'Playfair Display', serif;
       }
 
       .chart-container {
@@ -91,6 +97,29 @@
       ::-webkit-scrollbar-thumb:hover {
         background: #b45309;
       }
+      
+      /* Range Slider Styling */
+      input[type=range] {
+        -webkit-appearance: none;
+        width: 100%;
+        background: transparent;
+      }
+      input[type=range]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 16px;
+        width: 16px;
+        border-radius: 50%;
+        background: #D97706;
+        cursor: pointer;
+        margin-top: -6px; 
+      }
+      input[type=range]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 4px;
+        cursor: pointer;
+        background: #E2E8F0;
+        border-radius: 2px;
+      }
     </style>
   </head>
   <body class="antialiased">
@@ -99,7 +128,7 @@
       <div
         class="container mx-auto px-4 py-4 flex justify-between items-center"
       >
-        <h1 class="text-2xl font-bold tracking-tight">
+        <h1 class="text-2xl font-bold tracking-tight brand-font">
           Dum-E-Odisha
           <span class="text-brand-gold font-light">| Strategic Research</span>
         </h1>
@@ -137,7 +166,7 @@
           class="bg-brand-gold text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide text-white mb-4 inline-block"
           >Research Report</span
         >
-        <h2 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
+        <h2 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight brand-font">
           The Reality of Selling Biryani in a Cloud Kitchen
         </h2>
         <p class="text-xl text-gray-300 mb-8">
