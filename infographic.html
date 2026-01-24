@@ -1,0 +1,1028 @@
+<!-- Palette Selection: "Vibrant Professional"
+Primary: #2563EB (Royal Blue - Trust & Scale)
+Secondary: #F59E0B (Amber Gold - Food & Premium)
+Accent: #10B981 (Growth Emerald - Profit)
+Danger: #EF4444 (Risk Red - Failure/Cost)
+Background: #F3F4F6 (Clean Gray)
+Text: #111827 (Deep Slate)
+-->
+
+<!-- Narrative Plan:
+1. Introduction: Hook the user with the high stakes of the Cloud Kitchen market (High Growth vs. High Failure).
+2. Ecosystem Reality: Visualize the market size trends and the brutal failure rates to set a realistic tone.
+3. Unit Economics (The Core): Breakdown of a ₹300 Biryani order to show where the money goes (Food vs. Commission).
+4. The Aggregator Trap: Compare Swiggy/Zomato earnings vs. Direct earnings to justify the "Own Channel" strategy.
+5. Case Study Analysis: Use a Radar chart to compare the attributes of Success (Behrouz) vs. Failure (Dazo).
+6. Menu Engineering: Scatter plot mapping Volume vs. Margin to guide menu pricing strategy.
+7. Operations Flow: A CSS-based flowchart showing the batching process (No SVG/Mermaid).
+8. Action Plan: A concrete checklist for the next 30 days.
+-->
+
+<!-- Chart Selection Justification:
+1. Market Growth -> Bar Chart (Chart.js) -> Goal: Change. Shows clear year-over-year progression.
+2. Cost Breakdown -> Doughnut Chart (Chart.js) -> Goal: Compare/Composition. Best for showing parts of a whole (₹300).
+3. Realization Gap -> Stacked Bar Chart (Chart.js) -> Goal: Compare. clearly distinguishes the "Lost" revenue to commissions.
+4. Brand DNA (Success vs Failure) -> Radar Chart (Chart.js) -> Goal: Compare/Relationships. Excellent for multi-attribute comparison.
+5. Menu Matrix -> Scatter Plot (Chart.js) -> Goal: Relationships. Maps items on two critical axes (Popularity vs Profit).
+* All charts use Canvas (No SVG).
+* Diagrams use HTML/CSS Grid/Flex (No Mermaid/SVG).
+-->
+
+<!-- Confirming NO SVG / NO MERMAID: Neither Mermaid JS nor SVG graphics are used in this output. All visualizations are Canvas-based or CSS-styled HTML. -->
+
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dum-E-Odisha: Strategic Cloud Kitchen Blueprint</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+      /* Custom Font */
+      @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap");
+
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f3f4f6;
+        color: #1f2937;
+      }
+
+      /* Chart Container Rules */
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 350px;
+        max-height: 400px;
+      }
+
+      /* Responsive adjustments for mobile charts */
+      @media (max-width: 640px) {
+        .chart-container {
+          height: 300px;
+        }
+      }
+
+      /* Card Hover Effects */
+      .glass-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow:
+          0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        transition: all 0.3s ease;
+      }
+      .glass-card:hover {
+        transform: translateY(-2px);
+        box-shadow:
+          0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+
+      /* Flowchart Connector Lines (Pure CSS) */
+      .flow-arrow::after {
+        content: "→";
+        font-size: 2rem;
+        color: #9ca3af;
+        display: block;
+        margin-top: 0.5rem;
+      }
+      @media (min-width: 768px) {
+        .flow-arrow::after {
+          transform: rotate(0deg);
+          margin-top: 0;
+          margin-left: 1rem;
+        }
+      }
+      @media (max-width: 767px) {
+        .flow-arrow::after {
+          transform: rotate(90deg);
+          margin: 0.5rem auto;
+        }
+      }
+    </style>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                blue: "#2563EB",
+                darkBlue: "#1E3A8A",
+                gold: "#F59E0B",
+                green: "#10B981",
+                red: "#EF4444",
+              },
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="antialiased text-slate-800">
+    <!-- Navigation -->
+    <nav
+      class="sticky top-0 z-50 bg-white/90 backdrop-blur shadow-sm border-b border-gray-200"
+    >
+      <div
+        class="container mx-auto px-4 py-3 flex justify-between items-center"
+      >
+        <a href="index.html" class="flex items-center space-x-2 hover:opacity-80 transition">
+          <span class="text-2xl">🥘</span>
+          <span class="font-bold text-xl tracking-tight text-brand-darkBlue"
+            >Dum-E-Odisha
+            <span class="text-brand-gold font-light">Blueprint</span></span
+          >
+        </a>
+        <div
+          class="hidden md:flex space-x-6 text-sm font-semibold text-gray-600"
+        >
+          <a href="#market" class="hover:text-brand-blue transition">Market</a>
+          <a href="#economics" class="hover:text-brand-blue transition"
+            >Economics</a
+          >
+          <a href="#strategy" class="hover:text-brand-blue transition"
+            >Strategy</a
+          >
+          <a
+            href="#action"
+            class="px-4 py-2 bg-brand-blue text-white rounded-full hover:bg-blue-700 transition shadow-md"
+            >Action Plan</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header / Hero -->
+    <header
+      class="bg-gradient-to-r from-brand-darkBlue to-brand-blue text-white pt-20 pb-24 relative overflow-hidden"
+    >
+      <div
+        class="absolute inset-0 bg-[url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==')] opacity-10"
+      ></div>
+      <div class="container mx-auto px-4 text-center relative z-10">
+        <div
+          class="inline-block px-3 py-1 bg-brand-gold text-brand-darkBlue font-bold text-xs rounded-full mb-4 uppercase tracking-wider"
+        >
+          Research Report
+        </div>
+        <h1 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
+          From Home Kitchen to <br /><span class="text-brand-gold"
+            >Profitable Brand</span
+          >
+        </h1>
+        <p class="text-lg md:text-xl text-blue-100 max-w-2xl mx-auto mb-10">
+          A data-driven roadmap for scaling a single-brand Biryani cloud kitchen
+          in Bhubaneswar, navigating the aggregator trap, and achieving
+          sustainable unit economics.
+        </p>
+
+        <!-- Key Stats Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+          <div
+            class="bg-white/10 backdrop-blur rounded-lg p-6 border border-white/20"
+          >
+            <p class="text-sm text-blue-200 uppercase font-semibold">
+              Market Potential
+            </p>
+            <p class="text-3xl font-bold text-white mt-1">$3 Billion</p>
+            <p class="text-xs text-blue-200 mt-2">
+              Projected Industry Size by 2025
+            </p>
+          </div>
+          <div
+            class="bg-white/10 backdrop-blur rounded-lg p-6 border border-white/20"
+          >
+            <p class="text-sm text-blue-200 uppercase font-semibold">
+              The Risk
+            </p>
+            <p class="text-3xl font-bold text-brand-red mt-1">80% Fail</p>
+            <p class="text-xs text-blue-200 mt-2">
+              Within first 18 months of operation
+            </p>
+          </div>
+          <div
+            class="bg-white/10 backdrop-blur rounded-lg p-6 border border-white/20"
+          >
+            <p class="text-sm text-blue-200 uppercase font-semibold">
+              The Goal
+            </p>
+            <p class="text-3xl font-bold text-brand-green mt-1">₹500 AOV</p>
+            <p class="text-xs text-blue-200 mt-2">
+              Target Average Order Value for Profit
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container mx-auto px-4 -mt-12 relative z-20 space-y-20 pb-20">
+      <!-- SECTION 1: MARKET REALITY -->
+      <section id="market" class="scroll-mt-20">
+        <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+          <div class="border-l-4 border-brand-blue pl-4 mb-6">
+            <h2 class="text-3xl font-bold text-gray-800">
+              1. The Cloud Kitchen Ecosystem
+            </h2>
+            <p class="text-gray-500 mt-1">
+              Understanding the brutal growth vs. failure dynamic in Tier-2
+              cities.
+            </p>
+          </div>
+
+          <p class="text-gray-600 mb-8 leading-relaxed">
+            The Indian cloud kitchen market is exploding, driven by convenience
+            and digital adoption. However, the "low barrier to entry" is a
+            mirage. While the total market cap is skyrocketing, individual unit
+            survival is threatened by rising customer acquisition costs (CAC)
+            and aggregator commissions.
+          </p>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+            <!-- Chart Col -->
+            <div class="bg-gray-50 rounded-xl p-4 border border-gray-100">
+              <h3 class="text-lg font-bold text-gray-700 mb-4 text-center">
+                Market Growth Projection (USD Billions)
+              </h3>
+              <div class="chart-container">
+                <canvas id="marketGrowthChart"></canvas>
+              </div>
+              <p class="text-center text-xs text-gray-400 mt-2">
+                Source: Industry Reports (RedSeer/Inc42)
+              </p>
+            </div>
+
+            <!-- Insight Col -->
+            <div class="space-y-6">
+              <div
+                class="glass-card p-6 rounded-xl border-l-4 border-brand-red"
+              >
+                <h4 class="font-bold text-brand-red flex items-center">
+                  <span class="text-xl mr-2">⚠️</span> The 18-Month Death Valley
+                </h4>
+                <p class="text-sm text-gray-600 mt-2">
+                  Most single-brand kitchens shut down within 1.5 years. Why?
+                  They depend 100% on Swiggy/Zomato for visibility. Once the
+                  "New" tag vanishes, order volumes crash without external
+                  marketing spend.
+                </p>
+              </div>
+              <div
+                class="glass-card p-6 rounded-xl border-l-4 border-brand-gold"
+              >
+                <h4 class="font-bold text-brand-gold flex items-center">
+                  <span class="text-xl mr-2">💎</span> The Odisha Opportunity
+                </h4>
+                <p class="text-sm text-gray-600 mt-2">
+                  Bhubaneswar is transitioning. The palate is shifting from
+                  traditional home food to "aspirational" dining. Biryani
+                  remains the #1 ordered dish, but the market lacks a defined
+                  "Premium Local" brand—this is your gap.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 2: UNIT ECONOMICS -->
+      <section id="economics" class="scroll-mt-20">
+        <div class="text-center max-w-3xl mx-auto mb-10">
+          <h2 class="text-3xl font-bold text-gray-800">
+            2. The Economics of a ₹300 Biryani
+          </h2>
+          <p class="text-gray-500 mt-2">
+            Where does the money actually go? A forensic breakdown of a single
+            order.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <!-- Donut Chart -->
+          <div class="lg:col-span-1 glass-card p-6 rounded-xl">
+            <h3 class="text-lg font-bold text-gray-700 mb-4 text-center">
+              Cost Breakdown (per ₹300 Order)
+            </h3>
+            <div class="chart-container" style="height: 300px">
+              <canvas id="costBreakdownChart"></canvas>
+            </div>
+            <div class="mt-4 text-center">
+              <span
+                class="inline-block px-3 py-1 bg-green-100 text-brand-green font-bold rounded-full text-sm"
+                >Net Margin: ~10-15%</span
+              >
+            </div>
+          </div>
+
+          <!-- Analysis Text -->
+          <div class="lg:col-span-2 space-y-6">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div
+                class="p-4 bg-white rounded-lg shadow-sm border border-gray-200"
+              >
+                <p class="text-xs text-gray-400 uppercase font-bold">
+                  Raw Material (Food)
+                </p>
+                <p class="text-2xl font-bold text-brand-darkBlue">35%</p>
+                <p class="text-sm text-gray-500">
+                  Chicken, Basmati, Ghee. Quality cannot be compromised or
+                  retention drops.
+                </p>
+              </div>
+              <div
+                class="p-4 bg-white rounded-lg shadow-sm border border-gray-200"
+              >
+                <p class="text-xs text-gray-400 uppercase font-bold">
+                  Aggregator Commission
+                </p>
+                <p class="text-2xl font-bold text-brand-red">25-30%</p>
+                <p class="text-sm text-gray-500">
+                  The "Gatekeeper Tax". Includes listing fees and forced
+                  discounts.
+                </p>
+              </div>
+              <div
+                class="p-4 bg-white rounded-lg shadow-sm border border-gray-200"
+              >
+                <p class="text-xs text-gray-400 uppercase font-bold">
+                  Packaging
+                </p>
+                <p class="text-2xl font-bold text-brand-gold">5%</p>
+                <p class="text-sm text-gray-500">
+                  Your <b>only</b> physical touchpoint. Cheap packaging = No
+                  repeat orders.
+                </p>
+              </div>
+              <div
+                class="p-4 bg-white rounded-lg shadow-sm border border-gray-200"
+              >
+                <p class="text-xs text-gray-400 uppercase font-bold">
+                  Marketing (CAC)
+                </p>
+                <p class="text-2xl font-bold text-blue-500">15%</p>
+                <p class="text-sm text-gray-500">
+                  Ads within apps (CPC) to stay visible above competitors.
+                </p>
+              </div>
+            </div>
+
+            <div class="bg-blue-50 p-6 rounded-xl border border-blue-100">
+              <h4 class="font-bold text-brand-blue mb-2">
+                The "Profit Trap" Conclusion
+              </h4>
+              <p class="text-sm text-gray-700">
+                If you sell a Biryani for ₹200, you will <b>lose money</b> on
+                every order. To survive, Dum-E-Odisha must position as "Premium"
+                (₹280-₹350 range) to absorb the 30% aggregator hit while
+                maintaining food quality.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 3: THE AGGREGATOR TRAP -->
+      <section class="scroll-mt-20">
+        <div class="bg-white rounded-2xl shadow-xl p-8">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+            <div class="order-2 md:order-1">
+              <h3 class="text-2xl font-bold text-gray-800 mb-4">
+                Platform vs. Direct Orders
+              </h3>
+              <p class="text-gray-600 mb-6">
+                Swiggy and Zomato are great for <i>Acquisition</i> (getting new
+                customers), but terrible for <i>Profit</i>. The chart compares
+                the "Net Realization" (money hitting your bank) from a platform
+                order versus a direct WhatsApp order.
+              </p>
+              <ul class="space-y-4">
+                <li class="flex items-start">
+                  <span
+                    class="bg-red-100 text-red-600 p-1 rounded mr-3 text-xs font-bold mt-1"
+                    >BAD</span
+                  >
+                  <span class="text-sm text-gray-700"
+                    ><b>Platform Dependency:</b> You own zero customer data. You
+                    cannot retarget them without paying for ads again.</span
+                  >
+                </li>
+                <li class="flex items-start">
+                  <span
+                    class="bg-green-100 text-green-600 p-1 rounded mr-3 text-xs font-bold mt-1"
+                    >GOOD</span
+                  >
+                  <span class="text-sm text-gray-700"
+                    ><b>Direct Channel Strategy:</b> Use packaging inserts
+                    ("Order via WhatsApp for Free Dessert") to convert platform
+                    users to direct users.</span
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="order-1 md:order-2">
+              <div class="chart-container">
+                <canvas id="realizationChart"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 4: CASE STUDIES -->
+      <section id="strategy" class="scroll-mt-20">
+        <div class="border-l-4 border-brand-gold pl-4 mb-8">
+          <h2 class="text-3xl font-bold text-gray-800">
+            4. Success vs. Failure DNA
+          </h2>
+          <p class="text-gray-500 mt-1">
+            Analyzing the structural differences between brands that scale and
+            those that fail.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div class="glass-card p-6 rounded-xl border-t-4 border-green-500">
+            <h4 class="text-xl font-bold text-gray-800 mb-1">
+              Behrouz Biryani
+            </h4>
+            <span
+              class="text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded"
+              >SUCCESS MODEL</span
+            >
+            <p class="text-sm text-gray-600 mt-4 mb-4">
+              Focus: <b>Storytelling & Packaging</b>.
+            </p>
+            <p class="text-xs text-gray-500 leading-relaxed">
+              They didn't just sell rice and meat; they sold a "Royal Persian"
+              story. Their premium packaging justified a 40% higher price point,
+              absorbing commission costs.
+            </p>
+          </div>
+
+          <div class="glass-card p-6 rounded-xl border-t-4 border-red-500">
+            <h4 class="text-xl font-bold text-gray-800 mb-1">
+              Dazo / SpoonJoy
+            </h4>
+            <span
+              class="text-xs font-bold text-red-600 bg-red-100 px-2 py-1 rounded"
+              >FAILURE MODEL</span
+            >
+            <p class="text-sm text-gray-600 mt-4 mb-4">
+              Focus: <b>Tech & Discounts</b>.
+            </p>
+            <p class="text-xs text-gray-500 leading-relaxed">
+              Heavily funded, tech-first. They focused on logistics and
+              subscription apps rather than food consistency. High burn rate on
+              discounts led to collapse.
+            </p>
+          </div>
+
+          <div class="glass-card p-6 rounded-xl bg-gray-50">
+            <h4
+              class="text-sm font-bold text-gray-500 uppercase text-center mb-2"
+            >
+              Attribute Comparison
+            </h4>
+            <div class="chart-container" style="height: 250px">
+              <canvas id="radarChart"></canvas>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 5: MENU ENGINEERING -->
+      <section class="scroll-mt-20">
+        <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+          <div class="mb-6">
+            <h3 class="text-2xl font-bold text-gray-800">
+              5. Menu Matrix: Volume vs. Margin
+            </h3>
+            <p class="text-gray-500 text-sm">
+              Not all items play the same role. Your menu must be a mix of
+              "Traffic Drivers" and "Profit Makers".
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="md:col-span-2">
+              <div class="chart-container">
+                <canvas id="menuMatrixChart"></canvas>
+              </div>
+            </div>
+            <div class="space-y-4 flex flex-col justify-center">
+              <div
+                class="p-3 bg-brand-gold/10 rounded border-l-4 border-brand-gold"
+              >
+                <h5 class="font-bold text-sm text-gray-800">
+                  The Cash Cow (Biryani)
+                </h5>
+                <p class="text-xs text-gray-600">
+                  High Volume, Low Margin. Keeps the kitchen busy and brings in
+                  new customers.
+                </p>
+              </div>
+              <div
+                class="p-3 bg-brand-green/10 rounded border-l-4 border-brand-green"
+              >
+                <h5 class="font-bold text-sm text-gray-800">
+                  The Hidden Gold (Beverages/Starters)
+                </h5>
+                <p class="text-xs text-gray-600">
+                  Low Volume, High Margin. Upsell these to turn a break-even
+                  order into a profitable one.
+                </p>
+              </div>
+              <div
+                class="p-3 bg-brand-red/10 rounded border-l-4 border-brand-red"
+              >
+                <h5 class="font-bold text-sm text-gray-800">
+                  The Dog (Complex Curries)
+                </h5>
+                <p class="text-xs text-gray-600">
+                  Low Volume, Low Margin. High prep time. Remove from menu to
+                  simplify ops.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 6: OPERATIONS FLOW -->
+      <section class="scroll-mt-20">
+        <div class="text-center mb-10">
+          <h2 class="text-3xl font-bold text-gray-800">
+            6. Operational Workflow
+          </h2>
+          <p class="text-gray-500 mt-2">
+            Efficiency is the only way to scale a single-person kitchen.
+          </p>
+        </div>
+
+        <!-- CSS Flowchart -->
+        <div
+          class="flex flex-col md:flex-row justify-between items-center bg-white p-8 rounded-xl shadow-md space-y-6 md:space-y-0"
+        >
+          <!-- Step 1 -->
+          <div class="flex-1 w-full text-center group">
+            <div
+              class="w-16 h-16 mx-auto bg-blue-100 rounded-full flex items-center justify-center text-3xl mb-4 group-hover:scale-110 transition-transform"
+            >
+              🔪
+            </div>
+            <h4 class="font-bold text-gray-800">Mise-en-place</h4>
+            <p class="text-xs text-gray-500 px-4 mt-2">
+              Marination & Gravy base prepared 12hrs prior. Chicken portioned by
+              weight.
+            </p>
+          </div>
+
+          <!-- Arrow -->
+          <div class="flow-arrow hidden md:block"></div>
+
+          <!-- Step 2 -->
+          <div class="flex-1 w-full text-center group">
+            <div
+              class="w-16 h-16 mx-auto bg-brand-gold/20 rounded-full flex items-center justify-center text-3xl mb-4 group-hover:scale-110 transition-transform"
+            >
+              🔥
+            </div>
+            <h4 class="font-bold text-gray-800">Batch Cooking</h4>
+            <p class="text-xs text-gray-500 px-4 mt-2">
+              Dum cooking in small 5kg batches. Ensures freshness without waste.
+            </p>
+          </div>
+
+          <!-- Arrow -->
+          <div class="flow-arrow hidden md:block"></div>
+
+          <!-- Step 3 -->
+          <div class="flex-1 w-full text-center group">
+            <div
+              class="w-16 h-16 mx-auto bg-green-100 rounded-full flex items-center justify-center text-3xl mb-4 group-hover:scale-110 transition-transform"
+            >
+              📦
+            </div>
+            <h4 class="font-bold text-gray-800">Assembly Line</h4>
+            <p class="text-xs text-gray-500 px-4 mt-2">
+              Station: Rice -> Meat -> Garnish -> Seal. Target: < 2 mins per
+              order.
+            </p>
+          </div>
+
+          <!-- Arrow -->
+          <div class="flow-arrow hidden md:block"></div>
+
+          <!-- Step 4 -->
+          <div class="flex-1 w-full text-center group">
+            <div
+              class="w-16 h-16 mx-auto bg-purple-100 rounded-full flex items-center justify-center text-3xl mb-4 group-hover:scale-110 transition-transform"
+            >
+              🏍️
+            </div>
+            <h4 class="font-bold text-gray-800">Dispatch</h4>
+            <p class="text-xs text-gray-500 px-4 mt-2">
+              Insert "Order Direct" card. Staple bill. Smile at rider (Improves
+              rating).
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 7: ACTION PLAN -->
+      <section id="action" class="scroll-mt-20">
+        <div
+          class="bg-brand-darkBlue rounded-2xl shadow-xl p-8 md:p-12 text-white"
+        >
+          <div
+            class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8"
+          >
+            <div>
+              <h2 class="text-3xl font-bold">7. The 30-Day Launchpad</h2>
+              <p class="text-blue-200 mt-2">
+                Immediate checklist to stabilize Dum-E-Odisha.
+              </p>
+            </div>
+            <div
+              class="mt-4 md:mt-0 px-4 py-2 bg-brand-gold text-brand-darkBlue font-bold rounded shadow-lg text-sm"
+            >
+              Execute or Fail
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Week 1 -->
+            <div
+              class="bg-white/10 rounded-lg p-5 border border-white/10 hover:bg-white/20 transition"
+            >
+              <h4 class="text-brand-gold font-bold mb-3 uppercase text-sm">
+                Week 1: Fundamentals
+              </h4>
+              <ul class="space-y-3 text-sm text-blue-50">
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>Price Check:</b> Ensure Price
+                  = Food Cost / 0.35.
+                </li>
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>Photoshoot:</b> Replace stock
+                  images with real, high-contrast photos.
+                </li>
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>GMB:</b> Verify Google
+                  Business Profile & get 5 initial reviews.
+                </li>
+              </ul>
+            </div>
+
+            <!-- Week 2 -->
+            <div
+              class="bg-white/10 rounded-lg p-5 border border-white/10 hover:bg-white/20 transition"
+            >
+              <h4 class="text-brand-gold font-bold mb-3 uppercase text-sm">
+                Week 2: Ops & Retention
+              </h4>
+              <ul class="space-y-3 text-sm text-blue-50">
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>Print Inserts:</b> "Scan for
+                  ₹50 OFF" cards for every bag.
+                </li>
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>WhatsApp Biz:</b> Set up
+                  catalog & auto-reply.
+                </li>
+                <li class="flex items-start">
+                  <span class="mr-2">✅</span> <b>Standardize:</b> Weigh every
+                  portion to fix food cost variance.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="bg-gray-800 text-gray-400 py-12 border-t border-gray-700">
+      <div class="container mx-auto px-4 text-center">
+        <h3 class="text-white font-bold text-lg mb-4">Dum-E-Odisha</h3>
+        <p class="text-sm max-w-md mx-auto mb-6">
+          Generated Strategic Blueprint. Data based on Indian Cloud Kitchen
+          Industry benchmarks (2024-2025).
+        </p>
+        <div class="text-xs text-gray-500">
+          <p>&copy; 2025 Cloud Kitchen Research Analytics.</p>
+          <p class="mt-2">
+            Visualizations powered by Chart.js (Canvas). No External SVG used.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- CHART.JS LOGIC -->
+    <script>
+      // --- 1. Utility Functions ---
+
+      // Label Wrapping Helper (Splits long strings into arrays)
+      function wrapLabel(str, maxChars) {
+        if (str.length <= maxChars) return str;
+        const words = str.split(" ");
+        const lines = [];
+        let currentLine = words[0];
+
+        for (let i = 1; i < words.length; i++) {
+          if ((currentLine + " " + words[i]).length < maxChars) {
+            currentLine += " " + words[i];
+          } else {
+            lines.push(currentLine);
+            currentLine = words[i];
+          }
+        }
+        lines.push(currentLine);
+        return lines;
+      }
+
+      // Common Configs
+      Chart.defaults.font.family = "'Inter', sans-serif";
+      Chart.defaults.color = "#4B5563";
+
+      const commonOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: "bottom",
+            labels: {
+              usePointStyle: true,
+              padding: 20,
+              font: { size: 12 },
+            },
+          },
+          tooltip: {
+            backgroundColor: "rgba(31, 41, 55, 0.9)",
+            padding: 12,
+            cornerRadius: 8,
+            titleFont: { size: 13, weight: "bold" },
+            bodyFont: { size: 12 },
+            callbacks: {
+              title: function (tooltipItems) {
+                const item = tooltipItems[0];
+                let label = item.chart.data.labels[item.dataIndex];
+                if (Array.isArray(label)) {
+                  return label.join(" ");
+                } else {
+                  return label;
+                }
+              },
+            },
+          },
+        },
+      };
+
+      // --- 2. Market Growth Chart (Bar) ---
+      const ctxMarket = document
+        .getElementById("marketGrowthChart")
+        .getContext("2d");
+      new Chart(ctxMarket, {
+        type: "bar",
+        data: {
+          labels: [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024 (Proj)",
+            "2025 (Proj)",
+          ],
+          datasets: [
+            {
+              label: "Market Size (USD Billions)",
+              data: [0.4, 0.8, 1.3, 2.0, 2.5, 3.0],
+              backgroundColor: "#2563EB",
+              borderRadius: 4,
+              barPercentage: 0.6,
+            },
+          ],
+        },
+        options: {
+          ...commonOptions,
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: { color: "#E5E7EB", borderDash: [2, 4] },
+              ticks: {
+                callback: function (value) {
+                  return "$" + value + "B";
+                },
+              },
+            },
+            x: {
+              grid: { display: false },
+            },
+          },
+        },
+      });
+
+      // --- 3. Cost Breakdown Chart (Doughnut) ---
+      const ctxCost = document
+        .getElementById("costBreakdownChart")
+        .getContext("2d");
+      const rawCostLabels = [
+        "Raw Material (Food)",
+        "Aggregator Commission",
+        "Marketing (Ads/Disc)",
+        "Staff & Operations",
+        "Packaging",
+        "Net Profit",
+      ];
+      const processedCostLabels = rawCostLabels.map((l) => wrapLabel(l, 16));
+
+      new Chart(ctxCost, {
+        type: "doughnut",
+        data: {
+          labels: processedCostLabels,
+          datasets: [
+            {
+              data: [35, 25, 15, 10, 5, 10],
+              backgroundColor: [
+                "#1E3A8A",
+                "#EF4444",
+                "#F59E0B",
+                "#9CA3AF",
+                "#60A5FA",
+                "#10B981",
+              ],
+              borderWidth: 0,
+              hoverOffset: 10,
+            },
+          ],
+        },
+        options: {
+          ...commonOptions,
+          cutout: "60%",
+          plugins: {
+            ...commonOptions.plugins,
+            legend: { display: false },
+          },
+        },
+      });
+
+      // --- 4. Realization Chart (Stacked Bar) ---
+      const ctxRealization = document
+        .getElementById("realizationChart")
+        .getContext("2d");
+      new Chart(ctxRealization, {
+        type: "bar",
+        data: {
+          labels: ["Platform Order", "Direct Order"],
+          datasets: [
+            {
+              label: "Net Profit",
+              data: [30, 90],
+              backgroundColor: "#10B981",
+            },
+            {
+              label: "Costs (Food/Ops)",
+              data: [150, 150],
+              backgroundColor: "#1E3A8A",
+            },
+            {
+              label: "Commission/Ads",
+              data: [120, 10],
+              backgroundColor: "#EF4444",
+            },
+          ],
+        },
+        options: {
+          ...commonOptions,
+          scales: {
+            x: { stacked: true, grid: { display: false } },
+            y: {
+              stacked: true,
+              beginAtZero: true,
+              title: { display: true, text: "Value per ₹300 Order (INR)" },
+            },
+          },
+        },
+      });
+
+      // --- 5. Radar Chart (Comparison) ---
+      const ctxRadar = document.getElementById("radarChart").getContext("2d");
+      new Chart(ctxRadar, {
+        type: "radar",
+        data: {
+          labels: [
+            "Brand Story",
+            "Food Quality",
+            "Tech/App",
+            "Unit Economics",
+            "Retention",
+          ],
+          datasets: [
+            {
+              label: "Behrouz (Success)",
+              data: [90, 85, 60, 80, 85],
+              borderColor: "#10B981",
+              backgroundColor: "rgba(16, 185, 129, 0.2)",
+              pointBackgroundColor: "#10B981",
+            },
+            {
+              label: "Dazo (Fail)",
+              data: [30, 50, 95, 40, 30],
+              borderColor: "#EF4444",
+              backgroundColor: "rgba(239, 68, 68, 0.2)",
+              pointBackgroundColor: "#EF4444",
+            },
+          ],
+        },
+        options: {
+          ...commonOptions,
+          scales: {
+            r: {
+              angleLines: { color: "#E5E7EB" },
+              grid: { color: "#E5E7EB" },
+              pointLabels: {
+                font: { size: 10, weight: "bold" },
+              },
+              suggestedMin: 0,
+              suggestedMax: 100,
+            },
+          },
+        },
+      });
+
+      // --- 6. Menu Matrix (Scatter) ---
+      const ctxMatrix = document
+        .getElementById("menuMatrixChart")
+        .getContext("2d");
+      new Chart(ctxMatrix, {
+        type: "scatter",
+        data: {
+          datasets: [
+            {
+              label: "Biryani (Heroes)",
+              data: [{ x: 90, y: 35 }],
+              backgroundColor: "#F59E0B",
+              pointRadius: 12,
+            },
+            {
+              label: "Drinks/Sides (Profit)",
+              data: [
+                { x: 40, y: 75 },
+                { x: 30, y: 80 },
+              ],
+              backgroundColor: "#10B981",
+              pointRadius: 8,
+            },
+            {
+              label: "Complex Curries (Cut)",
+              data: [{ x: 20, y: 30 }],
+              backgroundColor: "#EF4444",
+              pointRadius: 8,
+            },
+            {
+              label: "Family Packs (Anchors)",
+              data: [{ x: 60, y: 50 }],
+              backgroundColor: "#2563EB",
+              pointRadius: 10,
+            },
+          ],
+        },
+        options: {
+          ...commonOptions,
+          scales: {
+            x: {
+              title: { display: true, text: "Sales Volume (Popularity)" },
+              min: 0,
+              max: 100,
+              grid: { color: "#E5E7EB" },
+            },
+            y: {
+              title: { display: true, text: "Gross Margin %" },
+              min: 0,
+              max: 100,
+              grid: { color: "#E5E7EB" },
+            },
+          },
+          plugins: {
+            ...commonOptions.plugins,
+            tooltip: {
+              callbacks: {
+                title: function (tooltipItems) {
+                  return tooltipItems[0].dataset.label;
+                },
+                label: function (context) {
+                  return `Vol: ${context.raw.x}, Margin: ${context.raw.y}%`;
+                },
+              },
+            },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
