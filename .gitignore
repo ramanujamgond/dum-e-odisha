@@ -1,0 +1,18 @@
+# Local secrets and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+# Dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Generated build output and downloadable archive bundles
+dist/
+build/
+coverage/
+*.zip

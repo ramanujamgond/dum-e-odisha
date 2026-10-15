@@ -1,0 +1,9 @@
+{
+  "generator": "Nano Banana MCP only",
+  "selected_concept": "06 — The Dum Club",
+  "primary_refinement": {
+    "requested_model": "pro",
+    "prompt": "Use case: logo-brand. EDIT the supplied SELECTED logo artwork, not a new concept. The reference is the approved Dum E Biryani / Odisha design. Preserve the exact recognizable composition: lowercase custom wordmark 'dum e' with its integrated tilted handi lid spanning the letters, long curved m flourish, saffron rice grain in the d counter, BIRYANI underneath and ODISHA underneath that. Keep all original letters readable, shapes, spelling, proportions and spacing closely consistent. Clean away all photographic texture, grain, lighting and gradients into perfectly uniform solid colour fills and crisp clean vector-like edges. Colour treatment: wordmark and its lid in deep chilli red #A63825; rice grain accent in saffron #ECAA35; both BIRYANI and ODISHA in pure black #000000. Background entirely uniform pure white #FFFFFF. The lid's white gap and letter counters must remain clear. Strong legibility; retain modest spacing between 'dum' and 'e'. Refine only uneven edge joins, not the design. Use generous symmetric clear space, centre the complete logo on a square canvas with the artwork occupying about 65 percent width. Exact text: 'dum e', 'BIRYANI', 'ODISHA'. No extra text, labels, cards, borders, shadows, mockups or other graphics. One logo only. This is the primary colour master.",
+    "actual_output": "1024×1024 JPEG saved as dum-e-primary-chilli-v1.jpg"
+  }
+}

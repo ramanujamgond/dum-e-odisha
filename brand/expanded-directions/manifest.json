@@ -1,0 +1,333 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "09",
+  "status": "13 alternative concepts; no final route selected",
+  "tagline": "Flavour in Every Layer.",
+  "previous_manifest": "ten-directions/manifest.json",
+  "added_routes": [
+    {
+      "n": 11,
+      "slug": "aroma-paisley",
+      "name": "The Aroma Paisley",
+      "source": "d-aroma-paisley",
+      "palette": [
+        [
+          "Chilli",
+          "#A63825",
+          "Paisley symbol and name"
+        ],
+        [
+          "Saffron",
+          "#ECAA35",
+          "Grain accent and application highlights"
+        ],
+        [
+          "Cream",
+          "#FFF3DD",
+          "Main background"
+        ],
+        [
+          "Ink",
+          "#2B211B",
+          "Supporting information"
+        ]
+      ],
+      "meaning": "A rice grain and rising aroma share one flowing paisley silhouette.",
+      "grammar": "Large cropped paisley curls and rice-grain forms; keep the full symbol clear of decorative patterns.",
+      "prompt": "Refine the attached original Aroma Paisley logo for the correct brand name DUM E ODISHA. Preserve the large distinctive chilli-red paisley silhouette with curling aroma and the rice-grain-shaped negative space at its lower left; retain the source's character and composition, clean the small inner curls slightly. Use chilli #A63825 with just one small saffron #ECAA35 rice accent, warm cream #FFF3DD background. Under the symbol render exact name 'dum e' in the warm bold lowercase serif spirit of the source, with an UNMISTAKABLE WIDE WORD SPACE between dum and e; then 'ODISHA' as a substantial dark chilli sans-serif line. REMOVE the word BIRYANI entirely from the logo. No extra words, no tagline. Symbol is hero, full mark centred on square canvas, ample surrounding space. Flat graphic, clean contours, no gradients, no shadows, no new symbol, no mockup, no border."
+    },
+    {
+      "n": 12,
+      "slug": "generous-handi",
+      "name": "The Generous Handi",
+      "source": "e-shared-handi",
+      "palette": [
+        [
+          "Terracotta",
+          "#A43B29",
+          "Handi and name"
+        ],
+        [
+          "Marigold",
+          "#E9A82E",
+          "Welcoming hands and aroma"
+        ],
+        [
+          "Ivory",
+          "#FFF4DE",
+          "Background"
+        ],
+        [
+          "Brown",
+          "#423027",
+          "Functional copy"
+        ]
+      ],
+      "meaning": "Two open hands cradle a steaming handi: generosity, care and a meal offered warmly.",
+      "grammar": "Welcoming hand gestures, short aroma curls and rice accents; a generous, open composition.",
+      "prompt": "Refine the attached original hands-and-handi logo for correct brand DUM E ODISHA. Preserve the original large red round handi cradled by TWO saffron-yellow open hands on either side, plus the single curl and rice grains rising above. This is the earlier Shared Handi design, not the newer two-people emblem. Keep recognisable arrangement, broad simple hand silhouettes, pot and hands balanced. Terracotta #A43B29, marigold #E9A82E, warm ivory #FFF4DE. Under hero symbol render exact 'dum e' in warm robust lowercase serif lettering with a clearly visible WIDE WORD GAP between dum and e, then substantial 'ODISHA' in clean uppercase sans. REMOVE BIRYANI from the logo entirely. No tagline, no other writing. Clean flat contemporary illustrative symbol, no texture, no gradient, no bevel, no frame, no photograph or mockup. Square artwork with generous margins."
+    },
+    {
+      "n": 13,
+      "slug": "dum-club",
+      "name": "The Dum Club",
+      "source": "f-dum-lettering",
+      "palette": [
+        [
+          "Chilli",
+          "#A63825",
+          "Separate e and ODISHA lettering"
+        ],
+        [
+          "Saffron",
+          "#ECAA35",
+          "Custom dum lettering, lid and grain"
+        ],
+        [
+          "Cream",
+          "#FFF3DD",
+          "Background"
+        ],
+        [
+          "Charcoal",
+          "#29231F",
+          "Information text"
+        ]
+      ],
+      "meaning": "A cooking lid and a rice-grain counter give the expressive lettering a direct biryani cue.",
+      "grammar": "Oversized lid curves, grain details and friendly typographic rhythms; use secondary cooking illustration separately.",
+      "prompt": "Carefully refine attached original Dum Club expressive logo, preserving its bold custom rounded lowercase dum lettering, integrated cooking lid above dum, rice-grain counter inside d, and playful warm silhouette. Correct the full name to 'dum e' on first line and 'ODISHA' as substantial second line. Crucial fix: make e a DISTINCT separate letter with a clear REAL WORD GAP after m, not joined dume. Lid must stop above dum and must NOT bridge to the separated e. Keep m readable as m, no extra decorative strokes. Remove BIRYANI entirely. Chilli #A63825 lettering, saffron #ECAA35 lid and rice-grain accent, cream #FFF3DD field. Source-inspired type-integrated illustrative logo, not replace it with generic typed capitals or an unrelated icon. Flat clean artwork, no gradient, no texture, no mockup, no extra text or tagline, generous whitespace, square."
+    }
+  ],
+  "total_concepts": 13,
+  "logo_count": 13,
+  "packaging_mockups": 13,
+  "wall_mockups": 3,
+  "banner_mockups": 3,
+  "files": [
+    {
+      "file": "saura-harvest-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/saura-harvest-logo.jpg"
+    },
+    {
+      "file": "saura-harvest-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/saura-harvest-mockup.jpg"
+    },
+    {
+      "file": "patta-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/patta-aroma-logo.jpg"
+    },
+    {
+      "file": "patta-aroma-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/patta-aroma-mockup.jpg"
+    },
+    {
+      "file": "pipili-feast-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/pipili-feast-logo.jpg"
+    },
+    {
+      "file": "pipili-feast-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/pipili-feast-mockup.jpg"
+    },
+    {
+      "file": "jhoti-rice-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/jhoti-rice-logo.jpg"
+    },
+    {
+      "file": "jhoti-rice-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/jhoti-rice-mockup.jpg"
+    },
+    {
+      "file": "shared-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/shared-handi-logo.jpg"
+    },
+    {
+      "file": "shared-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/shared-handi-mockup.jpg"
+    },
+    {
+      "file": "garden-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/garden-handi-logo.jpg"
+    },
+    {
+      "file": "garden-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/garden-handi-mockup.jpg"
+    },
+    {
+      "file": "flat-layer-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/flat-layer-logo.jpg"
+    },
+    {
+      "file": "flat-layer-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/flat-layer-mockup.jpg"
+    },
+    {
+      "file": "negative-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/negative-aroma-logo.jpg"
+    },
+    {
+      "file": "negative-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/negative-aroma-mockup.jpg"
+    },
+    {
+      "file": "golden-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/golden-aroma-logo.jpg"
+    },
+    {
+      "file": "golden-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/golden-aroma-mockup.jpg"
+    },
+    {
+      "file": "dum-host-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/dum-host-logo.jpg"
+    },
+    {
+      "file": "dum-host-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/dum-host-mockup.jpg"
+    },
+    {
+      "file": "aroma-paisley-logo.jpg",
+      "path": "expanded-directions/aroma-paisley-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-packaging.jpg",
+      "path": "expanded-directions/aroma-paisley-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-wall.jpg",
+      "path": "expanded-directions/aroma-paisley-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-banner.jpg",
+      "path": "expanded-directions/aroma-paisley-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-logo.jpg",
+      "path": "expanded-directions/generous-handi-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-packaging.jpg",
+      "path": "expanded-directions/generous-handi-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-wall.jpg",
+      "path": "expanded-directions/generous-handi-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-banner.jpg",
+      "path": "expanded-directions/generous-handi-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-logo.jpg",
+      "path": "expanded-directions/dum-club-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-packaging.jpg",
+      "path": "expanded-directions/dum-club-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-wall.jpg",
+      "path": "expanded-directions/dum-club-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-banner.jpg",
+      "path": "expanded-directions/dum-club-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    }
+  ]
+}

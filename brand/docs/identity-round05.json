@@ -1,0 +1,93 @@
+{
+  "brand_name": "Dum E Odisha",
+  "display_lines": [
+    "dum e",
+    "ODISHA"
+  ],
+  "category": "Authentic biryani in different flavours and varieties",
+  "tagline": "Flavour in Every Layer.",
+  "tagline_status": "Proposed line, implemented for this revision",
+  "name_status": "Confirmed by user on 2026-10-15",
+  "revision": "05",
+  "selected_source": "selected/dum-e-multicolour-saffron-chilli.jpg",
+  "corrected_primary": "dum-e-odisha/dum-e-odisha-primary-tagline.jpg",
+  "fixed_core": [
+    "Full name Dum E Odisha",
+    "Selected custom dum e wordmark",
+    "Handi lid and rice-grain idea",
+    "Warm modern flat illustration",
+    "Chilli lettering with saffron lid and grain"
+  ],
+  "flexible_range": [
+    "White or rice-cream fields",
+    "Separate tagline-free core logo",
+    "Black or white monochrome versions",
+    "Dish names and truthful category copy outside the logo"
+  ],
+  "palette": [
+    {
+      "name": "Chilli",
+      "hex": "#A63825",
+      "role": "All logo lettering and supporting headings"
+    },
+    {
+      "name": "Saffron",
+      "hex": "#ECAA35",
+      "role": "Lid and rice grain; accent only for small supporting elements"
+    },
+    {
+      "name": "Ink",
+      "hex": "#2B211B",
+      "role": "Supporting body copy, not a third primary logo ink"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "role": "Default background"
+    },
+    {
+      "name": "Rice cream",
+      "hex": "#FFF3DD",
+      "role": "Optional application background"
+    }
+  ],
+  "audience": "Working audience: local biryani lovers, shared meals and everyday cravings; no age or price claims are confirmed.",
+  "emotional_target": {
+    "basis": "User requested modern, illustrative and warm, and selected the pot-lid wordmark.",
+    "interpretation": "A welcoming, appetising identity with the warmth of a shared meal and the clarity of contemporary food branding."
+  },
+  "sources": [
+    {
+      "label": "Supplied graphic_dada screenshots",
+      "role": "Expressive lettering, compact illustration, warm food-brand mood; not copied"
+    },
+    {
+      "label": "User-selected Dum Club logo",
+      "role": "Keep the custom dum e silhouette; repair the full-name hierarchy"
+    }
+  ],
+  "constraints": [
+    "All new visual generation through Nano Banana MCP",
+    "No SVG tracing or invented geometry",
+    "Old incorrect names retained only in clearly labelled history",
+    "No trademark-clearance, exact-ink or 16px-icon claim"
+  ],
+  "category_references": [
+    {
+      "name": "Biryani Blues",
+      "url": "https://biryaniblues.com/",
+      "observation": "Official messaging emphasises dum cooking and Hyderabadi identity."
+    },
+    {
+      "name": "Behrouz",
+      "url": "https://www.behrouzbiryani.com/",
+      "observation": "Official messaging emphasises royalty."
+    },
+    {
+      "name": "Biryani By Kilo",
+      "url": "https://biryanibykilo.com/",
+      "observation": "Official menu headline emphasises fresh dum-cooked handi biryani."
+    }
+  ],
+  "competitor_status": "Category references only. Direct competitors have not been confirmed, so no competitor-relative distinctiveness score is issued."
+}

@@ -1,0 +1,56 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "06",
+  "date": "2026-10-15",
+  "display_lines": [
+    "DUM E",
+    "ODISHA"
+  ],
+  "tagline": "Flavour in Every Layer.",
+  "category": "Biryani in different flavours and varieties",
+  "positioning": "A warm, confident biryani specialist for everyday cravings and shared meals.",
+  "structural_decision": "DUM in serif capitals; an independent saffron E block with a real gap; substantial sans-serif ODISHA below; compact separate lifting lid above.",
+  "revision_basis": "User requested a more professional final design, deeper research and clear distinction between Dum and E.",
+  "primary": "final-design/dum-e-odisha-final-logo.jpg",
+  "reverse": "final-design/dum-e-odisha-final-white.jpg",
+  "mockups": [
+    "final-design/dum-e-odisha-packaging-hero.jpg",
+    "final-design/dum-e-odisha-packaging-detail.jpg"
+  ],
+  "palette": [
+    {
+      "name": "Deep chilli",
+      "hex": "#8B3029",
+      "role": "Primary lettering, lid and packaging band"
+    },
+    {
+      "name": "Saffron",
+      "hex": "#E6AB44",
+      "role": "Separate E block, lid rim and limited packaging accents"
+    },
+    {
+      "name": "Warm cream",
+      "hex": "#FFF9EF",
+      "role": "Main field and packaging substrate target"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#29231F",
+      "role": "Functional copy outside the logo"
+    }
+  ],
+  "palette_status": "Design targets; generated raster pixels vary. Not press specifications.",
+  "typography": "Generated serif DUM and clean sans E/ODISHA. Supporting menus and information use a plain sans-serif; do not retype the logo or claim an exact font match.",
+  "voice": "Warm, direct and appetite-led. Example: Find your favourite. Share a biryani.",
+  "generation": "All new visual artwork and mockups generated through Nano Banana MCP.",
+  "delivery_status": "Final visual direction in high-resolution JPEGs with opaque backgrounds. Not vector, transparent artwork, dielines or press-ready separations.",
+  "research": "research/final-direction-research.md",
+  "constraints": [
+    "Preserve DUM/E gap and E block",
+    "Odisha is integral to the brand name",
+    "BIRYANI is category copy outside the logo",
+    "Preserve earlier rounds as historical work",
+    "No trademark clearance or independently verified consumer testing claimed"
+  ],
+  "qa_note": "Reverse proof preserves the E as a dark knockout. Black study excluded from final package because its tagline retains colour."
+}

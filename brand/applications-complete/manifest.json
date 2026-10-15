@@ -1,0 +1,890 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "10",
+  "status": "13 alternative concepts; no final route selected",
+  "concepts": 13,
+  "logo_count": 13,
+  "packaging_mockups": 23,
+  "wall_mockups": 13,
+  "banner_mockups": 13,
+  "new_images": 30,
+  "applications": [
+    {
+      "n": 1,
+      "slug": "saura-harvest",
+      "title": "Harvest & Hearth",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/saura-harvest-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 1,
+      "slug": "saura-harvest",
+      "title": "Harvest & Hearth",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/saura-harvest-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 1,
+      "slug": "saura-harvest",
+      "title": "Harvest & Hearth",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/saura-harvest-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 1,
+      "slug": "saura-harvest",
+      "title": "Harvest & Hearth",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/saura-harvest-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 2,
+      "slug": "patta-aroma",
+      "title": "The Painted Handi",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/patta-aroma-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 2,
+      "slug": "patta-aroma",
+      "title": "The Painted Handi",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/patta-aroma-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 2,
+      "slug": "patta-aroma",
+      "title": "The Painted Handi",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/patta-aroma-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 2,
+      "slug": "patta-aroma",
+      "title": "The Painted Handi",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/patta-aroma-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 3,
+      "slug": "pipili-feast",
+      "title": "The Patchwork Feast",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/pipili-feast-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 3,
+      "slug": "pipili-feast",
+      "title": "The Patchwork Feast",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/pipili-feast-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 3,
+      "slug": "pipili-feast",
+      "title": "The Patchwork Feast",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/pipili-feast-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 3,
+      "slug": "pipili-feast",
+      "title": "The Patchwork Feast",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/pipili-feast-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 4,
+      "slug": "jhoti-rice",
+      "title": "The Rice Welcome",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/jhoti-rice-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 4,
+      "slug": "jhoti-rice",
+      "title": "The Rice Welcome",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/jhoti-rice-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 4,
+      "slug": "jhoti-rice",
+      "title": "The Rice Welcome",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/jhoti-rice-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 4,
+      "slug": "jhoti-rice",
+      "title": "The Rice Welcome",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/jhoti-rice-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 5,
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/shared-handi-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 5,
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/shared-handi-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 5,
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/shared-handi-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 5,
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/shared-handi-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 6,
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/garden-handi-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 6,
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/garden-handi-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 6,
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/garden-handi-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 6,
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/garden-handi-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 7,
+      "slug": "flat-layer",
+      "title": "The Layered Sun",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/flat-layer-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 7,
+      "slug": "flat-layer",
+      "title": "The Layered Sun",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/flat-layer-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 7,
+      "slug": "flat-layer",
+      "title": "The Layered Sun",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/flat-layer-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 7,
+      "slug": "flat-layer",
+      "title": "The Layered Sun",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/flat-layer-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 8,
+      "slug": "negative-aroma",
+      "title": "The Hidden Handi",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/negative-aroma-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 8,
+      "slug": "negative-aroma",
+      "title": "The Hidden Handi",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/negative-aroma-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 8,
+      "slug": "negative-aroma",
+      "title": "The Hidden Handi",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/negative-aroma-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 8,
+      "slug": "negative-aroma",
+      "title": "The Hidden Handi",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/negative-aroma-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 9,
+      "slug": "golden-aroma",
+      "title": "The Spiral of Dum",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/golden-aroma-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 9,
+      "slug": "golden-aroma",
+      "title": "The Spiral of Dum",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/golden-aroma-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 9,
+      "slug": "golden-aroma",
+      "title": "The Spiral of Dum",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/golden-aroma-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 9,
+      "slug": "golden-aroma",
+      "title": "The Spiral of Dum",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/golden-aroma-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 10,
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "ten-directions/dum-host-mockup.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 10,
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "kind": "packaging",
+      "label": "Sharing-meal box",
+      "path": "applications-complete/dum-host-packaging-detail.jpg",
+      "anchor": "packaging-detail"
+    },
+    {
+      "n": 10,
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "applications-complete/dum-host-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 10,
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "applications-complete/dum-host-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 11,
+      "slug": "aroma-paisley",
+      "title": "The Aroma Paisley",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "expanded-directions/aroma-paisley-packaging.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 11,
+      "slug": "aroma-paisley",
+      "title": "The Aroma Paisley",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "expanded-directions/aroma-paisley-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 11,
+      "slug": "aroma-paisley",
+      "title": "The Aroma Paisley",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "expanded-directions/aroma-paisley-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 12,
+      "slug": "generous-handi",
+      "title": "The Generous Handi",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "expanded-directions/generous-handi-packaging.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 12,
+      "slug": "generous-handi",
+      "title": "The Generous Handi",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "expanded-directions/generous-handi-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 12,
+      "slug": "generous-handi",
+      "title": "The Generous Handi",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "expanded-directions/generous-handi-banner.jpg",
+      "anchor": "banner"
+    },
+    {
+      "n": 13,
+      "slug": "dum-club",
+      "title": "The Dum Club",
+      "kind": "packaging",
+      "label": "Takeaway family",
+      "path": "expanded-directions/dum-club-packaging.jpg",
+      "anchor": "packaging"
+    },
+    {
+      "n": 13,
+      "slug": "dum-club",
+      "title": "The Dum Club",
+      "kind": "wall",
+      "label": "Feature wall",
+      "path": "expanded-directions/dum-club-wall.jpg",
+      "anchor": "wall"
+    },
+    {
+      "n": 13,
+      "slug": "dum-club",
+      "title": "The Dum Club",
+      "kind": "banner",
+      "label": "Promotional banner",
+      "path": "expanded-directions/dum-club-banner.jpg",
+      "anchor": "banner"
+    }
+  ],
+  "files": [
+    {
+      "file": "saura-harvest-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/saura-harvest-logo.jpg"
+    },
+    {
+      "file": "saura-harvest-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/saura-harvest-mockup.jpg"
+    },
+    {
+      "file": "patta-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/patta-aroma-logo.jpg"
+    },
+    {
+      "file": "patta-aroma-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/patta-aroma-mockup.jpg"
+    },
+    {
+      "file": "pipili-feast-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/pipili-feast-logo.jpg"
+    },
+    {
+      "file": "pipili-feast-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG",
+      "path": "ten-directions/pipili-feast-mockup.jpg"
+    },
+    {
+      "file": "jhoti-rice-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/jhoti-rice-logo.jpg"
+    },
+    {
+      "file": "jhoti-rice-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/jhoti-rice-mockup.jpg"
+    },
+    {
+      "file": "shared-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/shared-handi-logo.jpg"
+    },
+    {
+      "file": "shared-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/shared-handi-mockup.jpg"
+    },
+    {
+      "file": "garden-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/garden-handi-logo.jpg"
+    },
+    {
+      "file": "garden-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/garden-handi-mockup.jpg"
+    },
+    {
+      "file": "flat-layer-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/flat-layer-logo.jpg"
+    },
+    {
+      "file": "flat-layer-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/flat-layer-mockup.jpg"
+    },
+    {
+      "file": "negative-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/negative-aroma-logo.jpg"
+    },
+    {
+      "file": "negative-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/negative-aroma-mockup.jpg"
+    },
+    {
+      "file": "golden-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/golden-aroma-logo.jpg"
+    },
+    {
+      "file": "golden-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/golden-aroma-mockup.jpg"
+    },
+    {
+      "file": "dum-host-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "path": "ten-directions/dum-host-logo.jpg"
+    },
+    {
+      "file": "dum-host-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "path": "ten-directions/dum-host-mockup.jpg"
+    },
+    {
+      "file": "aroma-paisley-logo.jpg",
+      "path": "expanded-directions/aroma-paisley-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-packaging.jpg",
+      "path": "expanded-directions/aroma-paisley-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-wall.jpg",
+      "path": "expanded-directions/aroma-paisley-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "aroma-paisley-banner.jpg",
+      "path": "expanded-directions/aroma-paisley-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-logo.jpg",
+      "path": "expanded-directions/generous-handi-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-packaging.jpg",
+      "path": "expanded-directions/generous-handi-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-wall.jpg",
+      "path": "expanded-directions/generous-handi-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "generous-handi-banner.jpg",
+      "path": "expanded-directions/generous-handi-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-logo.jpg",
+      "path": "expanded-directions/dum-club-logo.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-packaging.jpg",
+      "path": "expanded-directions/dum-club-packaging.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-wall.jpg",
+      "path": "expanded-directions/dum-club-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-club-banner.jpg",
+      "path": "expanded-directions/dum-club-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "saura-harvest-wall.jpg",
+      "path": "applications-complete/saura-harvest-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "saura-harvest-banner.jpg",
+      "path": "applications-complete/saura-harvest-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "saura-harvest-packaging-detail.jpg",
+      "path": "applications-complete/saura-harvest-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "patta-aroma-wall.jpg",
+      "path": "applications-complete/patta-aroma-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "patta-aroma-banner.jpg",
+      "path": "applications-complete/patta-aroma-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "patta-aroma-packaging-detail.jpg",
+      "path": "applications-complete/patta-aroma-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "pipili-feast-wall.jpg",
+      "path": "applications-complete/pipili-feast-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "pipili-feast-banner.jpg",
+      "path": "applications-complete/pipili-feast-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "pipili-feast-packaging-detail.jpg",
+      "path": "applications-complete/pipili-feast-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "jhoti-rice-wall.jpg",
+      "path": "applications-complete/jhoti-rice-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "jhoti-rice-banner.jpg",
+      "path": "applications-complete/jhoti-rice-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "jhoti-rice-packaging-detail.jpg",
+      "path": "applications-complete/jhoti-rice-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-wall.jpg",
+      "path": "applications-complete/shared-handi-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-banner.jpg",
+      "path": "applications-complete/shared-handi-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-packaging-detail.jpg",
+      "path": "applications-complete/shared-handi-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-wall.jpg",
+      "path": "applications-complete/garden-handi-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-banner.jpg",
+      "path": "applications-complete/garden-handi-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-packaging-detail.jpg",
+      "path": "applications-complete/garden-handi-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "flat-layer-wall.jpg",
+      "path": "applications-complete/flat-layer-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "flat-layer-banner.jpg",
+      "path": "applications-complete/flat-layer-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "flat-layer-packaging-detail.jpg",
+      "path": "applications-complete/flat-layer-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "negative-aroma-wall.jpg",
+      "path": "applications-complete/negative-aroma-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "negative-aroma-banner.jpg",
+      "path": "applications-complete/negative-aroma-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "negative-aroma-packaging-detail.jpg",
+      "path": "applications-complete/negative-aroma-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "golden-aroma-wall.jpg",
+      "path": "applications-complete/golden-aroma-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "golden-aroma-banner.jpg",
+      "path": "applications-complete/golden-aroma-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "golden-aroma-packaging-detail.jpg",
+      "path": "applications-complete/golden-aroma-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-wall.jpg",
+      "path": "applications-complete/dum-host-wall.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-banner.jpg",
+      "path": "applications-complete/dum-host-banner.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-packaging-detail.jpg",
+      "path": "applications-complete/dum-host-packaging-detail.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    }
+  ]
+}
