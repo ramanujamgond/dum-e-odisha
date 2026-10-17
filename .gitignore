@@ -1,13 +1,19 @@
-.DS_Store
-__pycache__/
-*.pyc
-node_modules/
+# Local secrets and machine-specific files
 .env
 .env.*
 !.env.example
+*.pem
+*.key
+.DS_Store
+# Dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Generated build output and downloadable archive bundles
+/dist/
+/build/
+coverage/
+*.zip
 deployment-vercel/public/
-
-# Large generated export bundles; source designs remain tracked.
-brand/applications-complete/dum-e-odisha-complete-brand-guides.zip
-brand/expanded-directions/dum-e-odisha-thirteen-guides.zip
-brand/ten-directions/dum-e-odisha-ten-brand-guides.zip
