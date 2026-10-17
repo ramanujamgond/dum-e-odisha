@@ -1,0 +1,12 @@
+{
+  "url": "https://dum-e-odisha.vercel.app",
+  "deployment_url": "https://dum-e-odisha-49fd931y2-ramanujam-gonds-projects.vercel.app",
+  "id": "dpl_HAEajjsAxT7WDrCfKDSANbS8NUfj",
+  "project_id": "prj_k90x7vzZZjgfiUs8dKafwer72CXr",
+  "team_id": "team_csIjLTvLXbtNDPZ0UEZrhky2",
+  "status": "READY",
+  "target": "production",
+  "source_commit": "270f2916f64c14a24ac6180d0e55ee6ba9dfc1e1",
+  "build_seconds": 47,
+  "browser_check": "Unavailable: no connected browser"
+}

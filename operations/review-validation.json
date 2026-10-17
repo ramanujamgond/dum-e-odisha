@@ -1,0 +1,11 @@
+{
+  "local_references": 33,
+  "svg_files": 8,
+  "contrast_ratios": {
+    "chilli/cream": 8.16,
+    "ink/cream": 14.46,
+    "ink/saffron": 7.28,
+    "saffron/cream": 1.99
+  },
+  "errors": []
+}

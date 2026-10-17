@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-17",
+  "name": "Dum E Odisha",
+  "nameStatus": "owner_confirmed_in_chat",
+  "category": "Biryani",
+  "categoryStatus": "existing_project_evidence",
+  "tagline": "Flavour in Every Layer.",
+  "taglineStatus": "retained_project_copy",
+  "instagram": {
+    "handle": "dum_e_odisha",
+    "url": "https://www.instagram.com/dum_e_odisha/",
+    "status": "owner_supplied_in_chat",
+    "profileContentVerified": true,
+    "accessNote": "Read 2026-10-17 in a fresh unauthenticated Chrome browser; HTTP 200. Public bio and meta description recorded in data/instagram-access.json."
+  },
+  "phone": "+917894265632",
+  "whatsapp": null,
+  "email": null,
+  "address": {
+    "value": "Shop 20 A, Soubhagya Nagar, Baramunda, Bhubaneswar",
+    "status": "cross_platform_observed",
+    "sourceIds": [
+      "B1",
+      "B2"
+    ],
+    "currentPhysicalVerification": false
+  },
+  "openingHours": null,
+  "orderingUrl": null,
+  "menu": [],
+  "foodLicense": null,
+  "researchFile": "business-research.json",
+  "publicationStatus": "brand_review_only",
+  "note": "Phone/city/service claims are first-party observed. Address and platform links are cross-platform observed after identity matching. Current menu, hours, prices, allergens and regulatory certificate remain unverified. No WhatsApp URL inferred from the phone.",
+  "city": "Bhubaneswar",
+  "publicBioLine": "The Fine Art of Dum, From Odisha",
+  "services": [
+    "Biryani",
+    "Catering",
+    "Bulk orders"
+  ],
+  "orderingChannels": [
+    {
+      "name": "Swiggy",
+      "url": "https://www.swiggy.com/city/bhubaneswar/dum-e-odisha-khandagiri-rest1303591",
+      "status": "identity_matched_listing_availability_unverified"
+    },
+    {
+      "name": "Zomato",
+      "url": "https://www.zomato.com/bhubaneswar/dum-e-odisha-baramunda-bhubaneshwar/order",
+      "status": "identity_matched_listing_availability_unverified"
+    }
+  ],
+  "evidence": {
+    "phone": "Owner-linked Instagram public bio; matches Zomato phone",
+    "city": "Instagram public bio; corroborated by both listings",
+    "services": "Instagram public bio mentions catering and bulk orders; biryani from project and listings",
+    "address": "Matched Zomato and Swiggy platform records; not a physical-site visit",
+    "identityBridge": "Owner supplied Instagram URL \u2192 public bio phone \u2192 identical Zomato phone \u2192 matching name/address/license on Swiggy",
+    "checkedAt": "2026-10-17"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-17",
+  "assets": [
+    {
+      "path": "assets/logo/primary-source.png",
+      "tool": "Nano Banana MCP",
+      "model": "Gemini 3 Pro Image",
+      "prompt": "Create ONE refined restaurant brand logo on an absolutely flat solid warm ivory background #FFF6E7. Exact name: 'Dum E' on first line, 'Odisha' on second line. All letters extremely clear: Dum, a distinct separate E, Odisha. Custom hand-lettered bold soft old-style serif lettering, sophisticated sign painter's brush lettering with deliberate optical corrections, a little playful and full of warmth, beautiful swashed lowercase d in Odisha and sculptural curves, strong thick strokes, generous clear word separation. Chilli red #852D26 lettering, a small saffron #E8A535 accent. Tiny original rising-lid symbol with three rice-shaped steam strokes centered ABOVE the lettering, subordinate to the large name. Name fills most of image. Flat ink, crisp silhouette, balanced quiet negative space, premium independent Indian biryani kitchen, editorial food identity. No tagline, no other text, no stamp ring, no badge, no mockup, no gradients, no shadows, no 3D, no photorealism, no fake distressed speckles. One complete centered primary lockup, square artwork. Lettering should have human signwriting rhythm rather than generic geometric sans. Treat this as an original designed logo, avoid imitation of known brand logos."
+    },
+    {
+      "path": "assets/illustration/lifted-lid.png",
+      "tool": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create an original landscape editorial illustration for the biryani brand Dum E Odisha, image only NO lettering. An inviting shallow terracotta handi filled with distinctly drawn long rice grains, saffron flecks and a few green herbs, its tilted lid lifted beside it; an elegant wooden serving spoon and a small green herb sprig, a few scattered rice grains. Composition a single still life, wide horizontal 3:2, entire pot visible with ample ivory negative space on all sides. Medium: a skilled illustrator's gouache and colored-pencil drawing on warm ivory #FFF6E7 paper, with confident red pencil contours, visible broad dry brush edges, imperfect ink registration, irregular human line weight and restrained paper tooth. Palette limited to deep chilli #852D26, saffron #E8A535, muted leaf green #4E5940, ivory. Warm and generous, sophisticated independent food journal, loose yet carefully observed. Bold graphic shapes combined with lively individually drawn rice grains, subtly wonky perspective and very sparse hatching. Absolutely no glossy 3D, no photographic food, no gradients, no excessive ornamental swirls, no AI-like smooth digital rendering, no mandalas, no traditional cultural patterns, no faces or people, no logos, no text, no watermark. Supporting brand illustration, not an actual menu item photograph. Keep imagery organic, appetite-led and crafted rather than cute clip art."
+    },
+    {
+      "path": "assets/illustration/packaging-concept.png",
+      "tool": "Nano Banana MCP",
+      "model": "Gemini 3 Pro Image",
+      "references": [
+        "assets/logo/primary-source.png",
+        "assets/illustration/lifted-lid.png"
+      ],
+      "prompt": "Create a polished editorial packaging concept photograph for Dum E Odisha, using reference image 1 as the EXACT LOCKED logo: 'Dum E' above 'Odisha', red soft serif hand-lettered name and small lifted lid above. Preserve all spelling, letterforms and line breaks faithfully. Use reference image 2 as the illustration style and food artwork to print as a broad lower band. Scene: one warm ivory matte paper carrier bag on left, one low round takeaway paper tub on right, and a folded cream card on a warm stone table. Large correct identical logo in deep chilli red on the central cream area of bag and tub; illustration band around bottom of bag and tub in loose gouache and red pencil. Saffron narrow sealing strip. Generous cream space, red natural ink, no added words or claims, no contact information, no certifications, no slogans. A beautifully lit independent Indian food brand still life, daylight from left, realistic soft shadow, uncoated paper and believable paper folds. Composition 3:2 landscape, quiet but rich, no floating objects, no glossy 3D look, no plastic, no gold foil, no sterile template scene. This is a packaging design preview, not real manufactured packaging. Do not replace logo with generic typography."
+    }
+  ]
+}

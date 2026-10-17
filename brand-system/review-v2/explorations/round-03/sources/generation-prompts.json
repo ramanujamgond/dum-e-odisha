@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-17",
+  "status": "draft_owner_review_pending",
+  "tools": [
+    {
+      "tool": "built-in image_gen.imagegen",
+      "purpose": "Original no-lettering pictorial logo",
+      "output": "assets/handi-host.png",
+      "prompt": "Use case: logo-brand. Create one original image-only pictorial restaurant logo for Dum E Odisha, but absolutely NO writing, NO letters, NO numerals, NO wordmark, NO monogram, NO signature or watermark anywhere. A memorable, hand-inked 'Handi Host': a charming squat traditional biryani cooking handi pot personified as a warm welcoming host, rounded terracotta pot body, proud slightly tilted domed saffron lid above it, short confident arms with one palm extending in welcome, tiny grounded feet, a simple friendly face integrated subtly into pot, three generous rice-kernel shaped cream cutouts on the lower pot. Compact unified silhouette, not a detailed scene. The raised lid gap is a clear negative-space opening, with a single curved steam gesture shaped like a rice kernel. Strong thick dark chilli-red outlines, terracotta and saffron flat spot fills, cream negative spaces, no thin detail, no airbrush, no gradients, no artificial 3D, no glossy emoji, no clipart. Hand-drawn character and subtle organic asymmetry with professional logo economy. Reference images show the owner's taste in isolated bird/animal mascot logos, bold silhouettes and negative-space simplification: borrow only that level of illustration craft, do not copy any pictured mascot, shape or trademark. Brand food identity must be a cooking-pot host, no animals. Centered single mark occupying 70 percent of square, generous surrounding clearspace, real transparent alpha background. Deliver only the symbol, no typography, no border, no brand presentation.",
+      "references": [
+        "references/inspection-1.png",
+        "references/inspection-2.png"
+      ],
+      "transparentBackgroundRequested": true
+    },
+    {
+      "tool": "Nano Banana MCP / Gemini 3 Pro Image",
+      "purpose": "Reduced-detail one-ink stamp interpretation",
+      "output": "assets/handi-stamp-source.png",
+      "prompt": "Edit the attached original Handi Host pictorial logo into a professionally simplified one-ink stamp companion. Keep this exact character idea, welcoming left palm, proud tilted lifted lid, squat cooking pot body and grounded feet. Remove all gradients, shading, small highlight dots and fine face detail. One flat solid dark terracotta ink #943B2B only on a perfectly uniform white #FFFFFF background. Use broad white knockout shapes for the face, wide lid separation, the single steam curl and three rice kernels. The friendly face must still read with two very simple eyes and smile; merge small details boldly. Slight hand-inked organic contour, not geometric emoji. Center one whole symbol with generous margin. ABSOLUTELY NO text, letters, numerals, words, signatures or watermarks. No brandboard, no mockup, no extra symbols. This is a reduced-detail stamp interpretation of the same image-only logo, no alphabetic monogram. Original image is the edit target, do not add unrelated animal features.",
+      "editTarget": "assets/handi-host.png",
+      "resolutionRequested": "2k",
+      "actualDimensions": "1024x1024",
+      "background": "white"
+    }
+  ],
+  "typography": {
+    "method": "Actual local licensed Noto fonts + system Georgia, browser typesetting and PNG export",
+    "scripts": [
+      "hi",
+      "or"
+    ],
+    "nativeReview": "pending",
+    "source": "sources/script-matrix.json",
+    "noGeneratedGlyphs": true
+  },
+  "reference": {
+    "source": "Owner-supplied long screenshot / Hindi logo Dribbble results",
+    "observation": "Expressive isolated illustrative subjects, positive-negative silhouettes, limited colour, lettering comparisons.",
+    "limitations": "No attribution or exact identity of every thumbnail independently verified. No pictured mark traced."
+  },
+  "limits": [
+    "Raster art is not an editable vector master",
+    "Stamp is a separately generated simplification, not identical contours",
+    "Hand-inked appearance, generated image provenance",
+    "No native-speaker or trademark review claimed"
+  ]
+}

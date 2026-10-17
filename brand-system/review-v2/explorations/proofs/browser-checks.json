@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-17T11:36:34.448Z",
+  "checks": [
+    {
+      "page": "current-banner",
+      "geometry": {
+        "width": 1920,
+        "height": 640,
+        "overflow": false
+      }
+    },
+    {
+      "page": "current-tv",
+      "geometry": {
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      }
+    },
+    {
+      "page": "current-standee",
+      "geometry": {
+        "width": 900,
+        "height": 1800,
+        "overflow": false
+      }
+    },
+    {
+      "page": "letter-and-lid-banner",
+      "geometry": {
+        "width": 1920,
+        "height": 640,
+        "overflow": false
+      }
+    },
+    {
+      "page": "letter-and-lid-tv",
+      "geometry": {
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      }
+    },
+    {
+      "page": "letter-and-lid-standee",
+      "geometry": {
+        "width": 900,
+        "height": 1800,
+        "overflow": false
+      }
+    },
+    {
+      "page": "odia-first-banner",
+      "geometry": {
+        "width": 1920,
+        "height": 640,
+        "overflow": false
+      }
+    },
+    {
+      "page": "odia-first-tv",
+      "geometry": {
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      }
+    },
+    {
+      "page": "odia-first-standee",
+      "geometry": {
+        "width": 900,
+        "height": 1800,
+        "overflow": false
+      }
+    },
+    {
+      "page": "hindi-signature-banner",
+      "geometry": {
+        "width": 1920,
+        "height": 640,
+        "overflow": false
+      }
+    },
+    {
+      "page": "hindi-signature-tv",
+      "geometry": {
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      }
+    },
+    {
+      "page": "hindi-signature-standee",
+      "geometry": {
+        "width": 900,
+        "height": 1800,
+        "overflow": false
+      }
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "index",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "current",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "current",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "current",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "letter-and-lid",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "letter-and-lid",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "letter-and-lid",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "odia-first",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "odia-first",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "odia-first",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "hindi-signature",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "hindi-signature",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "hindi-signature",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "type-lab",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "type-lab",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "type-lab",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "page": "reference-study",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "page": "reference-study",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "page": "reference-study",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "fontLoads": {
+    "Odia Serif": true,
+    "Odia Sans": true,
+    "Hindi Serif": true,
+    "Hindi Sans": true
+  },
+  "odiaSwitch": "specimen odia-sans",
+  "hindiSwitch": "specimen hindi-sans",
+  "exactScriptStrings": [
+    "ଦମ୍ ଏ ଓଡ଼ିଶା",
+    "दम ए ओडिशा"
+  ],
+  "mainOverflow": false,
+  "errors": [],
+  "failed": []
+}

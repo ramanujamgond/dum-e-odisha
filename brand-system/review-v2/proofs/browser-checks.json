@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-17T11:19:58.647Z",
+  "browser": "Playwright / installed Google Chrome",
+  "viewports": [
+    1440,
+    390,
+    320
+  ],
+  "desktopOverflow": false,
+  "mobileOverflow": false,
+  "narrowOverflow": false,
+  "reducedMotion": "auto",
+  "comparisonOpened": true,
+  "copyFeedback": "#852D26 copied",
+  "altMissing": 0,
+  "skipFocused": true,
+  "skipDestination": true,
+  "projectHomeTitle": "Dum E Odisha — Project studio",
+  "templateEdited": "Chicken Dum Biryani — Family Sharing Portion",
+  "orderLabelOverflow": {
+    "horizontal": false,
+    "vertical": false
+  },
+  "socialTextOverlap": false,
+  "errors": []
+}

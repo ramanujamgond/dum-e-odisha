@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-17",
+  "status": "exploration_not_adopted",
+  "referenceAnalysis": [
+    {
+      "reference": "references/lettering-reference-01.png",
+      "observations": "The Dinesh example integrates an Indic initial with a compact symbol; Na M... uses different scripts in one hierarchy; Dakshin Delights separates a small emblem from calm display type; Abhay gives the regional initial visual priority.",
+      "use": "Borrow relationships between symbol, script and supporting information. Do not reproduce reference marks or sacred imagery."
+    },
+    {
+      "reference": "references/lettering-reference-02.png",
+      "observations": "The Devanagari interior wordmark uses a continuous headline and a separate emblem; the drapes example layers scripts and languages; Momo Mojo lets rounded lettering and a small food cue carry personality.",
+      "use": "Explore readable script-led names with consistent secondary English text and controlled ornamental detail."
+    }
+  ],
+  "routes": [
+    {
+      "slug": "letter-and-lid",
+      "name": "Letter & lid",
+      "script": "Latin-led",
+      "text": "Dum E Odisha",
+      "direction": "Create a completely original LATIN wordmark: exact 'Dum E' on top and 'Odisha' below, expressive thick rounded brush-sign serif. Integrate one simple tiny lifted lid into the upper curve of capital D as a clever subtle thematic ligature, but do not obscure D. A separate E must be unmistakable. One unbroken simple rice-shaped curl near the letter can suggest aroma. No generic pot clipart above the whole mark. Strong lettering carries identity. Chilli #852D26 with one saffron #E8A535 accent on warm ivory #FFF6E7. It should feel like an excellent independent Indian restaurant logo with optically balanced custom lettering, not a templated serif. Original two-line composition.",
+      "prompt": "Use the two supplied screenshots ONLY to understand the visual principles: bespoke wordmarks, thoughtful Indian-script lettering, restrained integration of symbol with letters, contrast with clear secondary type. Do not copy any supplied brand, glyph composition, deity, elephant or monogram. Generate ONE standalone logo on a flat ivory background, not a collage, not a screenshot, not a mockup. Large artwork centered with ample margins. No extra text except requested name. Crisp flat ink, no gradients, shadows or 3D. This is an exploratory original branding idea for Dum E Odisha. Create a completely original LATIN wordmark: exact 'Dum E' on top and 'Odisha' below, expressive thick rounded brush-sign serif. Integrate one simple tiny lifted lid into the upper curve of capital D as a clever subtle thematic ligature, but do not obscure D. A separate E must be unmistakable. One unbroken simple rice-shaped curl near the letter can suggest aroma. No generic pot clipart above the whole mark. Strong lettering carries identity. Chilli #852D26 with one saffron #E8A535 accent on warm ivory #FFF6E7. It should feel like an excellent independent Indian restaurant logo with optically balanced custom lettering, not a templated serif. Original two-line composition.",
+      "number": 1,
+      "status": "draft",
+      "nativeReview": "Latin lettering visual review"
+    },
+    {
+      "slug": "odia-first",
+      "name": "Odia at heart",
+      "script": "Odia-led",
+      "text": "ଦମ୍ ଏ ଓଡ଼ିଶା",
+      "direction": "Create a completely original ODIA SCRIPT-first restaurant wordmark. Exact Odia text 'ଦମ୍ ଏ' on first line and 'ଓଡ଼ିଶା' below. Retain exact Odia glyphs, including marks, no pseudo-lettering. The loops and round bowls of Odia lettering are the hero, chunky confident lettering with gracious carefully spaced counters. Above: a tiny original two-rice-grain steam symbol; no temple, elephant, deity, sacred geometry or ritual pattern. Add small English exact 'DUM E ODISHA' under the Odia name for bilingual recognition. Deep leaf #354A3A with a terracotta #A34734 accent on ivory #FFF6E7. Refined human signwriting and regional warmth, sturdy enough for a store wall.",
+      "prompt": "Use the two supplied screenshots ONLY to understand the visual principles: bespoke wordmarks, thoughtful Indian-script lettering, restrained integration of symbol with letters, contrast with clear secondary type. Do not copy any supplied brand, glyph composition, deity, elephant or monogram. Generate ONE standalone logo on a flat ivory background, not a collage, not a screenshot, not a mockup. Large artwork centered with ample margins. No extra text except requested name. Crisp flat ink, no gradients, shadows or 3D. This is an exploratory original branding idea for Dum E Odisha. Create a completely original ODIA SCRIPT-first restaurant wordmark. Exact Odia text 'ଦମ୍ ଏ' on first line and 'ଓଡ଼ିଶା' below. Retain exact Odia glyphs, including marks, no pseudo-lettering. The loops and round bowls of Odia lettering are the hero, chunky confident lettering with gracious carefully spaced counters. Above: a tiny original two-rice-grain steam symbol; no temple, elephant, deity, sacred geometry or ritual pattern. Add small English exact 'DUM E ODISHA' under the Odia name for bilingual recognition. Deep leaf #354A3A with a terracotta #A34734 accent on ivory #FFF6E7. Refined human signwriting and regional warmth, sturdy enough for a store wall.",
+      "number": 2,
+      "status": "draft",
+      "nativeReview": "Native-speaker spelling, shaping and cultural review required before adoption"
+    },
+    {
+      "slug": "hindi-signature",
+      "name": "Dum, in Devanagari",
+      "script": "Hindi-led",
+      "text": "दम ए ओडिशा",
+      "direction": "Create a completely original DEVANAGARI/HINDI-first restaurant wordmark. Exact text 'दम ए' on first line and 'ओडिशा' on second. Preserve all letters and matras. Bold confident hand-painted Devanagari signwriting, a graceful headline/shirorekha treatment, a rising steam accent drawn in the clear space ABOVE the headline, never replacing a character or matra. Add small English exact 'DUM E ODISHA' below. Burnt vermilion #A43C2D and mustard #DBA13C on ivory #FFF6E7. Thick beautiful curves, elegant restaurant signage warmth, subtle brush rhythm. Avoid artificial Sanskrit calligraphy, sacred symbols, crowns and generic swashes.",
+      "prompt": "Use the two supplied screenshots ONLY to understand the visual principles: bespoke wordmarks, thoughtful Indian-script lettering, restrained integration of symbol with letters, contrast with clear secondary type. Do not copy any supplied brand, glyph composition, deity, elephant or monogram. Generate ONE standalone logo on a flat ivory background, not a collage, not a screenshot, not a mockup. Large artwork centered with ample margins. No extra text except requested name. Crisp flat ink, no gradients, shadows or 3D. This is an exploratory original branding idea for Dum E Odisha. Create a completely original DEVANAGARI/HINDI-first restaurant wordmark. Exact text 'दम ए' on first line and 'ओडिशा' on second. Preserve all letters and matras. Bold confident hand-painted Devanagari signwriting, a graceful headline/shirorekha treatment, a rising steam accent drawn in the clear space ABOVE the headline, never replacing a character or matra. Add small English exact 'DUM E ODISHA' below. Burnt vermilion #A43C2D and mustard #DBA13C on ivory #FFF6E7. Thick beautiful curves, elegant restaurant signage warmth, subtle brush rhythm. Avoid artificial Sanskrit calligraphy, sacred symbols, crowns and generic swashes.",
+      "number": 3,
+      "status": "draft",
+      "nativeReview": "Native-speaker spelling, shaping and cultural review required before adoption"
+    }
+  ],
+  "scriptDrafts": {
+    "odia": {
+      "text": "ଦମ୍ ଏ ଓଡ଼ିଶା",
+      "language": "or",
+      "status": "proposed_transliteration_not_native_reviewed"
+    },
+    "hindi": {
+      "text": "दम ए ओडिशा",
+      "language": "hi",
+      "status": "proposed_transliteration_not_native_reviewed"
+    }
+  },
+  "invariants": [
+    "Retain Dum E Odisha as the business name",
+    "Keep E a readable separate component",
+    "Never replace a letter, matra or Odia mark with a decorative icon",
+    "Do not claim native validation for generated lettering",
+    "One complete canonical artwork per selected route"
+  ]
+}

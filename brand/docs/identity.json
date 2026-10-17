@@ -1,0 +1,10 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "10",
+  "status": "13 alternative concepts; no final route selected",
+  "tagline": "Flavour in Every Layer.",
+  "concept_manifest": "applications-complete/manifest.json",
+  "previous_identity": "docs/identity-round09.json",
+  "guide": "brand-review.html",
+  "applications": "brand-applications.html"
+}

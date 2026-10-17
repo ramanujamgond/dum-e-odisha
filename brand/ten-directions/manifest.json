@@ -1,0 +1,562 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "08",
+  "status": "Ten concept routes; no final route selected",
+  "tagline": "Flavour in Every Layer.",
+  "routes": [
+    {
+      "n": 1,
+      "slug": "saura-harvest",
+      "name": "Harvest & Hearth",
+      "family": "Saura-inspired",
+      "colors": [
+        "#9D4934",
+        "#F9EAD0",
+        "#C8A04D"
+      ],
+      "idea": "A contemporary secular Odisha Saura-inspired illustration: three elongated fine-limbed abstract human figures in a semi-circle tending a single large dum handi at a hearth; the central standing figure lifts a ladle while two side figures offer slender rice panicles. Expressive spare linework with small round heads, long rectangular tapering bodies, not joined Warli triangles. Rice-white line and solid shapes on terracotta red, small harvest ochre accent. The collective cooking gesture itself forms a balanced compact open round emblem; no ring border, no sacred diagram, no deity or ritual symbols. It should evoke a living narrative mural, drawn with purposeful rhythmic lines, not stock village clipart. The handi is recognisable, people smaller. Hero symbol 65% of composition.",
+      "grammar": "Fine-line cooking and gathering figures, rice stalks and generous blank space; an original secular meal narrative.",
+      "meaning": "A small community tends one handi: the harvest becomes a meal shared.",
+      "title": "Harvest & Hearth",
+      "theme": "Saura-inspired",
+      "detail": "Rice-white narrative figures and a communal hearth",
+      "type": "Light sans-serif capitals; plain sans-serif for menu details.",
+      "small": "The scene has fine limbs and grain details: reserve it for larger labels and prepare a simplified small symbol after selection.",
+      "source": "https://sidac.odisha.gov.in/en/crafts-of-odisha",
+      "source_name": "SIDAC \u2014 Saura painting",
+      "boundary": "An original contemporary Saura-inspired cooking scene, not an authenticated Idital or a reproduced ritual composition.",
+      "origin": "New in revision 08",
+      "group": "tradition",
+      "palette": [
+        [
+          "Clay",
+          "#9D4934",
+          "Primary clay field"
+        ],
+        [
+          "Rice white",
+          "#F9EAD0",
+          "Figures, pot outline and lettering"
+        ],
+        [
+          "Seed ochre",
+          "#C8A04D",
+          "Rice, food and hearth accents"
+        ]
+      ]
+    },
+    {
+      "n": 2,
+      "slug": "patta-aroma",
+      "name": "The Painted Handi",
+      "family": "Pattachitra-inspired",
+      "colors": [
+        "#174C50",
+        "#B83B2E",
+        "#E2B356",
+        "#FFF3DB"
+      ],
+      "idea": "Pattachitra-inspired ORIGINAL secular food illustration in Odisha's graphic painting vocabulary: a substantial rounded handi decorated with one large curved rice-panicle motif, a stylised red bird perched on each side-handle facing inward toward an elegant rising aroma tree. Bold dark outlines, deliberate fine cream hatching only inside large shapes, one short ornamental floral footer integrated into pot base. Deep peacock teal #174C50 primary, vermilion #B83B2E birds, ochre #E2B356 small accents on cream #FFF3DB. Hero symbol deliberately crafted narrative illustration, not a plain clipart cooking pot; broader silhouette with expressive curved line. No deity, no sacred eyes, no temple, no reproduction of historical panel. No external ornate frame. Limited illustrative detail suitable large packaging. Symbol 65% of square.",
+      "grammar": "Bold contours, shallow decorative bands, paired birds and rice foliage; place elaborate storytelling on larger surfaces.",
+      "meaning": "Birds and a flourishing rice motif surround the handi, linking abundance with an aromatic meal.",
+      "title": "The Painted Handi",
+      "theme": "Pattachitra-inspired",
+      "detail": "Contour, paired birds and painted rice foliage",
+      "type": "Warm serif capitals, supported by a clear sans-serif.",
+      "small": "Keep contour and the rice-panicle motif at readable sizes; move finer decoration to larger packaging panels.",
+      "source": "https://odisha.gov.in/en/odisha-tourism/patta-chitra",
+      "source_name": "Government of Odisha \u2014 Patta Chitra",
+      "boundary": "A secular contemporary illustration inspired by Pattachitra\u2019s contour and narrative character; no traditional artist authorship is claimed.",
+      "origin": "New in revision 08",
+      "group": "tradition",
+      "palette": [
+        [
+          "Peacock teal",
+          "#174C50",
+          "Pot, foliage and lettering"
+        ],
+        [
+          "Vermilion",
+          "#B83B2E",
+          "Paired birds and narrative accents"
+        ],
+        [
+          "Harvest gold",
+          "#E2B356",
+          "Grain and small ornamental accents"
+        ],
+        [
+          "Parchment",
+          "#FFF3DB",
+          "Main paper field"
+        ]
+      ]
+    },
+    {
+      "n": 3,
+      "slug": "pipili-feast",
+      "name": "The Patchwork Feast",
+      "family": "Pipili appliqu\u00e9-inspired",
+      "colors": [
+        "#26274E",
+        "#C53847",
+        "#EAAF32",
+        "#F8EBD6"
+      ],
+      "idea": "Original logo inspired by Pipili applique's bold cut-cloth shapes, translated into clean flat restaurant graphics. Hero symbol: a delightfully geometric round HANDI assembled from interlocking crimson and golden yellow fabric-cut shapes, with a scalloped indigo lid and three large rising rice-grain shapes. Clever negative space in the lower pot suggests two inward welcoming palms. Strong asymmetry in colour yet balanced silhouette, broad chunky contours and one short dashed seam detail at the pot rim only; the logo should feel pieced together like applique, not shaded cloth realism. Indigo #26274E, crimson #C53847, marigold #EAAF32 on pale cream #F8EBD6. The pot is obvious and celebratory. No umbrella, no elephant, no temples, no religious icon, no literal textile photo. Symbol 65% of square. No dense ornamental border. Distinctive contemporary translation of traditional cutout language.",
+      "grammar": "Large cutout panels, scalloped edges and sparse seam-like marks; cheerful blocks rather than intricate pattern.",
+      "meaning": "Different pieces form one generous vessel, echoing different flavours coming together.",
+      "title": "The Patchwork Feast",
+      "theme": "Pipili appliqu\u00e9-inspired",
+      "detail": "Interlocking cutout shapes and festive colour",
+      "type": "Bold rounded capitals and a simple sans-serif for practical copy.",
+      "small": "Keep the large colour patches intact. Seam marks are supporting detail and can be omitted from a simplified production master.",
+      "source": "https://odishatourism.gov.in/en/places/pipili",
+      "source_name": "Odisha Tourism \u2014 Pipili",
+      "boundary": "Digitally generated flat artwork inspired by appliqu\u00e9\u2019s assembly of coloured pieces; not a hand-stitched textile.",
+      "origin": "New in revision 08",
+      "group": "tradition",
+      "palette": [
+        [
+          "Night indigo",
+          "#26274E",
+          "Lid and primary lettering"
+        ],
+        [
+          "Crimson",
+          "#C53847",
+          "Pot outlines, patches and ODISHA line"
+        ],
+        [
+          "Marigold",
+          "#EAAF32",
+          "Contrasting patchwork fills"
+        ],
+        [
+          "Cloth cream",
+          "#F8EBD6",
+          "Background and hand cutouts"
+        ]
+      ]
+    },
+    {
+      "n": 4,
+      "slug": "jhoti-rice",
+      "name": "The Rice Welcome",
+      "family": "Jhoti Chita-inspired",
+      "colors": [
+        "#6D2D3F",
+        "#FFF3DD",
+        "#C39451"
+      ],
+      "idea": "Original Jhoti Chita rice-paste-line-inspired secular biryani logo. Elegant cream-white hand-drawn continuous line artwork on deep mulberry #6D2D3F. Centre is a low wide dum HANDI outlined in two confident flowing lines; above lid, three graceful rice panicles curve outward like a welcoming canopy, one modest ochre #C39451 grain cluster as accent. The rice stalks and pot must combine into one recognisable distinctive symbol. Tiny groups of three rice-paste dots at two pot shoulders only. Airy symmetric folk linework, rounded line endings, not generic mandala, no lotus, no goddess footprints, no ritual diagram, no religious icons, no intricate frame. Pot large and low, panicles elegant. Flat colour, no texture, no chalk photograph. Hero symbol 65% of canvas. Beautiful contrast, sophisticated and warm.",
+      "grammar": "Flowing pale rice-paste-like lines, grain sprigs and sparse dot clusters on a rich solid field.",
+      "meaning": "Rice becomes both the meal and a gesture of welcome around the cooking vessel.",
+      "title": "The Rice Welcome",
+      "theme": "Jhoti Chita-inspired",
+      "detail": "Rice-paste-like linework and paddy sprigs",
+      "type": "Soft, open capitals, with a restrained sans-serif information hierarchy.",
+      "small": "Protect the pale linework with a plain dark field; a small solid alternative needs separate preparation.",
+      "source": "https://odisha.gov.in/en/odisha-tourism/jhoti-chita-muruja",
+      "source_name": "Government of Odisha \u2014 Jhoti, Chita, Muruja",
+      "boundary": "An original rice-line illustration inspired by Jhoti Chita; it does not reproduce a household worship arrangement.",
+      "origin": "New in revision 08",
+      "group": "tradition",
+      "palette": [
+        [
+          "Mulberry",
+          "#6D2D3F",
+          "Primary background field"
+        ],
+        [
+          "Rice white",
+          "#FFF3DD",
+          "Pot, paddy linework and lettering"
+        ],
+        [
+          "Earth gold",
+          "#C39451",
+          "Small grain accents"
+        ]
+      ]
+    },
+    {
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "theme": "Odisha community \u00b7 contemporary folk-inspired",
+      "meaning": "Two people cradle one handi. Their curved arms embrace the vessel; rising rice turns the shared meal into the centre of the symbol.",
+      "promise": "A generous meal, made to share.",
+      "personality": "Grounded, generous, sociable.",
+      "palette": [
+        [
+          "Earth red",
+          "#A23D32",
+          "Pot and warm primary identity"
+        ],
+        [
+          "Forest",
+          "#254C3B",
+          "People, lettering and information"
+        ],
+        [
+          "Ochre",
+          "#D6A64D",
+          "Rice and small accents"
+        ],
+        [
+          "Ivory",
+          "#FFF7E8",
+          "Main background"
+        ]
+      ],
+      "grammar": "Use spare human gestures, rice plants and vessels to show preparing and sharing a meal. Keep a simple horizontal storytelling band on packaging; leave the main logo uncluttered.",
+      "boundary": "A contemporary folk-inspired proposal. It is not labelled authentic Saura, Warli or an artisan-made identity. The stock reference is inspiration only and has not been reproduced.",
+      "type": "Sturdy, approachable sans lettering; a plain sans-serif for dish information.",
+      "use": "Strongest route for a local, warm identity with scope for illustrated walls, bags and menus.",
+      "source": "https://kruticoffee.com/pages/about-us",
+      "source_name": "Kruti Coffee \u2014 official story",
+      "n": 5,
+      "name": "The Shared Handi",
+      "family": "Odisha community \u00b7 contemporary folk-inspired",
+      "idea": "Two people cradle one handi. Their curved arms embrace the vessel; rising rice turns the shared meal into the centre of the symbol.",
+      "detail": "Odisha community \u00b7 contemporary folk-inspired",
+      "small": "Keep the main gesture clear. Fine details and tagline need actual-size testing; prepare a simplified small-format master after selection.",
+      "origin": "Developed in revision 07; retained in this collection",
+      "group": "tradition"
+    },
+    {
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "theme": "Mughal botanical-inspired \u00b7 aroma & abundance",
+      "meaning": "A handi grows into a balanced flowering garden. The pot identifies cooking; the rising grains and botanical rhythm suggest layers of aroma.",
+      "promise": "Aromatic layers, generously served.",
+      "personality": "Expressive, composed, abundant.",
+      "palette": [
+        [
+          "Aubergine",
+          "#4D2445",
+          "Pot, typography and anchor colour"
+        ],
+        [
+          "Coral",
+          "#CE6B4F",
+          "Floral accent"
+        ],
+        [
+          "Ochre",
+          "#D3A749",
+          "Rice and leaf accents"
+        ],
+        [
+          "Ivory",
+          "#FFF6E7",
+          "Main background"
+        ]
+      ],
+      "grammar": "Extend the logo\u2019s flower-and-leaf forms into generous botanical borders and large cropped panels. Use a quiet label field so floral detail never competes with dish names.",
+      "boundary": "Mughal botanical painting is courtly art, rather than a tribal style. This is a modern interpretation of its floral rhythm, with no royal-recipe or historical-lineage claim.",
+      "type": "Softly flared display capitals with a simple sans-serif for menus and order information.",
+      "use": "Best for a richly illustrated packaging world with a more composed restaurant feel.",
+      "source": "https://www.metmuseum.org/art/collection/search/838376",
+      "source_name": "The Met \u2014 Mughal composite flower",
+      "n": 6,
+      "name": "The Dum Garden",
+      "family": "Mughal botanical-inspired \u00b7 aroma & abundance",
+      "idea": "A handi grows into a balanced flowering garden. The pot identifies cooking; the rising grains and botanical rhythm suggest layers of aroma.",
+      "detail": "Mughal botanical-inspired \u00b7 aroma & abundance",
+      "small": "Keep the main gesture clear. Fine details and tagline need actual-size testing; prepare a simplified small-format master after selection.",
+      "origin": "Developed in revision 07; retained in this collection",
+      "group": "tradition"
+    },
+    {
+      "n": 7,
+      "slug": "flat-layer",
+      "name": "The Layered Sun",
+      "family": "Modern flat illustration",
+      "colors": [
+        "#C54D2D",
+        "#1E6761",
+        "#F2BD51",
+        "#FFF7E6"
+      ],
+      "idea": "Original bold modern flat illustrative food logo with a clever large central symbol: a broad open terracotta handi filled with three sweeping stacked rice layers, the layers transition upward into a warm saffron half-sun with three rice-grain rays. Two dark teal rounded handles visually form welcoming arms. Chunky graphic geometry, joyful asymmetrical rice layer shapes, memorable simple silhouette. Terracotta #C54D2D, teal #1E6761, saffron #F2BD51, cream #FFF7E6. Premium contemporary Indian takeaway identity, illustration rather than wordmark, no chef, no foliage, no ornate border, no tribal pattern, no stock clipart. Symbol 65% of artwork. Large simple flat shapes with clear purposeful negative space.",
+      "grammar": "Broad curved colour fields, three layer rhythms and occasional rice rays; clean generous layouts.",
+      "meaning": "Layers of rice rise toward a warm sun: generous flavour and a freshly served meal.",
+      "title": "The Layered Sun",
+      "theme": "Modern flat illustration",
+      "detail": "Broad layers, rice rays and curved fields",
+      "type": "Sturdy geometric sans-serif capitals; simple sans-serif information copy.",
+      "small": "Keep the three layers and upper sun legible. Avoid adding extra rays or decorative strokes.",
+      "source": "research/ten-directions-research.md",
+      "source_name": "Design synthesis and research",
+      "boundary": "A contemporary flat illustration with no traditional-art attribution.",
+      "origin": "New in revision 08",
+      "group": "modern",
+      "palette": [
+        [
+          "Paprika",
+          "#C54D2D",
+          "Pot silhouette"
+        ],
+        [
+          "Sea teal",
+          "#1E6761",
+          "Handles and lettering"
+        ],
+        [
+          "Sun yellow",
+          "#F2BD51",
+          "Layered sun and rice rays"
+        ],
+        [
+          "Warm cream",
+          "#FFF7E6",
+          "Main neutral layout field"
+        ]
+      ]
+    },
+    {
+      "n": 8,
+      "slug": "negative-aroma",
+      "name": "The Hidden Handi",
+      "family": "Negative-space symbol",
+      "colors": [
+        "#20483C",
+        "#E0B451",
+        "#FFF8E9"
+      ],
+      "idea": "Original extremely clever negative-space logo for biryani restaurant. A single compact dark forest-green #20483C illustrated emblem shaped like a rounded aromatic leaf/paisley. Within it, cream #FFF8E9 negative space unmistakably reveals a lidded HANDI POT in the lower half, its lid knob becoming the start of one rising curling aroma in the upper half. A single warm ochre #E0B451 rice grain floats at the tip. Design two ideas in one shape: ingredient leaf and steaming cooking vessel. Full symbol must be recognisable and calm, visually clever but easy. Thick consistent masses, broad open counters, no tiny disconnected shapes, no letter monogram, no chef, no ornamental frame. Hero symbol 65% canvas. Modern identity studio craft, not a random abstract blob, show pot silhouette clearly. Flat 2 ink colours on cream ground.",
+      "grammar": "Large dark silhouettes, pale cutouts and one grain accent; reserve pattern for separate panels.",
+      "meaning": "A leaf hides a steaming handi, joining ingredients and dum cooking in a single symbol.",
+      "title": "The Hidden Handi",
+      "theme": "Negative-space symbol",
+      "detail": "One strong silhouette and one readable cutout",
+      "type": "Quiet sans-serif capitals so the symbol carries the visual surprise.",
+      "small": "Never fill the pale pot-and-steam cutout. Test at actual size before commissioning a small-format master.",
+      "source": "research/ten-directions-research.md",
+      "source_name": "Design synthesis and research",
+      "boundary": "A contemporary negative-space exploration: its meaning is an original design proposal, not a historical symbol.",
+      "origin": "New in revision 08",
+      "group": "modern",
+      "palette": [
+        [
+          "Forest",
+          "#20483C",
+          "Leaf-like silhouette and lettering"
+        ],
+        [
+          "Grain gold",
+          "#E0B451",
+          "Single grain accent"
+        ],
+        [
+          "Rice cream",
+          "#FFF8E9",
+          "Negative-space pot and background"
+        ]
+      ]
+    },
+    {
+      "n": 9,
+      "slug": "golden-aroma",
+      "name": "The Spiral of Dum",
+      "family": "Golden-ratio-inspired geometry",
+      "colors": [
+        "#283D62",
+        "#CF9457",
+        "#FAF2E5"
+      ],
+      "idea": "Original geometric illustrative logo inspired by golden-ratio circle proportions (visual concept only, not a technical construction diagram). Hero emblem: one thick deep blue #283D62 spiral of rising aroma curls gracefully out of a wide copper #CF9457 rounded dum pot, using related circular arcs that feel naturally proportioned. The upper spiral encloses one small cream rice-grain-shaped counter; lower pot is a single confident copper bowl with a deep blue rim. Compact vertical emblem with balanced ratio of small upper curl to large bowl, excellent negative space. Restrained sophisticated geometric construction, warm food personality, not generic corporate swirl, no actual Fibonacci overlay, no measurements, no mathematical numbers, no golden foil, no metallic texture. Cream #FAF2E5 background. Symbol 65% of canvas, strong memorable silhouette. Exact golden ratio is not claimed; beautiful proportional relationship is the goal.",
+      "grammar": "Related circular arcs, rounded fields and repeated curved bands; restrained geometry without decorative grid overlays.",
+      "meaning": "A flowing aroma spiral emerges from a rounded handi, suggesting the unfolding layers of dum cooking.",
+      "title": "The Spiral of Dum",
+      "theme": "Golden-ratio-inspired geometry",
+      "detail": "Related circular arcs and an aroma spiral",
+      "type": "Restrained rounded capitals; functional sans-serif supporting copy.",
+      "small": "Keep the spiral open. Do not add a decorative Fibonacci grid as proof of construction.",
+      "source": "research/ten-directions-research.md",
+      "source_name": "Geometry note and research",
+      "boundary": "Golden-ratio-inspired geometric study. Exact \u03c6 proportions are not verified in the generated raster; a measured vector construction is needed for an exact claim.",
+      "origin": "New in revision 08",
+      "group": "modern",
+      "palette": [
+        [
+          "Deep blue",
+          "#283D62",
+          "Spiral, rim and lettering"
+        ],
+        [
+          "Copper",
+          "#CF9457",
+          "Warm pot silhouette"
+        ],
+        [
+          "Warm ivory",
+          "#FAF2E5",
+          "Background and open counters"
+        ]
+      ]
+    },
+    {
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "theme": "Modern illustrative mascot \u00b7 care & aroma",
+      "meaning": "A cook holds a handi close, with the face and aroma shaped through negative space. The gesture communicates care and anticipation of the meal.",
+      "promise": "Good food, warmly served.",
+      "personality": "Personable, confident, welcoming.",
+      "palette": [
+        [
+          "Indigo",
+          "#293C5A",
+          "Host silhouette and primary type"
+        ],
+        [
+          "Saffron",
+          "#D99C38",
+          "Pot, rice and warm accents"
+        ],
+        [
+          "Cream",
+          "#FFF7E8",
+          "Negative space and main background"
+        ]
+      ],
+      "grammar": "Use the host as a recognisable recurring character on labels and social posts. Supporting illustrations can show serving and sharing; keep the face, pot and main pose consistent.",
+      "boundary": "An original illustrated host. The supplied chef references informed negative-space simplicity; their specific silhouettes, moustaches and hats are not the identity.",
+      "type": "Rounded sans lettering with a clear functional sans-serif for menu copy.",
+      "use": "Best for immediate food-service recognition and a compact, friendly symbol.",
+      "source": "research/illustrative-directions-research.md",
+      "source_name": "Research and reference interpretation",
+      "n": 10,
+      "name": "The Dum Keeper",
+      "family": "Modern illustrative mascot \u00b7 care & aroma",
+      "idea": "A cook holds a handi close, with the face and aroma shaped through negative space. The gesture communicates care and anticipation of the meal.",
+      "detail": "Modern illustrative mascot \u00b7 care & aroma",
+      "small": "Keep the main gesture clear. Fine details and tagline need actual-size testing; prepare a simplified small-format master after selection.",
+      "origin": "Developed in revision 07; retained in this collection",
+      "group": "modern"
+    }
+  ],
+  "files": [
+    {
+      "file": "saura-harvest-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "saura-harvest-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "patta-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "patta-aroma-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "pipili-feast-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "pipili-feast-mockup.jpg",
+      "width": 2528,
+      "height": 1696,
+      "format": "JPEG"
+    },
+    {
+      "file": "jhoti-rice-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "jhoti-rice-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "flat-layer-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "flat-layer-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "negative-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "negative-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "golden-aroma-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "golden-aroma-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    }
+  ]
+}

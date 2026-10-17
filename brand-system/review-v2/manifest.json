@@ -1,0 +1,1478 @@
+{
+  "brand": "Dum E Odisha",
+  "version": "review-02",
+  "status": "owner_review_pending",
+  "date": "2026-10-17",
+  "files": [
+    {
+      "path": "applications/order-label.html",
+      "bytes": 166095,
+      "sha256": "45d8af8188728697daa79ab5d8cf8412fba6b3c0dc9c0c31223f2423ffae7353"
+    },
+    {
+      "path": "applications/social-portrait.html",
+      "bytes": 3662373,
+      "sha256": "df702f7822b5969fd1d24da72ade2dd945c042cce6b3ad1f626fa62bb4873e0d"
+    },
+    {
+      "path": "assets/documents.css",
+      "bytes": 5446,
+      "sha256": "e0a31c52d32c0f9a0d3a23dc9297d47951c7cbaf399d39f9023988405754653f"
+    },
+    {
+      "path": "assets/guide.css",
+      "bytes": 9206,
+      "sha256": "1fb2dc828b9c03d595243389ec23006aa781577730d024e31c3b94db054f46c3"
+    },
+    {
+      "path": "assets/guide.js",
+      "bytes": 509,
+      "sha256": "087267d48b66f83f7fe11e610a470749fb99267ab40769b4b10e7e00f0549a13"
+    },
+    {
+      "path": "assets/illustration/lifted-lid.png",
+      "bytes": 2622678,
+      "sha256": "e35082e82437ec2b670734f4eb29c03113846d9f3c3642898f86383e84e9d398"
+    },
+    {
+      "path": "assets/illustration/lifted-lid.webp",
+      "bytes": 291400,
+      "sha256": "5b46c63c5eddc9812c02b1969028e140b163ddb5e831acb884f4e930f42bf39f"
+    },
+    {
+      "path": "assets/illustration/packaging-concept.png",
+      "bytes": 2641250,
+      "sha256": "11f589611abe00011d59595a4a5411ca8471699accc7f02061b201edaf6fbd4c"
+    },
+    {
+      "path": "assets/illustration/packaging-concept.webp",
+      "bytes": 181426,
+      "sha256": "0b69e8be4006cd745c584c9ad7690068bb9c477bea01f412d581fd023e4483fe"
+    },
+    {
+      "path": "assets/illustration/packaging-concept_thumb.jpeg",
+      "bytes": 8820,
+      "sha256": "fa7cdf5fc89edc7f39781f7ac126bd5770750ec91663d2afc8e96fae758947dd"
+    },
+    {
+      "path": "assets/logo/avatar.png",
+      "bytes": 34308,
+      "sha256": "ffed7927969fb7514fb52c033b62f4d47e7d69b00246cc3b4e229a1625a22fcb"
+    },
+    {
+      "path": "assets/logo/favicon.png",
+      "bytes": 1786,
+      "sha256": "28629bfe7a6846b84a97ef278d89b2996cecd0f7f0b799dcd14df53e93b7d540"
+    },
+    {
+      "path": "assets/logo/mono.png",
+      "bytes": 120502,
+      "sha256": "9a17c9e9199e1d332cb932d5ba46df011f1f5a9cbc9820ee5392315a6e89d507"
+    },
+    {
+      "path": "assets/logo/primary-source.png",
+      "bytes": 1651165,
+      "sha256": "071960c3bd916da8827ef384eaceae9c76ebd34238265c696a47f2ff252d997c"
+    },
+    {
+      "path": "assets/logo/primary-source_thumb.jpeg",
+      "bytes": 10502,
+      "sha256": "664bc73fca5a0ff569284b54907a597874e681adfddd9ff4f4d76c159c604017"
+    },
+    {
+      "path": "assets/logo/primary.png",
+      "bytes": 120810,
+      "sha256": "b83f9f16f84295bbbc01c930554ba44ce55bffb59dfc05fc017a434056ceab87"
+    },
+    {
+      "path": "assets/logo/reversed.png",
+      "bytes": 120419,
+      "sha256": "a673986775bb97d85291c20500947745f44e8535aabeb34b169cdba5bb367adb"
+    },
+    {
+      "path": "assets/tokens.css",
+      "bytes": 232,
+      "sha256": "766ce77c16e5228321d76269afebc8ab626d39a731cad4b879638d2b3367d40e"
+    },
+    {
+      "path": "data/business-profile.json",
+      "bytes": 2463,
+      "sha256": "22c70d93bce39918b55233563d64fcecea75995923068c131a0cd732db5a0b61"
+    },
+    {
+      "path": "data/business-research.json",
+      "bytes": 8359,
+      "sha256": "de4236aadb0cd80098cef773271fc175a8c13e286e8eac518525190857843fa6"
+    },
+    {
+      "path": "data/instagram-access.json",
+      "bytes": 1851,
+      "sha256": "37117f792c30a81138b781e3c9b981db1cd5f615499b8755088cfa7b9f9fef5d"
+    },
+    {
+      "path": "docs/application-kit.html",
+      "bytes": 4742,
+      "sha256": "433ffc7f0f77607be77910a0fbaaddc6ade7d406b69dd157c5eda47d20c5a944"
+    },
+    {
+      "path": "docs/application-kit.md",
+      "bytes": 2085,
+      "sha256": "e31ce35f37f71b2e02275e37a12f57aa40afb81c38bc63a93c8450e9efb9ed47"
+    },
+    {
+      "path": "docs/brand-guidelines.html",
+      "bytes": 5160,
+      "sha256": "c95c55ac0d588a8c2dac1bff83df2bf8f1e21cd848bca27a835d10aed8491a91"
+    },
+    {
+      "path": "docs/brand-guidelines.md",
+      "bytes": 2728,
+      "sha256": "1d009176bd2b538102321591067eeec7e2777e8da5ca248e3ed5bf766477addf"
+    },
+    {
+      "path": "docs/brief.html",
+      "bytes": 3885,
+      "sha256": "d7569c23b90eaf2a8bfb026d0163f12349846cad4ca66e26ca23bc983c87fed9"
+    },
+    {
+      "path": "docs/brief.md",
+      "bytes": 1581,
+      "sha256": "be299dc1a667d4b5811152b6fd7ebdd0cad1cd15a97046d3ae4b7f3266364b4d"
+    },
+    {
+      "path": "docs/creative-territories.html",
+      "bytes": 5244,
+      "sha256": "aa6f60a9e1f8a791d2906fc30b72a1655467347ead144652b94e1ede869e7be2"
+    },
+    {
+      "path": "docs/creative-territories.md",
+      "bytes": 2373,
+      "sha256": "7201df24915bca50ff765c9c5474ac079052b50effcb819b1152379d31399d1a"
+    },
+    {
+      "path": "docs/decision-log.html",
+      "bytes": 8037,
+      "sha256": "470eb1163ddd5e78844f0dad36d1817d7356aafbdef58bda3778efbb45840caf"
+    },
+    {
+      "path": "docs/decision-log.md",
+      "bytes": 4549,
+      "sha256": "aa5eb4af19d9d79df4e917b42aaf8694bd6070ca589cb2e95550f3e70ce90022"
+    },
+    {
+      "path": "docs/evidence-ledger.html",
+      "bytes": 5708,
+      "sha256": "4aebe47a6b6bd58d9057edcf460ab0826bf4b112dcf2daf7e1c7e345a467c71e"
+    },
+    {
+      "path": "docs/evidence-ledger.md",
+      "bytes": 2701,
+      "sha256": "24ca21879e3e7f6219064e3b27bbfa2766aaca4ff58d67554bade1014e51deef"
+    },
+    {
+      "path": "docs/handover-manifest.html",
+      "bytes": 9625,
+      "sha256": "52f1d90edabe78aad60a03e83585c43fa63161c39a53976cf97bf074b16aefe8"
+    },
+    {
+      "path": "docs/handover-manifest.md",
+      "bytes": 6313,
+      "sha256": "e2a5c7f198bf557da2e2c087a5bad7b30f36873d6e7630eb0c2adf054f697c83"
+    },
+    {
+      "path": "docs/imagery-brief.html",
+      "bytes": 5532,
+      "sha256": "10808357b6aec50e8e3358a0405fd60a2c5de00e7b627e801cfc6d587153f3bb"
+    },
+    {
+      "path": "docs/imagery-brief.md",
+      "bytes": 2824,
+      "sha256": "2cd5183dc4317c824c452b3833519bb362b181150efec5c34878a17770d480d7"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 4933,
+      "sha256": "8696e657db2c94da24d8e3f9bec7db1ebeb0979f41fd90177b3d3187a8c8365f"
+    },
+    {
+      "path": "docs/localization-kit.html",
+      "bytes": 9611,
+      "sha256": "ae41033e72e152ac11f6b38d54418543d6abd5c71fe7c6868e5032f7f2d59c9a"
+    },
+    {
+      "path": "docs/localization-kit.md",
+      "bytes": 5798,
+      "sha256": "96d97052a90f6ac2b3b755accaf2a5b19931a1cb2551212bb46aa152fb04f5b0"
+    },
+    {
+      "path": "docs/logo-system.html",
+      "bytes": 6808,
+      "sha256": "5fd4a1180b8b62e481929a483275e88ecb64bb4993a525b40621f6d7360df414"
+    },
+    {
+      "path": "docs/logo-system.md",
+      "bytes": 4016,
+      "sha256": "293602c2a7478fee0761dbd70d4016ae38fe60b95796aec200730c4e5c3f8a43"
+    },
+    {
+      "path": "docs/packaging-spec.html",
+      "bytes": 3885,
+      "sha256": "ab788d0dbcbb61e486c5e308888fce9d6a0b8e3f9ea89ff1e9c51d7880ff2bcc"
+    },
+    {
+      "path": "docs/packaging-spec.md",
+      "bytes": 1557,
+      "sha256": "bd488e8eb50d26345e27f664561d6573049a9d499cc4127834701fefa4830bc5"
+    },
+    {
+      "path": "docs/project-context.html",
+      "bytes": 10780,
+      "sha256": "0320bbc57d5ff5b5e6c3bc0e9295068fe0780c857425717ff54205e81e90e969"
+    },
+    {
+      "path": "docs/project-context.md",
+      "bytes": 6773,
+      "sha256": "1a2bf2013023b5f405b7a2ccf850398fd1021c48be4006969572c6d4542da4fe"
+    },
+    {
+      "path": "docs/project-overview.html",
+      "bytes": 8775,
+      "sha256": "3f1d028142716a12a4c638a96fb8499c3c8d3de10296369ab590efd1e582e4b4"
+    },
+    {
+      "path": "docs/public-research.html",
+      "bytes": 12695,
+      "sha256": "f2265e2309e6d8ca6057424157f1f5f21b28abb00573dc21364364f1e3ea5453"
+    },
+    {
+      "path": "docs/public-research.md",
+      "bytes": 8367,
+      "sha256": "13efbfe37edc1f3d345306aecd0ad65a13d92fb0854c68160b9ef42009d5eb52"
+    },
+    {
+      "path": "docs/strategy.html",
+      "bytes": 4578,
+      "sha256": "4cb949ac5da81bdba0d5505fe02dfdb5511bb093b381251452b053b13d6e6ae5"
+    },
+    {
+      "path": "docs/strategy.md",
+      "bytes": 2235,
+      "sha256": "dfc3ca15d771649d33897978a6ec3f8e271e349f24982c3822ed03d7e1a1e89a"
+    },
+    {
+      "path": "docs/validation-report.html",
+      "bytes": 12495,
+      "sha256": "d386f33504b38c7f235adf01652b0fe674888e829fde84cc975f01c85dbe1e40"
+    },
+    {
+      "path": "docs/validation-report.md",
+      "bytes": 8965,
+      "sha256": "a13f6972e44058d29714a24b87e4a6638af0d495b3200540299e2707f27b4562"
+    },
+    {
+      "path": "docs/verbal-system.html",
+      "bytes": 3870,
+      "sha256": "ac90f997161bb070d249bf5a7405d7b951503669f6f574544c908e1f2e1ddd5a"
+    },
+    {
+      "path": "docs/verbal-system.md",
+      "bytes": 1530,
+      "sha256": "a9520e82ce81a7675900da089423ed47383bb927bb5901edbb9f0cbd94ff171e"
+    },
+    {
+      "path": "docs/visual-system.html",
+      "bytes": 4787,
+      "sha256": "a889f059f215be5dece038a8a767113ad7b0a3fe06ec217636f1a3f48373f49c"
+    },
+    {
+      "path": "docs/visual-system.md",
+      "bytes": 2108,
+      "sha256": "2f1afdc6345551946927e96794135c44bf7b2c6045d62305e4230a4e0c8bc0c4"
+    },
+    {
+      "path": "explorations/assets/current-banner.png",
+      "bytes": 644186,
+      "sha256": "afa955eb4a079eeea9f80fd17dbbd13170783cbb50939bd9750eb4a60f9ddd18"
+    },
+    {
+      "path": "explorations/assets/current-standee.png",
+      "bytes": 768710,
+      "sha256": "f06f997a183df501f9a1d5e28c8e23bf978ca2453fc6904d35e00d814aaa62d8"
+    },
+    {
+      "path": "explorations/assets/current-tv.png",
+      "bytes": 1122859,
+      "sha256": "1a0f032ecabc4046abe3d5b1e8c4b2db718fd46510f65175d7e276df86d9264b"
+    },
+    {
+      "path": "explorations/assets/current-wall.png",
+      "bytes": 2339367,
+      "sha256": "8ef7a7c149846f0607c4d431fdd601354a1fa03cb4c9eac1485600bb630138b6"
+    },
+    {
+      "path": "explorations/assets/current-wall.webp",
+      "bytes": 285128,
+      "sha256": "381459ec125ae360cf73cd26462d84128d078e9986a7c27892d858ec1606c37d"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-banner.png",
+      "bytes": 724228,
+      "sha256": "b25dbc223fec5e18809e4d62344fc0e375a71b582d5e80321e89160945b0183c"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-logo-preview.webp",
+      "bytes": 68946,
+      "sha256": "3280002c546d21ada1785f83838a52a2a6311bf34c59b2399c93babcf3631913"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-logo.png",
+      "bytes": 1331815,
+      "sha256": "921063b3527e1dc51f6f76870ea0ff823199beb780dcb8ce76a4ce937228ee78"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-logo_thumb.jpeg",
+      "bytes": 9775,
+      "sha256": "7ec6c51ddd1b0fc8c96ada1bb04d9188c9d09bf08241e96e96f243855381fd2a"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-standee.png",
+      "bytes": 856946,
+      "sha256": "397f7ff1b27a4474f1a88af2a1e501e795368526d52db5c03fed76a6b1c9ba3e"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-tv.png",
+      "bytes": 1172204,
+      "sha256": "6970da4929cb5eb836af12b6c1d75e2536435939ab31d999673e5ba75b3fb440"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-wall.png",
+      "bytes": 657730,
+      "sha256": "2be9ec58e20d6100657234473bc80524b87a168dd91a7374def99e386ec25a8b"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-wall.webp",
+      "bytes": 109752,
+      "sha256": "12c37678f4b7cafc814bcbc695763e19c6a3e570b85a9538eb568a382bdf907b"
+    },
+    {
+      "path": "explorations/assets/hindi-signature-wall_thumb.jpeg",
+      "bytes": 9156,
+      "sha256": "4edab7bf717aa69234c65532d799d1e552948a0b808e102afbf895a764c98e7d"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-banner.png",
+      "bytes": 699910,
+      "sha256": "a4639eb694384a30fc1833b89184135ad571a5943080a811c17db9e4f683d83b"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-logo-preview.webp",
+      "bytes": 58690,
+      "sha256": "da48a1da3610e418bfcca05ae3d97aed5ba96d6b830d594f9e5b98d67be62912"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-logo.png",
+      "bytes": 1330389,
+      "sha256": "7549dfb8fa42b513f0c810bd4d76e064e35908cbb39992772f3f0546a20b2117"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-logo_thumb.jpeg",
+      "bytes": 8133,
+      "sha256": "ed6ffd2fe30f4e1b56e49c210ef807ec7bc41b4b1f10a1637fec5786b86766e7"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-standee.png",
+      "bytes": 880111,
+      "sha256": "2c7dac13a36dfbb350a48b22b6cb7d5c444f498d75ad1e602e1f36e03123caa6"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-tv.png",
+      "bytes": 1176533,
+      "sha256": "d41cb5cd1717d24306830fce04c1cfda4682ecbd3ea4c4ed053006a00f16f9cf"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-wall.png",
+      "bytes": 734771,
+      "sha256": "d271fffde1fba6795f46798ed1ab8bdac633f49f9e29e7f057b8085f44fa4559"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-wall.webp",
+      "bytes": 183828,
+      "sha256": "12018e5e4056399b6fafd4ee6b601ef437c34266ae4ae39e29ab86a9e4e6728b"
+    },
+    {
+      "path": "explorations/assets/letter-and-lid-wall_thumb.jpeg",
+      "bytes": 8080,
+      "sha256": "67977175bcfffd9becfe1d86f8fc3800647c3df9a44b2ce35fa6777a6fa00bf7"
+    },
+    {
+      "path": "explorations/assets/odia-first-banner.png",
+      "bytes": 720378,
+      "sha256": "daf4f78e307ab6fe4b9f189e2a48deced42307f7e127b46fce0251dc1b913b5e"
+    },
+    {
+      "path": "explorations/assets/odia-first-logo-preview.webp",
+      "bytes": 46958,
+      "sha256": "4f45b80bbf696d79d8f2e5c0d2e6f0abeb8e3fd83fd0569cc50be0c041f6a547"
+    },
+    {
+      "path": "explorations/assets/odia-first-logo.png",
+      "bytes": 1307754,
+      "sha256": "02e0143b675b8b97ef6d389b8953abb49d311b4164bd2d79aa2bb548e3f18d26"
+    },
+    {
+      "path": "explorations/assets/odia-first-logo_thumb.jpeg",
+      "bytes": 8857,
+      "sha256": "f80ecb82df43c2477c78b91e499bcdae2a610162703f5c0245562cd87ab69516"
+    },
+    {
+      "path": "explorations/assets/odia-first-standee.png",
+      "bytes": 845410,
+      "sha256": "dd319bc2da9f3009779329af6281ecbc958da104b9caf6c2e9f377b9c1e9ff97"
+    },
+    {
+      "path": "explorations/assets/odia-first-tv.png",
+      "bytes": 1170644,
+      "sha256": "ffdcd0162cc2fcdd99e9f8f0301c78397d0d3146343d9b85f5e83a137694b92b"
+    },
+    {
+      "path": "explorations/assets/odia-first-wall.png",
+      "bytes": 713115,
+      "sha256": "1d2b4a6570757644e62be85b67fe739506d6cdaa8f8778ad5e41c37b2debd75e"
+    },
+    {
+      "path": "explorations/assets/odia-first-wall.webp",
+      "bytes": 160762,
+      "sha256": "c2b8f73bfc1082ddfbd8a85cd0c903474e658ddbacc92421eed285aa8cfc70f4"
+    },
+    {
+      "path": "explorations/assets/odia-first-wall_thumb.jpeg",
+      "bytes": 10452,
+      "sha256": "b2ddaa52dfd899477837ce3adf9b865a24c75582655ea9dbdb585af9522ca970"
+    },
+    {
+      "path": "explorations/current-banner.html",
+      "bytes": 1173,
+      "sha256": "2332160cbccdd1b8febeb2539fe72117b4f060fe67b96c0607a723686569aeea"
+    },
+    {
+      "path": "explorations/current-standee.html",
+      "bytes": 1163,
+      "sha256": "916433162d8ed01de114d4935fda69426703c5bc51f5b5d7d66a44fd8d3e8cde"
+    },
+    {
+      "path": "explorations/current-tv.html",
+      "bytes": 1150,
+      "sha256": "d38a7254524a9ab1d5874ee8d9df24ca03d40e41cb173a8923eacb44bc7fbef8"
+    },
+    {
+      "path": "explorations/current.html",
+      "bytes": 4144,
+      "sha256": "09bb6e8bee4d8c5e9f83580b222a53ac57e245cf2f9d9445b27367c6573b275c"
+    },
+    {
+      "path": "explorations/directions.json",
+      "bytes": 8387,
+      "sha256": "caa2db5505c062eb46335896cc1d2f233dfdc85f2e161ca779b0913ca4b654ec"
+    },
+    {
+      "path": "explorations/displays.css",
+      "bytes": 2073,
+      "sha256": "ddaed39b6f29b17eaa0068738f197daaca0718638cc5cb7778b2ed3e60615ebf"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/brand-system.png",
+      "bytes": 5779142,
+      "sha256": "40590ed65da14a9b56ca452ffae01ac85425734c625413da84a61eb1a7a49d0a"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/brand-system.webp",
+      "bytes": 143772,
+      "sha256": "05264e7c0765971479f850ddd8620bdbdf22973f86396364a1ce72160b8ad808"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/brand-system_thumb.jpeg",
+      "bytes": 9730,
+      "sha256": "8964ad172bf59699824ee96f3f3c15789e0cd19dde267b1de4ca313f18e7aa67"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-mono.png",
+      "bytes": 122692,
+      "sha256": "030763ff7abb033918868c4ed90b1e4bad1db99fb6f091a260f5ef1aade81f35"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-primary.png",
+      "bytes": 200026,
+      "sha256": "0a18cf2027c66969d54e9a8c8cff18aab6fcb23380a2af9df9c72883e5997542"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-primary.webp",
+      "bytes": 139908,
+      "sha256": "e6437847fa72eddb339b65229a8a6afb222922c27e92fccd699df99c034527e2"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-reversed.png",
+      "bytes": 122606,
+      "sha256": "c6e67446d802d09b546fa2070175e3abd1b6bffba015ee6ecdfcfba8124a1cea"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-source.png",
+      "bytes": 1340276,
+      "sha256": "cb14fc1eaa10020f5869ba5a902f078cf4b4b6d003d98f4c159b23bef035c5d5"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/faithful-source_thumb.jpeg",
+      "bytes": 6653,
+      "sha256": "06233922036c9c5917801cdfedc6a3f4ab287a1415a551a8d59136e245fae219"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-mono.png",
+      "bytes": 163744,
+      "sha256": "837864739c0945c8a3745f4ab40a8634b150510f59ef03710299a8cd0bfb2ba6"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-primary.png",
+      "bytes": 266446,
+      "sha256": "56c0bc79231e1abdb40bbb182d74a95fe2b9f3f59d7617f70242ec18968961b1"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-primary.webp",
+      "bytes": 158604,
+      "sha256": "e1b5a940889c90dd74d2515b4fc082d2a4e492da1bb81719380263c667d0da5f"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-reversed.png",
+      "bytes": 163593,
+      "sha256": "8338c37217633df81fa5450f75dba861a3fc090e5d86f09a9488abbdb4f95f09"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-source.png",
+      "bytes": 1237667,
+      "sha256": "84443a001749950de17c5e3ccb08e3708bb3fd523c6176d584017f8cd6f1fc3d"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/negative-space-source_thumb.jpeg",
+      "bytes": 6450,
+      "sha256": "3b079a4189f1463b6299a929ee8380a1311e260de01f6acd37421a640f97dcfa"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/owner-reference.png",
+      "bytes": 1611286,
+      "sha256": "be88d1c261732a5b0e63a85c5a565627c50d70e9d9583c3112ed18576ec5df30"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/tv-display.png",
+      "bytes": 224765,
+      "sha256": "7a0f4204ee325da6bf1cb991b20c0768d717fbc970bf461491929dc072b2c2c7"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/wall-concept.png",
+      "bytes": 2252651,
+      "sha256": "25cc3907bd1507754b3ab249829683df6dbb2e15990b32dac81b04ab27a4cdab"
+    },
+    {
+      "path": "explorations/dum-club-refinement/assets/wall-concept.webp",
+      "bytes": 286578,
+      "sha256": "4b9f505491239d9a36f25f29871f1e0e0041a01af226113ace40fbbb85e91ede"
+    },
+    {
+      "path": "explorations/dum-club-refinement/club.css",
+      "bytes": 1971,
+      "sha256": "3a1ea26e58ac0544acc3600fdc7f85b570ba7069a335fb4b7ffa52c368a3b993"
+    },
+    {
+      "path": "explorations/dum-club-refinement/club.js",
+      "bytes": 861,
+      "sha256": "1dbd2e7d88b12ceba5416da2516dba5f7ea2136a00bf42e2bd41532e021abbaf"
+    },
+    {
+      "path": "explorations/dum-club-refinement/index.html",
+      "bytes": 10766,
+      "sha256": "8870d79855f11abcadd1ff51d6b677ec48f4c9d81fa932fc5d43cd34d5d752b0"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/browser-checks.json",
+      "bytes": 1096,
+      "sha256": "9386d0c93f78569fff32c0c9e2344a8bb84eac0692d21d48268c4269428171fe"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/geometry-section.png",
+      "bytes": 370823,
+      "sha256": "f683c7194029f09f7bdb8037515e6a7fdef4d92d349ace81cc6d93e68f88a417"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/guide-desktop.png",
+      "bytes": 168943,
+      "sha256": "f3baf7d1f6afa083032a975dff3d6f574c281ea7309b8f9e4945d6b1dcbba677"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/guide-mobile.png",
+      "bytes": 64827,
+      "sha256": "a5d49558312435ca37f87de6802870f63843abd6fdae7c2ece72b7b3d0d1ec21"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/lid-detail.png",
+      "bytes": 93966,
+      "sha256": "87ec16d744af192b8b12c6582ad741e131036535bbaae97dc188dc15275a88e1"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/odisha-source-inspection.png",
+      "bytes": 308822,
+      "sha256": "206118d63e0359e7981aa3669fd474fa739e34b45f3d3f9161b6585698c4e18e"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/phi-layout.png",
+      "bytes": 222415,
+      "sha256": "ac2bfb9b054b4e1963d94b37cc469ae6cf120f71a5e6273ad91b768805b8a170"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/phi-layout.svg",
+      "bytes": 356559,
+      "sha256": "9ee47ec1d538fa69158ffdc31321c8d6adf632d4adf463b69a4e75e7cd159af0"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/rice-counter-detail.png",
+      "bytes": 132674,
+      "sha256": "5272d7ec43b7c4eaa1c4729932e4818bc40adf5f6230820dddf4b909d9d04cfd"
+    },
+    {
+      "path": "explorations/dum-club-refinement/proofs/variants-and-sizes.png",
+      "bytes": 152494,
+      "sha256": "ad6ac5ed1b9f5f1a456c8f1c2dc1294a1055457ca58aae888376b4bd3f88c3cb"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/faithful-odisha.png",
+      "bytes": 20120,
+      "sha256": "ccec662bdd9b6f077b08759af8f38d504ee255ff3bad000ae58c1130dd8154b7"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/faithful-wordmark.png",
+      "bytes": 192661,
+      "sha256": "e65013ae8d44e6fa08c73fb43d8e65c6757088184c9afb07fe6baa259ee00aab"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/generation-prompts.json",
+      "bytes": 7377,
+      "sha256": "a2f664557ade67ea99cee03d5106871eb3d86011d051c3d356cdbf681bbe6326"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/geometry.json",
+      "bytes": 2157,
+      "sha256": "9485dda416cb646995624d12fe16b4224b349aa414a2ca1c9e6aad011952e225"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/negative-space-odisha.png",
+      "bytes": 33767,
+      "sha256": "ea62cf6ccdc9cfa72b52697fe4da77bceb1d986e8c1dee03ff9009d237f39e70"
+    },
+    {
+      "path": "explorations/dum-club-refinement/sources/negative-space-wordmark.png",
+      "bytes": 256584,
+      "sha256": "b641ceece50bc307cbbb8cebf04f9825f6645a115293f446b0f5580eb04c805f"
+    },
+    {
+      "path": "explorations/dum-club-refinement/tv-display.html",
+      "bytes": 2136,
+      "sha256": "7786e7d14c8bb184ce09c74732ea7789560ca5d6f2bd1dfdc55f88d1833eb48f"
+    },
+    {
+      "path": "explorations/explorations.css",
+      "bytes": 6481,
+      "sha256": "38050da11e486d591995e0b9da1c489f42ab115f71122d7dd7e5b091f4e637bd"
+    },
+    {
+      "path": "explorations/fonts/notosansdevanagari-OFL.txt",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331"
+    },
+    {
+      "path": "explorations/fonts/notosansdevanagari.ttf",
+      "bytes": 641944,
+      "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+    },
+    {
+      "path": "explorations/fonts/notosansoriya-OFL.txt",
+      "bytes": 4381,
+      "sha256": "c90ff15ade263a49148e35af34e9c177c6d56881e81260b29f10123e9e227eca"
+    },
+    {
+      "path": "explorations/fonts/notosansoriya.ttf",
+      "bytes": 613116,
+      "sha256": "910342275d619081b896b4ed25fd9ad6ff320c25591b810de1fcc4beb153ba82"
+    },
+    {
+      "path": "explorations/fonts/notoserifdevanagari-OFL.txt",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331"
+    },
+    {
+      "path": "explorations/fonts/notoserifdevanagari.ttf",
+      "bytes": 757692,
+      "sha256": "1191e07bfeb062d80e252eb85b0eafdfbda1e350707a2a60628668e8f677dbbb"
+    },
+    {
+      "path": "explorations/fonts/notoseriforiya-OFL.txt",
+      "bytes": 4381,
+      "sha256": "c90ff15ade263a49148e35af34e9c177c6d56881e81260b29f10123e9e227eca"
+    },
+    {
+      "path": "explorations/fonts/notoseriforiya.ttf",
+      "bytes": 241144,
+      "sha256": "9fa2a08cb6a677d155a823bc58b4c587613780bd43013fd362369c251001502a"
+    },
+    {
+      "path": "explorations/fonts/provenance.json",
+      "bytes": 2695,
+      "sha256": "18b43330cef18bb68363b7f74f7e680381eef4033288745890209ad716506dbb"
+    },
+    {
+      "path": "explorations/generation-prompts.json",
+      "bytes": 5252,
+      "sha256": "ba6d72a9781d8626e351f94642bb02785a57ddf401b1b4f6ec4df4afe891dac7"
+    },
+    {
+      "path": "explorations/hindi-signature-banner.html",
+      "bytes": 1203,
+      "sha256": "ee04402a17cd5f20931c5fdccf5b578cd123368229973e1321583c89e6822a6f"
+    },
+    {
+      "path": "explorations/hindi-signature-standee.html",
+      "bytes": 1193,
+      "sha256": "e0c9b55d90db5d2c465585bea867e657d048284c50d470d17c5e613271e5b7ce"
+    },
+    {
+      "path": "explorations/hindi-signature-tv.html",
+      "bytes": 1180,
+      "sha256": "f9cb73108ddcc35b208a5d5072d117346851ce1262b92f042b43743650d5efe5"
+    },
+    {
+      "path": "explorations/hindi-signature.html",
+      "bytes": 5492,
+      "sha256": "973a6ef17faca8ac445e847fadef344b5c1f5dc0806121822cb001b2f4f36d1d"
+    },
+    {
+      "path": "explorations/index.html",
+      "bytes": 8022,
+      "sha256": "7964f41faa187feb350426124b581addcc565160fe239ef1b8dae11b1f2c5a10"
+    },
+    {
+      "path": "explorations/letter-and-lid-banner.html",
+      "bytes": 1197,
+      "sha256": "bc2e8c1b39b68376dc965e49cc25c27e38b990d6d39bf2a50edda86ad03cff73"
+    },
+    {
+      "path": "explorations/letter-and-lid-standee.html",
+      "bytes": 1187,
+      "sha256": "503b84d65de901661fa6840438679516757711a49139917c648995caa984f600"
+    },
+    {
+      "path": "explorations/letter-and-lid-tv.html",
+      "bytes": 1174,
+      "sha256": "7cf963b4f9fe7e9909f9c95a71c5aa5f4eace39bce642114321f223e7ed0a15c"
+    },
+    {
+      "path": "explorations/letter-and-lid.html",
+      "bytes": 4315,
+      "sha256": "81ca44db13dc4b108118ba175ecd0daf6122ef71c29495ae19df656e0761bdeb"
+    },
+    {
+      "path": "explorations/odia-first-banner.html",
+      "bytes": 1183,
+      "sha256": "c02ac784d017a11ecb7ede099687fec7157155f88c75fdd2424a35f0d9a67ebf"
+    },
+    {
+      "path": "explorations/odia-first-standee.html",
+      "bytes": 1173,
+      "sha256": "8d454a814ca0ee664bcf42e865fe8d52df4b2b92d14b6dc960aa200be781ce87"
+    },
+    {
+      "path": "explorations/odia-first-tv.html",
+      "bytes": 1160,
+      "sha256": "cf3f5cba32b7e1a7bb760bd42fe743e7372615fa5fcc34a1442173d2b741a991"
+    },
+    {
+      "path": "explorations/odia-first.html",
+      "bytes": 5384,
+      "sha256": "f9e64103ba2e59387544bb531d6c72f3c757851fa10dd7ff4135a34bb5ce7854"
+    },
+    {
+      "path": "explorations/proofs/browser-checks.json",
+      "bytes": 4005,
+      "sha256": "13e25b1fcf3118e5324f329d061c3c10ea1e2eec43ce393d72ec5025a0a702cc"
+    },
+    {
+      "path": "explorations/proofs/current-desktop.png",
+      "bytes": 122636,
+      "sha256": "709ced7d5e40a40506cd8dab6c0ca1311ec9b3504a580662bf078907f8a564fc"
+    },
+    {
+      "path": "explorations/proofs/index-desktop.png",
+      "bytes": 181998,
+      "sha256": "f9957606bfde846854ef53e76553cbd9cb67b48cfe94be3f56717c603e62e451"
+    },
+    {
+      "path": "explorations/proofs/main-index-ideas.png",
+      "bytes": 218483,
+      "sha256": "48fee042d63853c0cb36edb7f48863000a8ee493f658e49b851369a7e234a48e"
+    },
+    {
+      "path": "explorations/proofs/odia-first-desktop.png",
+      "bytes": 198588,
+      "sha256": "6e8b71e159fc07db7dafb08031d323ce4fb48065279ec67ffb5d67127ca48e7c"
+    },
+    {
+      "path": "explorations/proofs/type-lab-desktop.png",
+      "bytes": 90092,
+      "sha256": "f252397e522ca7dbe73e234e4002657e450947883a261004cb880b452038e4ff"
+    },
+    {
+      "path": "explorations/proofs/type-lab-mobile.png",
+      "bytes": 176041,
+      "sha256": "3fbb0a111b34171385a55a88db9034be5ab4782aa8990a34f1d10503b30aed70"
+    },
+    {
+      "path": "explorations/reference-study.html",
+      "bytes": 2952,
+      "sha256": "db32e9495f0d98e1ee6b1ac7e573048d4769469400f1f68382270515d4019ed7"
+    },
+    {
+      "path": "explorations/references/lettering-reference-01.png",
+      "bytes": 1186555,
+      "sha256": "e1c6651f39966ad0e8640b8264df2203e902f4e3eb7b8021497676f4ae1a08c8"
+    },
+    {
+      "path": "explorations/references/lettering-reference-02.png",
+      "bytes": 1270121,
+      "sha256": "74a2d04d62415f6f2f36e00d490138af734a1e7511c136f5b007e449b819f747"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-brand.png",
+      "bytes": 6580674,
+      "sha256": "5b136dee60d0bc93aa603376aa943fb4f3ba7e4deff9b9b9026340ae0f8d7378"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-brand.webp",
+      "bytes": 169600,
+      "sha256": "b302e26dd1646df8ee49c3c4c78ef20c643ea2ec99a4cf9a9b37b8296608dfef"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-brand_thumb.jpeg",
+      "bytes": 11521,
+      "sha256": "63987fee2a978b382a5539a403fb3f9b9483976a9dfc1834f71d0243a524a955"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-logo.png",
+      "bytes": 1247493,
+      "sha256": "b3690438609db837ce7c31ca37454cbd42363a7807d0c5de713418e9d8250c4c"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-logo.webp",
+      "bytes": 36062,
+      "sha256": "e99ab320b2cc66b43043ade28dac273f65ecdb97b491f149ffe1b9a55658d0ef"
+    },
+    {
+      "path": "explorations/round-02/assets/bowl-d-logo_thumb.jpeg",
+      "bytes": 5323,
+      "sha256": "d15232660e19a1bd882f571c5fe8900af6e92daa341d0b6329a05a00b9326fb6"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-brand.png",
+      "bytes": 6952786,
+      "sha256": "c97d07e4962e0bb8368fcfac3a9509d4642f2802435dcbf0182be42015ec2144"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-brand.webp",
+      "bytes": 207520,
+      "sha256": "437ab4cd714a20f2d7677a7b9e672ec3c31d2a1f4b4673644fc478d6d47fafcc"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-brand_thumb.jpeg",
+      "bytes": 11428,
+      "sha256": "38f7fffb2b40e5ef52b25995228e6297d5added6e793448ec429bc74271953f0"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-logo.png",
+      "bytes": 1149560,
+      "sha256": "bb54855d38e7b9e32c02fbd69f283492d3737ea83fa279055a72c6e26b376f04"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-logo.webp",
+      "bytes": 59946,
+      "sha256": "2a201c668f39657ce68dd0e60073e6ede82aa4f33612e8e51c85e03b334d4661"
+    },
+    {
+      "path": "explorations/round-02/assets/dum-block-logo_thumb.jpeg",
+      "bytes": 8038,
+      "sha256": "fdc0c2e49de89ad5e5c444bb618d2a9c8c6ab9498001ac832133e528ef796994"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-brand.png",
+      "bytes": 6904665,
+      "sha256": "bffffbf62f1c3da91396ac15e91af3fa3ad7499a5d52cd818595cef8f2b2cb9f"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-brand.webp",
+      "bytes": 282762,
+      "sha256": "d45b2efa5c317c5c156f95792918446348f6aee4cb35aaa0cd1ae312265f88f3"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-brand_thumb.jpeg",
+      "bytes": 12830,
+      "sha256": "91063b3a69d80774a0eb3a6d989b0aeba3c92c2d21094753e5e865776ad36825"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-logo.png",
+      "bytes": 1500354,
+      "sha256": "16f9656e2a570c14b2fdfafbcdafdc07530d1309d96b2bcd1d89bd50fe2d3f90"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-logo.webp",
+      "bytes": 154258,
+      "sha256": "b87725dd6c8f9c408fdb8fb00f7baff2551b1d7c4d3837219608c1e23cc75d58"
+    },
+    {
+      "path": "explorations/round-02/assets/grain-press-logo_thumb.jpeg",
+      "bytes": 7640,
+      "sha256": "c89304964ed192e0b4726e3cc7aa6973960a89b029a473beb29aa6f9ee236d06"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-brand.png",
+      "bytes": 2487061,
+      "sha256": "b1b364d7b73ba6f1e1b5fc9d960bd847c4396a51233d0db715111e04c4877041"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-brand.webp",
+      "bytes": 384222,
+      "sha256": "26b88d412834c7292009cad02fc8474fbf01dfb4486905f955349966f0563e2b"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-logo-study-01.png",
+      "bytes": 1109358,
+      "sha256": "c4301312473bde1d8077b137bbc0022f261d3dfa48480eaf15acb53b0ab66eaf"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-logo.png",
+      "bytes": 406769,
+      "sha256": "a575b4f630393e8e7b7ae6fe06b06358f986c22e604a4a2bf7a3fa93b031fc5d"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-logo.webp",
+      "bytes": 44334,
+      "sha256": "06c06d07c76b7b8dba6bc5a2bfb169b7c7da6212a196526a888715586cfa4226"
+    },
+    {
+      "path": "explorations/round-02/assets/rice-club-logo_thumb.jpeg",
+      "bytes": 6875,
+      "sha256": "60e95b72da1a4a88a0c3121b5069659bd48a896928b34fff4661e70e6baca121"
+    },
+    {
+      "path": "explorations/round-02/bowl-d.html",
+      "bytes": 4660,
+      "sha256": "f3fb7742eb5ddf3d1d90b160367aca7580e8ea12fda932b6e475253ee915fc49"
+    },
+    {
+      "path": "explorations/round-02/directions.json",
+      "bytes": 6407,
+      "sha256": "2ad6eb2c1130a647f00cbc41def52d4ad61721ad7696bc2cbbe7d1dd48ebdfea"
+    },
+    {
+      "path": "explorations/round-02/dum-block.html",
+      "bytes": 4714,
+      "sha256": "de2db0fec226fabc56a801423292044de4fb1be153838764eafaf39d7f5ba4c3"
+    },
+    {
+      "path": "explorations/round-02/generation-prompts.json",
+      "bytes": 13375,
+      "sha256": "536e41f894afdb66e08638e8b0f146baa90095962d7a1aa346e29898581933cb"
+    },
+    {
+      "path": "explorations/round-02/grain-press.html",
+      "bytes": 4812,
+      "sha256": "7f3fad8a57b494ac45ca8289f42321e2d26ab2992a073d4486febe83229fcc4c"
+    },
+    {
+      "path": "explorations/round-02/index.html",
+      "bytes": 5207,
+      "sha256": "cf31a5f7205fd8534d95fd093ffe55a78533edcdd172ac1b6e16f1b9dd62bf7b"
+    },
+    {
+      "path": "explorations/round-02/proofs/bowl-d-desktop.png",
+      "bytes": 189223,
+      "sha256": "548495f434a3be479645d59534cea2887456f8a4c780c8be561b7fd881e07871"
+    },
+    {
+      "path": "explorations/round-02/proofs/browser-checks.json",
+      "bytes": 3384,
+      "sha256": "633105271d75abb57ba49635b0ff8b5737c3570b913b533a77325c3d0e5ac93d"
+    },
+    {
+      "path": "explorations/round-02/proofs/dum-block-desktop.png",
+      "bytes": 214289,
+      "sha256": "d371a77e0b6fe19abebdfb7feca0855b5db6442d0397407eb451e2512685638d"
+    },
+    {
+      "path": "explorations/round-02/proofs/grain-press-desktop.png",
+      "bytes": 239919,
+      "sha256": "05201adf40a5c6041691693db2702c0f2391167845556d155204eef7c1c35ecb"
+    },
+    {
+      "path": "explorations/round-02/proofs/index-desktop.png",
+      "bytes": 191132,
+      "sha256": "96e0cdfc34d8ba0cc7dc3465fce536cc8400a1011fbaa182eb12fa18d86b0321"
+    },
+    {
+      "path": "explorations/round-02/proofs/index-mobile.png",
+      "bytes": 383341,
+      "sha256": "79e88ede20a689317f44253e67a70a35c5d22789526012cb5a52bbb59e071e44"
+    },
+    {
+      "path": "explorations/round-02/proofs/rice-club-desktop.png",
+      "bytes": 186228,
+      "sha256": "ac7efa98141b421aaf61ef8abcc8301c06e9dc1508f0821adfb372d36c108eba"
+    },
+    {
+      "path": "explorations/round-02/reference-study.html",
+      "bytes": 3573,
+      "sha256": "e1cca0781007042b7d781d3ccb0f7f7cd5678cee3bb6154c6a4c0126b3b937eb"
+    },
+    {
+      "path": "explorations/round-02/references/behance-food-reference.png",
+      "bytes": 14777083,
+      "sha256": "a65b25716ee9a71ab7ea40e1149c9171279aea71324adab6035ddead8f64b2b5"
+    },
+    {
+      "path": "explorations/round-02/references/dribbble-food-reference.png",
+      "bytes": 6213769,
+      "sha256": "4f048b64c363dfb91023a5a4cb6bb8f0efbab6c85c35127bb0d522abc4cb05c6"
+    },
+    {
+      "path": "explorations/round-02/rice-club.html",
+      "bytes": 4778,
+      "sha256": "a88b7a4ed754c0cc95c82594f70f7e87506b49e55b00dc006689bd0d0fe653a3"
+    },
+    {
+      "path": "explorations/round-02/round.css",
+      "bytes": 859,
+      "sha256": "7b355e899e37b71e2d3d6def9d1a8c3447aa2f794501d500fa884cbb2a33b5a6"
+    },
+    {
+      "path": "explorations/round-03/assets/handi-host.png",
+      "bytes": 763765,
+      "sha256": "a4b911b991e210f7fe97a45a6e145815fa581e5053b55019f56d2711db6c52b7"
+    },
+    {
+      "path": "explorations/round-03/assets/handi-stamp-source.png",
+      "bytes": 266478,
+      "sha256": "d169240c528617e0f797d56b7cdf0d0f8d5261a3476c5998d2f420be1879807d"
+    },
+    {
+      "path": "explorations/round-03/assets/handi-stamp-source_thumb.jpeg",
+      "bytes": 9248,
+      "sha256": "8c59be746af60c5fcb42c2b19c91e365d56f37fff2b568d6bb43085e2647ce2c"
+    },
+    {
+      "path": "explorations/round-03/assets/hindi-end.png",
+      "bytes": 128557,
+      "sha256": "5b582933320aaadaf2709bb1fc958b0043a8649752c4c5793d467ca78630908b"
+    },
+    {
+      "path": "explorations/round-03/assets/hindi-initial.png",
+      "bytes": 129320,
+      "sha256": "2366a937dd2b0e16c44b9a2044fc8ed4ffca0a7d4159aabfd503a8c2efe98d7f"
+    },
+    {
+      "path": "explorations/round-03/assets/hindi-middle.png",
+      "bytes": 132661,
+      "sha256": "8684f541b75a406082f5e166fb97e537b4cb8b8cafd336d9df40ee4fd74fcbe0"
+    },
+    {
+      "path": "explorations/round-03/assets/hindi-wordmark.png",
+      "bytes": 35767,
+      "sha256": "e20de4823f01b8fbbbc20ec64fa709ccaaafeadcf938286562ea9f71eb590280"
+    },
+    {
+      "path": "explorations/round-03/assets/host-display.png",
+      "bytes": 222987,
+      "sha256": "0b91a27430837b7fc8ecf1c4bf422a150e25e9421e0247aa44adaf185a9a1f01"
+    },
+    {
+      "path": "explorations/round-03/assets/odia-end.png",
+      "bytes": 130333,
+      "sha256": "38e832268eec3fbc601544bb698a15f6ddac71ebee25e0445341e90d0c1487d8"
+    },
+    {
+      "path": "explorations/round-03/assets/odia-initial.png",
+      "bytes": 131664,
+      "sha256": "eaaea6b6ad6d0ad05fee6ce4a2a993dfe33d25fee93e3451651c674fd40c66e1"
+    },
+    {
+      "path": "explorations/round-03/assets/odia-middle.png",
+      "bytes": 132386,
+      "sha256": "d1f7fa8867e1cde86394b9255601cf6ce0c3cf5607b60970483779d29a8653d1"
+    },
+    {
+      "path": "explorations/round-03/assets/odia-wordmark.png",
+      "bytes": 36967,
+      "sha256": "86b2c68d1245c81266704ca7959151eb8d5863340fb19447e9e921054c63fc0a"
+    },
+    {
+      "path": "explorations/round-03/handi-host.html",
+      "bytes": 4818,
+      "sha256": "e076550fbfa32c2a08739f954c9445502f0213ac6a58e45057e7262ff4308374"
+    },
+    {
+      "path": "explorations/round-03/hindi-end-artwork.html",
+      "bytes": 919,
+      "sha256": "579fea9797cabc57a04f9db218863b74c6207f4d62f7e814dc3c38b46481daba"
+    },
+    {
+      "path": "explorations/round-03/hindi-initial-artwork.html",
+      "bytes": 901,
+      "sha256": "c53d515ab872175d140495a61d5ad8eceeaaa4bcf05856f2be53bc77313116f4"
+    },
+    {
+      "path": "explorations/round-03/hindi-middle-artwork.html",
+      "bytes": 894,
+      "sha256": "c91cd53e673dfe3489b11bdb741970c977a3b4b14227eb6228780cd9efe6a490"
+    },
+    {
+      "path": "explorations/round-03/hindi-wordmark-artwork.html",
+      "bytes": 699,
+      "sha256": "a0cd5cbaf0ad421e3425c28318e080a0f0590aefe20a07f41f34db1308321691"
+    },
+    {
+      "path": "explorations/round-03/hindi.html",
+      "bytes": 4490,
+      "sha256": "350beda33891141810fcd1451299419cfdb4fd9bc1cc37153f2fde83c8316d04"
+    },
+    {
+      "path": "explorations/round-03/host-display.html",
+      "bytes": 806,
+      "sha256": "da0a1c23e66da10fbbdecc48aedf7d2d979a008d6ce0c65ee5fc811ef291c4b0"
+    },
+    {
+      "path": "explorations/round-03/index.html",
+      "bytes": 3513,
+      "sha256": "33f8ceebb538a7ae474e6014272d886886182e496659f4d5d27476bf699c2b86"
+    },
+    {
+      "path": "explorations/round-03/odia-end-artwork.html",
+      "bytes": 926,
+      "sha256": "29951070d03664f570925ac58a6a5a88766697a306c71ff8a51c96fe19577f52"
+    },
+    {
+      "path": "explorations/round-03/odia-initial-artwork.html",
+      "bytes": 908,
+      "sha256": "b1624a714ee76171e61aa68f564ff6824ab7b686896380e68f24c67d97630875"
+    },
+    {
+      "path": "explorations/round-03/odia-middle-artwork.html",
+      "bytes": 892,
+      "sha256": "f062fe02254fc18d26aee72f698dfe9c04fc58bc84285029fff0ba7164fa24f4"
+    },
+    {
+      "path": "explorations/round-03/odia-wordmark-artwork.html",
+      "bytes": 724,
+      "sha256": "7f0cd1a852a919614e7650b8cdb68e2c9b427379b11100f54d8178070d90b3e2"
+    },
+    {
+      "path": "explorations/round-03/odia.html",
+      "bytes": 4540,
+      "sha256": "7b395adba2659d1eb0d0f08d98a73ad518d182090980bd78d6f3c43f04ae8b44"
+    },
+    {
+      "path": "explorations/round-03/proofs/browser-checks.json",
+      "bytes": 7334,
+      "sha256": "e69878670dd7e327a43079649590f9b941ac98c655a9611286e714a70552abca"
+    },
+    {
+      "path": "explorations/round-03/proofs/export-alpha-checks.json",
+      "bytes": 1119,
+      "sha256": "b325005377aaadcb60101cc43a65f36e1eb1dcce23ef003b5f05dd5746d66e90"
+    },
+    {
+      "path": "explorations/round-03/proofs/handi-host-desktop.png",
+      "bytes": 189736,
+      "sha256": "65a05baf5c54072a2503cbb10a96dc99833f5d55d5aaffbab33c91f118501644"
+    },
+    {
+      "path": "explorations/round-03/proofs/hindi-desktop.png",
+      "bytes": 95167,
+      "sha256": "2154c4283ee96917944d8237f9500fa5e605a30ace8a6f61155a4572da322424"
+    },
+    {
+      "path": "explorations/round-03/proofs/index-desktop.png",
+      "bytes": 155468,
+      "sha256": "1240b0efc4a010ecbfba6ab9467a4d9373830e4db3bb208a8e41ef3faed279c7"
+    },
+    {
+      "path": "explorations/round-03/proofs/index-mobile.png",
+      "bytes": 245710,
+      "sha256": "f6703181d10509a9a1ce24c14bfad2c17d738ef052d7c2f672117f0ac1112cf1"
+    },
+    {
+      "path": "explorations/round-03/proofs/odia-desktop.png",
+      "bytes": 93748,
+      "sha256": "3fdd4edb05e68e638d2c363b76b29261d6fa000f9f6eba8392a46d9b1def1e6d"
+    },
+    {
+      "path": "explorations/round-03/proofs/small-size-proof.png",
+      "bytes": 36458,
+      "sha256": "85e1d511f688e6536cf01f66c77030a604c8047771836bc3a091300734c2d246"
+    },
+    {
+      "path": "explorations/round-03/reference-study.html",
+      "bytes": 3332,
+      "sha256": "2bc00c5bc7d8de5ee143a96b222d1e897c1c94152fd66c2d9fcd5a4951160c93"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-0.png",
+      "bytes": 1290634,
+      "sha256": "52357bea4daa099c581e18018076417a698d542db9f64d2ea2ffe4daf06030f1"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-1.png",
+      "bytes": 1087276,
+      "sha256": "38a506a5d743bd59d39d4f1b9c49e31afc1940dbe6108b6a6a34d4f9a062ead5"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-2.png",
+      "bytes": 1003462,
+      "sha256": "5ce7abcc13e6eb91cf8baa8d4c473bf002d6d84ca8c4e3ef2561781842504194"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-3.png",
+      "bytes": 1280475,
+      "sha256": "c6c783dc02fa265b81e69aa68df9ba3ca8e1469b1dc7e584b3f709d99eb79982"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-4.png",
+      "bytes": 955750,
+      "sha256": "c510cf16524b1684c141fdae85203512677a3d757ecc434154873f452c4f8cde"
+    },
+    {
+      "path": "explorations/round-03/references/inspection-5.png",
+      "bytes": 443590,
+      "sha256": "a5731feb4242bcc14ff99740ace2621f20ced4c99ec12c799364600a4405a99c"
+    },
+    {
+      "path": "explorations/round-03/references/owner-reference.png",
+      "bytes": 10272050,
+      "sha256": "dfeccad6a41a14e6dc0cae6712e76b643aa89dc9207f1d8335ec0f64e66667d9"
+    },
+    {
+      "path": "explorations/round-03/round.css",
+      "bytes": 5241,
+      "sha256": "85e524a3c68981abfdfcd97157768737e8b47d07fc2f8f688d573f8a8fb83649"
+    },
+    {
+      "path": "explorations/round-03/round.js",
+      "bytes": 767,
+      "sha256": "e004758c5061e953660f86ff9e544a535ce11e71a8ca54e390999e85319c9ef5"
+    },
+    {
+      "path": "explorations/round-03/sources/generation-prompts.json",
+      "bytes": 4195,
+      "sha256": "dae2c82117090dd876abd6d503d38ef3cf59552dedefef892bf1f51d91764118"
+    },
+    {
+      "path": "explorations/round-03/sources/script-matrix.json",
+      "bytes": 880,
+      "sha256": "26b1a09fdc896c4c59f3de631c648a4ae342ef2fad5057ea9d6cd8c0ca5cda2f"
+    },
+    {
+      "path": "explorations/type-lab.html",
+      "bytes": 4088,
+      "sha256": "13cc1c77bf7c9d32d449ee8dd3dbf0c85e172f8589a0da1694ae11c6864b2d96"
+    },
+    {
+      "path": "explorations/wall-generation-prompts.json",
+      "bytes": 3901,
+      "sha256": "0a3dae1cd3929669247c87ce1726bb2858238a8f94f1669bc85787391115d4c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19438,
+      "sha256": "d56caba17bf99d83bbd76a807b3212a7081aa75c8ba2ae0028b7eacdc8586e31"
+    },
+    {
+      "path": "proofs/browser-checks.json",
+      "bytes": 641,
+      "sha256": "a52a22e05ecdf2cba97e9f84fd48b03e561658d1566ee87f46917edfb6babfb1"
+    },
+    {
+      "path": "proofs/document-checks.json",
+      "bytes": 7869,
+      "sha256": "c281d91a0fac77103755551fd57432ebc545c86ae61c86c28c5b003f8b7c12f1"
+    },
+    {
+      "path": "proofs/document-desktop.png",
+      "bytes": 209165,
+      "sha256": "9519c4afa0de773fb7949813eea4cfd7b7f0251f28b7518714acc97694e172c1"
+    },
+    {
+      "path": "proofs/document-library.png",
+      "bytes": 115498,
+      "sha256": "1c7cfeb2603b5051cb7c03f746218f2dec13ca1be663bf2908d2b8d88ad62e4a"
+    },
+    {
+      "path": "proofs/document-mobile.png",
+      "bytes": 72711,
+      "sha256": "840989250e4fabd2377922b73b9b48835b7fc7f7c47fec0aceb6059712d5c987"
+    },
+    {
+      "path": "proofs/guide-desktop.png",
+      "bytes": 3242825,
+      "sha256": "b8e6c8cd13768aa62adf53488531d771f3c66505f581192ebaf1ba37f39d7204"
+    },
+    {
+      "path": "proofs/guide-hero-desktop.png",
+      "bytes": 620204,
+      "sha256": "47b5fe0e0f2d8000ed4f583a6a7bbfc760e9757535822696b5aed93b6d9abcfb"
+    },
+    {
+      "path": "proofs/guide-hero-mobile.png",
+      "bytes": 168468,
+      "sha256": "27159d07efd904107678481daaf538824ae55f86bc6758bb8391c92dd90451e7"
+    },
+    {
+      "path": "proofs/guide-mobile.png",
+      "bytes": 1256325,
+      "sha256": "6668b09a5970c06ffe2d24ca3a5aed257d30c0b6e7dce20f619a9c06bb0b2bf4"
+    },
+    {
+      "path": "proofs/logo-mono.jpg",
+      "bytes": 142560,
+      "sha256": "ebf641cfa8ccdff3a2f762b539213cc74a730c731c06e70e55c492f645d25885"
+    },
+    {
+      "path": "proofs/logo-primary.jpg",
+      "bytes": 157296,
+      "sha256": "acbde12ec239c8ae84c660ad7c83c2b0a7bfde28d1bd8a48576e08b5b3ee1e5c"
+    },
+    {
+      "path": "proofs/logo-reversed.jpg",
+      "bytes": 157379,
+      "sha256": "22f3cddf423455a2edee66a8edfcb451e3bc390208a3d1b6298080200b90c82f"
+    },
+    {
+      "path": "proofs/logo-size-sheet.png",
+      "bytes": 155829,
+      "sha256": "a323b7117d9d95cd4b607f63e41c6b4fc37676d58902ffe8ed775c5ae47f6de2"
+    },
+    {
+      "path": "proofs/order-label-long-content.png",
+      "bytes": 71770,
+      "sha256": "378e01bfd7af3f31e9ca8b0ef920ad12698a9b4304d77358fb47e0a2deb2d7f4"
+    },
+    {
+      "path": "proofs/order-label.png",
+      "bytes": 54016,
+      "sha256": "9162e75bb08f936dcf8559fcf9f7a34e9b3835100ffedcca07d23d4a2c74c58a"
+    },
+    {
+      "path": "proofs/project-home.png",
+      "bytes": 293042,
+      "sha256": "30f130dd340835521e602b2691cb7d3ca3339c69118518c2d4652aad2b574397"
+    },
+    {
+      "path": "proofs/social-long-content.png",
+      "bytes": 1194506,
+      "sha256": "19d0b28e833862ee0d636f54606a5f27f7e3299f862587ba913535fce380f37c"
+    },
+    {
+      "path": "proofs/social-portrait.png",
+      "bytes": 1209354,
+      "sha256": "81a180c59d92c28fb43f195793f22a3220423b36c23eb7539de89d903cd182aa"
+    },
+    {
+      "path": "sources/build-applications.py",
+      "bytes": 6111,
+      "sha256": "d037a8631c34587a85fbf81fd38f477212dc6fbb96707a12f3252d384ef9597d"
+    },
+    {
+      "path": "sources/build-doc-pages.py",
+      "bytes": 8036,
+      "sha256": "a8fe9c9209dd5387c94e358a66c93f541f7dbf38cadb076de1af7d36ebec3f10"
+    },
+    {
+      "path": "sources/build-dum-club.py",
+      "bytes": 14826,
+      "sha256": "8ce20f263fde228198727c5b5cc9b54b6d2bdec767b6981941ae97bc4bf0f177"
+    },
+    {
+      "path": "sources/build-explorations.py",
+      "bytes": 18115,
+      "sha256": "f24ed5d86580af05ab0b8af25857f66d9d8974130ae9e53bbef8f2f6b579d58f"
+    },
+    {
+      "path": "sources/build-food-round.py",
+      "bytes": 9334,
+      "sha256": "d7996c39f10573057d02a9ee90bae366c90d8918e8ee7fe1ceb692e3b27f1e44"
+    },
+    {
+      "path": "sources/build-symbol-script-round.py",
+      "bytes": 19631,
+      "sha256": "c00e0ebb692e06276128536a986aa3d2bb50f2390238d5187fa1fd6981e58760"
+    },
+    {
+      "path": "sources/check-doc-pages.cjs",
+      "bytes": 2844,
+      "sha256": "f7882e448733798fc8b329fd839f9ede91512334992b539f3e4dd0955e216c32"
+    },
+    {
+      "path": "sources/export-assets.cjs",
+      "bytes": 4091,
+      "sha256": "672727f545845e2d791d531d215b037ec19dd0df5e60156cd0437ace3faaeaa7"
+    },
+    {
+      "path": "sources/export-dum-club.cjs",
+      "bytes": 8796,
+      "sha256": "85c910316a0b9a71ddd87046547b30dc120318de140061dbb2c884783bc0014b"
+    },
+    {
+      "path": "sources/fetch-exploration-fonts.py",
+      "bytes": 1302,
+      "sha256": "6a4ac5e46c414b32114e19f2aeb0c837dd0043ece431fbab203445bce342900e"
+    },
+    {
+      "path": "sources/generation-prompts.json",
+      "bytes": 4475,
+      "sha256": "6f48ebef1befe630eaa9e21309711b85c1da437186e7a24d940b0f03819d7172"
+    },
+    {
+      "path": "sources/inspect-public-profile.cjs",
+      "bytes": 1365,
+      "sha256": "03121e9f6a0ace881901c2b03117ee8298dde65445c92315f5b1b892bb8ec27a"
+    },
+    {
+      "path": "sources/render-dum-club.cjs",
+      "bytes": 4886,
+      "sha256": "8d4ba12c98c2f360e447a463243b08adb5bdc8fead4ecb894da04acc4cf07c35"
+    },
+    {
+      "path": "sources/render-explorations.cjs",
+      "bytes": 4569,
+      "sha256": "63e275355320eb213755bb18ce36360906c38600906b62ac917a18db31e40444"
+    },
+    {
+      "path": "sources/render-food-round.cjs",
+      "bytes": 3297,
+      "sha256": "52fec63087280a5ab03c5c4c0e9f5590c942c62999224a0d3e98726aab5cd0f7"
+    },
+    {
+      "path": "sources/render-symbol-script-round.cjs",
+      "bytes": 6402,
+      "sha256": "54b16131a2f7832c425039e53b17bde96c972963766a50516df995a3b472a898"
+    },
+    {
+      "path": "sources/render.cjs",
+      "bytes": 5654,
+      "sha256": "32f584ceb1903459f04b4229cdd0d289a4112671ae15527e9c4ef9c0660456d3"
+    },
+    {
+      "path": "sources/validate.py",
+      "bytes": 4698,
+      "sha256": "095dd5f69a5aa8875709c9c675c20b1a92ccc56b436cde634c4a96bfcd5ffe9a"
+    }
+  ]
+}

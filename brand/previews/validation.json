@@ -1,0 +1,38 @@
+[
+  {
+    "file": "c-emblem.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  },
+  {
+    "file": "b-host-symbol.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  },
+  {
+    "file": "a-aroma-handi-symbol.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  },
+  {
+    "file": "b-host.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  },
+  {
+    "file": "c-emblem-symbol.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  },
+  {
+    "file": "a-aroma-handi.svg",
+    "xml": "valid",
+    "outlined": true,
+    "flat_fills": true
+  }
+]

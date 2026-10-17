@@ -1,0 +1,61 @@
+{
+  "version": "food-brand-round-02",
+  "date": "2026-10-17",
+  "businessName": "Dum E Odisha",
+  "status": "exploratory_not_adopted",
+  "brief": "Four structurally distinct brand directions based on the two owner-supplied Dribbble and Behance food-logo screenshots.",
+  "references": [
+    "references/dribbble-food-reference.png",
+    "references/behance-food-reference.png"
+  ],
+  "routes": [
+    {
+      "slug": "rice-club",
+      "name": "The Rice Club",
+      "family": "Character-led",
+      "color": "#173D7A",
+      "accent": "#F2C94C",
+      "mood": "Lively, welcoming, collectable",
+      "description": "A rice-grain host turns the brand into a friendly character. Blue and butter yellow build a recognisable world of stickers, packaging and hand-drawn moments.",
+      "reference": "The food characters and illustrated branding in the Slurpee, Food for Thought, Tommy’s, Ornico and Bunny examples suggest how one character can lead a whole visual system. This is an original rice host, not a cup, duck or rabbit.",
+      "tradeoff": "The character offers personality and social storytelling, but needs a simpler symbol-only version for small packaging seals.",
+      "direction": "A new original anthropomorphic LONG RICE GRAIN host character, not any known mascot: asymmetrical slender oval rice body, one confident smiling face with tiny eyes, simple expressive hands and short planted legs, carrying a shallow serving bowl. Deliberately human pen-and-ink cartoon linework, very simple strong silhouette, jaunty but sophisticated independent food brand. Not a cup, duck, rabbit, vegetable or chef in a toque. Character above or beside a bold readable stacked custom wordmark exact 'DUM E' then 'ODISHA'. Deep cobalt/ink blue #173D7A and butter-yellow #F2C94C on ivory #FFF6E7. No circle badge or generic lid above the name. A genuinely different character-led brand."
+    },
+    {
+      "slug": "dum-block",
+      "name": "Dum Block",
+      "family": "Wordmark-led",
+      "color": "#B83729",
+      "accent": "#F5B63D",
+      "mood": "Confident, rhythmic, unmistakable",
+      "description": "The full name becomes a solid typographic shape. Broad custom lettering and a measured rhythm of red and saffron stripes carry the identity across bags, tubs and signs.",
+      "reference": "The CHESINI, Mello, Sika and Chiso examples make type itself the memorable asset. The proposal uses its own letter construction, spacing and arrangement rather than reproducing those wordmarks.",
+      "tradeoff": "The lettering is strong at distance, but the condensed counters and E separation need close checking at small sizes.",
+      "direction": "A completely original TYPOGRAPHIC restaurant wordmark, no symbol, no pot, no lid, no mascot. Exact text 'DUM E' on the first line and 'ODISHA' on the second. Huge sculptural custom uppercase block lettering, softly chamfered corners, confident near-square letter proportions with clever original stencil-like rhythm, compact architectural weight, optically balanced. All letters must be recognizable with generous counters and an unmistakable real gap between M and E. Deep warm red #B83729 on ivory #FFF6E7, one short saffron #F5B63D rule below the lockup. Distinctive contemporary food packaging identity. Avoid copying CHESINI or Mello letterforms, no liquid melted type, no 3D or faux blackletter."
+    },
+    {
+      "slug": "bowl-d",
+      "name": "The Bowl D",
+      "family": "Symbol-led",
+      "color": "#263A2C",
+      "accent": "#D9EB42",
+      "mood": "Clear, compact, graphic",
+      "description": "A sturdy D holds a bowl-shaped counter. The compact symbol can lead seals and avatars, while a complete wordmark keeps the business name clear.",
+      "reference": "The compact C-and-bowl and geometric utensil studies in the Dribbble screenshot demonstrate negative-space economy. This mark instead explores a distinct D silhouette with a bowl counter and different geometry.",
+      "tradeoff": "A small abstract mark scales well, but it must keep its D reading and always be paired with the full name during early use.",
+      "direction": "A refined original NEGATIVE SPACE logo for a biryani restaurant. One strong solid upright D symbol with a flat vertical left spine and rounded outer bowl. Inside its counter, a simple open rice-bowl shape and one tiny detached rice grain are expressed only as ivory negative space. The symbol must read D, never a C, G, Pac-Man, ladle or burger. Keep geometry simple and visually balanced. Under or alongside the icon, exact complete name 'DUM E ODISHA', readable bold modern sans wordmark, DUM and E separate. Dark forest #263A2C with one restrained acid-rice lime #D9EB42 accent on ivory #FFF6E7. Flat two-ink mark, crisp silhouette, no ornamental pot, no steam curls above the wordmark, no badge."
+    },
+    {
+      "slug": "grain-press",
+      "name": "The Grain Press",
+      "family": "Illustration-led",
+      "color": "#27483C",
+      "accent": "#BF693F",
+      "mood": "Tactile, quiet, generous",
+      "description": "An original rice-ear illustration pairs with strong editorial serif lettering. The brand feels like a small food journal printed on uncoated paper, with generous margins and botanical details.",
+      "reference": "The MORK chocolate packaging, Lume’s restrained colour blocks and the editorial food layouts suggest a quieter system of illustration, material and typography. No source illustration, name or layout is reused.",
+      "tradeoff": "The quiet material-led direction feels considered, but needs disciplined contrast and sufficient illustration weight to work on a phone.",
+      "direction": "A refined original EDITORIAL ILLUSTRATED logo for biryani brand Dum E Odisha. An original small woodcut-like rice ear with long distinct grains and two freely curved leaves forms a loose open fan above strong warm condensed serif lettering. Exact name 'Dum E' then 'Odisha', all words clear, separate E. The illustration should feel hand-cut in ink with purposeful irregular edges, a few broad hatching cuts, simple enough to read as a mark; not a wreath, rice bowl, pot, lid, temple or generic wheat sheaf. Forest green #27483C main ink, restrained terracotta #BF693F accent, ivory #FFF6E7 background. Quiet confident editorial food identity, tactile independent journal quality. No tiny tagline, no founding date, no heritage/sourcing claims."
+    }
+  ]
+}

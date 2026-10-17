@@ -1,0 +1,35 @@
+{
+  "brand": "Dum E Odisha",
+  "revision": "06",
+  "files": [
+    {
+      "file": "dum-e-odisha-final-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "bytes": 4888890
+    },
+    {
+      "file": "dum-e-odisha-final-white.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG",
+      "bytes": 1911810
+    },
+    {
+      "file": "dum-e-odisha-packaging-hero.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "bytes": 7377106
+    },
+    {
+      "file": "dum-e-odisha-packaging-detail.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG",
+      "bytes": 7884076
+    }
+  ],
+  "delivery_note": "Final visual direction in high-resolution JPEGs with opaque backgrounds. Not vector, transparent artwork, dielines or press-ready separations."
+}

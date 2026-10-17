@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-17",
+  "scope": "Focused refinement of the exact owner-supplied Dum Club logo; preserve its base idea",
+  "toolkit": "/Users/string1301/code_den/toolkits/branding-toolkit",
+  "modules": [
+    "brand-logo",
+    "brand-visual-system",
+    "brand-applications",
+    "brand-accessibility-testing",
+    "brand-production-handover"
+  ],
+  "humanInstruction": "Keep the base idea, improve the logo and brand, apply the golden ratio and explore negative space.",
+  "status": "review_pending",
+  "baseInvariants": [
+    "Rounded lowercase dum and separate e",
+    "Lifted lid integrated above dum",
+    "Rice cue in d counter",
+    "Saffron/chilli/cream palette",
+    "ODISHA retained as part of the full name"
+  ],
+  "changes": [
+    "Clearer m/e gap",
+    "Shorter controlled m terminal",
+    "Simpler lid slit and counters",
+    "Two alternatives: faithful positive grain and rice-kernel negative counter",
+    "Measured name-line width ratio and spacing",
+    "Primary, mono and reversed raster exports"
+  ],
+  "geometry": {
+    "record": "geometry.json",
+    "targetPhi": 1.618033988749895,
+    "mainNameWidth": 1000,
+    "odishaWidth": 618,
+    "gap": 56,
+    "clearspace": 90,
+    "note": "Placed raster block measurements. Generated letter contours are not claimed to be exact golden-circle geometry."
+  },
+  "formats": {
+    "logos": "Transparent RGBA PNG; generated raster source shapes",
+    "diagram": "SVG annotations with embedded raster logo; not a vector logo",
+    "applications": "Generated packaging and interior concepts; editable HTML TV layout plus PNG proof"
+  },
+  "productionPending": [
+    "Owner choice between the two refinements",
+    "Editable vector reconstruction retaining optical corrections",
+    "Real-scale single-ink, substrate and print proof"
+  ],
+  "originals": "Owner screenshot copied to assets/owner-reference.png; historical brand/ files unchanged",
+  "prompts": {
+    "logos": [
+      {
+        "slug": "faithful",
+        "prompt": "Refine the EXACT supplied Dum E Odisha logo while retaining its recognisable base idea. This is NOT a different style or new identity. Keep the soft rounded lowercase 'dum' in saffron #ECAA35, a separate rounded lowercase 'e' in deep chilli #A63825, the lifted cooking lid integrated above 'dum', and uppercase ODISHA below in chilli. Retain the original rice-grain idea in the d counter. Main improvements: an unmistakable actual cream gap between m and e, optically equal stroke weight, open d/u/m/e counters, tidy lid knob and cleaner tip, shorter less distracting m-terminal flourish, no thin fragile hooks. ODISHA is the second half of the name, not tiny descriptor. Carefully designed balance inspired by golden-ratio hierarchy: generous main name, subordinate ODISHA roughly 0.618 of main name width; do not put any grid or measurement labels into the image. No tagline, no added symbols, no BIRYANI text, no 3D, no gradients, no texture or fake shadows. Flat warm cream #FFF3DD background. A single large centered full logo with margins, original playful geometry preserved and made clearer.",
+        "tool": "Nano Banana MCP",
+        "model": "Gemini 3 Pro Image"
+      },
+      {
+        "slug": "negative-space",
+        "prompt": "Make a carefully refined NEGATIVE-SPACE version of the EXACT supplied Dum E Odisha logo. Preserve the source's distinctive rounded lowercase d-u-m, separate lowercase e, raised cooking lid, saffron/chilli palette and ODISHA beneath. Do not switch to uppercase DUM, a serif, generic font or unrelated emblem. The d counter should be ONE clean cream negative-space rice-kernel shape with subtly pointed tips; remove the separate positive saffron grain floating inside the old counter. The d must still read immediately as d. Define the lifted lid with ONE clear tapered cream negative-space slit between lid and rim, not extra outline strokes. Keep lid above dum, never bridging m to e. Create a conspicuous actual gap between m and e; e deep chilli #A63825, dum and lid warm saffron #ECAA35, ODISHA chilli. Remove the long bird-like m flourish in favour of a short controlled rounded terminal, unify curve tension and optical weight, generous counters. ODISHA about 61.8% of main name width, with clean spacing, golden-ratio-inspired hierarchy but no construction lines in logo image. Flat #FFF3DD cream background, crisp flat ink. No tiny ornaments, tagline, other words, 3D, gradient, shadow or grain. Same base idea, more disciplined and recognisable.",
+        "tool": "Nano Banana MCP",
+        "model": "Gemini 3 Pro Image"
+      }
+    ],
+    "brand": {
+      "tool": "Nano Banana MCP",
+      "model": "Gemini 3 Pro Image",
+      "reference": "../assets/negative-space-primary.png",
+      "prompt": "Create a refined complete food-brand presentation for the supplied exact Dum E Odisha logo. Preserve its recognisable rounded lowercase saffron dum, separate chilli e, rice-kernel negative-space d counter, lifted lid, lid's white slit and uppercase ODISHA beneath. This exact supplied normalized logo is the locked reference. Do not switch to serif, capitals DUM, another icon or different spelling. Landscape 3:2 designer's board: a large clean flat reference-logo proof on the left; coordinated matte rice-cream paper carrier and squat lidded takeaway tub on right; a restrained seal and wrapping-paper sample below; one supporting broad pattern panel derived from lid arcs and rice-grain negative shapes. Palette saffron #ECAA35, chilli #A63825, cream #FFF3DD and dark ink #29231F. Keep yellow as the warm brand artwork and red/ink for readable practical text. Spacious mature composition, purposeful proportions, no busy badges or gold foil. Supporting rice/lid illustrations should feel hand-drawn in flat ink, not glossy 3D. Realistic matte paper/folds and warm natural lighting in mockups. All text ONLY the supplied logo name 'dum e' and 'ODISHA'; no unverified menu, address, slogan, prices, registration or founding-date claims. No construction grid in this application board. This is an exploratory packaging concept, not actual manufactured products."
+    },
+    "wall": {
+      "tool": "built-in image_gen",
+      "reference": "../assets/negative-space-primary.png",
+      "prompt": "Use case: product-mockup. Architectural photograph of an inviting compact biryani takeaway interior, with the supplied EXACT refined Dum E Odisha logo painted large and clearly on the upper cream plaster wall. Preserve the supplied rounded lowercase saffron dum, distinct chilli e with a clear gap, rice-shaped negative-space counter, lifted cooking lid and red ODISHA second line. Do not retype it in another face or change the mark. Extend the identity into a broad original lower-wall mural made from simple hand-painted saffron lid arcs and chilli rice-grain shapes, with a quiet cream label zone and no extra words. Terracotta tile counter, warm wood, uncoated paper carrier and tub on counter carrying same logo. Natural daylight, realistic painted wall texture, soft warm plaster, human hand-brushed edges in supporting mural. Wide 16:9, composed interior view. No people, menu boards, prices, address, claims, false dates or ceremonial motifs. No gold foil, glossy 3D or excessive ornamental swirls. This is a proposed interior and brand application, not the actual venue. Treat the reference logo as locked artwork."
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-17T12:03:25.087Z",
+  "dimensions": [
+    {
+      "file": "brand-system.png",
+      "width": 5056,
+      "height": 3392
+    },
+    {
+      "file": "wall-concept.png",
+      "width": 1672,
+      "height": 941
+    }
+  ],
+  "normalizedMaster": "1180x868",
+  "checks": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    }
+  ],
+  "faithfulSwitch": {
+    "pressed": "true",
+    "download": "assets/faithful-primary.png"
+  },
+  "negativeSwitch": {
+    "pressed": "true",
+    "download": "assets/negative-space-primary.png"
+  },
+  "editWorks": true,
+  "skipFocused": true,
+  "tv": {
+    "width": 1920,
+    "height": 1080,
+    "identityWidth": 1186.625,
+    "messageWidth": 733.375
+  },
+  "tvWidthRatio": 1.6180330663030509,
+  "phi": 1.618033988749895,
+  "measuredNameWidthRatio": 1.6181229773462784,
+  "nameWidthRatioRelativeErrorPercent": 0.005499797717615528,
+  "errors": [],
+  "failed": []
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-17",
+  "method": "Generated shape retained; alpha/ink export and measured name-line layout",
+  "phi": 1.618033988749895,
+  "mainWidth": 1000,
+  "subWidth": 618,
+  "gap": 56,
+  "margin": 90,
+  "reports": [
+    {
+      "slug": "faithful",
+      "source": {
+        "width": 2048,
+        "height": 2048,
+        "topInkBounds": {
+          "left": 316,
+          "top": 472,
+          "width": 1392,
+          "height": 722
+        },
+        "odishaInkBounds": {
+          "left": 575,
+          "top": 1320,
+          "width": 875,
+          "height": 145
+        }
+      },
+      "export": {
+        "width": 1180,
+        "height": 857,
+        "main": {
+          "x": 90,
+          "y": 90,
+          "width": 1000,
+          "height": 519
+        },
+        "odisha": {
+          "x": 281,
+          "y": 665,
+          "width": 618,
+          "height": 102
+        },
+        "gap": 56,
+        "margin": 90
+      },
+      "phiTarget": 1.618033988749895,
+      "exportWidthRatio": 1.6181229773462784,
+      "relativeRatioErrorPercent": 0.005499797717615528,
+      "note": "Measured raster block layout, not mathematically constructed letter outlines."
+    },
+    {
+      "slug": "negative-space",
+      "source": {
+        "width": 2048,
+        "height": 2048,
+        "topInkBounds": {
+          "left": 340,
+          "top": 472,
+          "width": 1368,
+          "height": 722
+        },
+        "odishaInkBounds": {
+          "left": 577,
+          "top": 1320,
+          "width": 872,
+          "height": 147
+        }
+      },
+      "export": {
+        "width": 1180,
+        "height": 868,
+        "main": {
+          "x": 90,
+          "y": 90,
+          "width": 1000,
+          "height": 528
+        },
+        "odisha": {
+          "x": 281,
+          "y": 674,
+          "width": 618,
+          "height": 104
+        },
+        "gap": 56,
+        "margin": 90
+      },
+      "phiTarget": 1.618033988749895,
+      "exportWidthRatio": 1.6181229773462784,
+      "relativeRatioErrorPercent": 0.005499797717615528,
+      "note": "Measured raster block layout, not mathematically constructed letter outlines."
+    }
+  ]
+}

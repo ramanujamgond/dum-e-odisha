@@ -1,0 +1,223 @@
+{
+  "version": "review-v1",
+  "created": "2026-10-17",
+  "approval": "pending",
+  "files": [
+    {
+      "path": "applications/order-label.svg",
+      "bytes": 3041,
+      "sha256": "76f24c0d20ce5918e854fc1519edb3b30f4da34ec429e0486cd2fb9838d855df",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "applications/social-portrait.svg",
+      "bytes": 7582,
+      "sha256": "036df60f1138eb23311d9bd06c6f83b8835f07d9557480b06d65290e3c38b34d",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/illustration/handi-editorial.png",
+      "bytes": 2495873,
+      "sha256": "4f0e4a319f90ee68fe0fc07898038a2bde3e5d2829eac1fbb5598337e9cac127",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/logo/compact.svg",
+      "bytes": 453,
+      "sha256": "cbd3a43321f011cb68bfcfbf17aa744e34aece2d6f5f8ecac97db074ccbf3e3b",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/logo/mono.svg",
+      "bytes": 2321,
+      "sha256": "81ccf1856dd2ae5f3e54c6e3e439ee91dc243aaa00946ed010c0b14a3485ea7a",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/logo/primary.svg",
+      "bytes": 2216,
+      "sha256": "96541eb4b42e344065f8f31215e0a49d8c67098b0a51a649cd7aeda896de5114",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/logo/reversed.svg",
+      "bytes": 2216,
+      "sha256": "13ab3b929601acf18f671206ae65ac777e30a9af5a9b7b289d6cc21db4c5bfa7",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/logo/rice-pattern.svg",
+      "bytes": 4899,
+      "sha256": "f4367072a2e427791bce68edbfc42015741aa8b6f958b2e5852af937069be63e",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "assets/tokens.css",
+      "bytes": 138,
+      "sha256": "bd0c94cb1d909bb4eb1e741e1c2e2d6b4a987d97d0890452a64d453f1a6a05b5",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/application-kit.md",
+      "bytes": 1541,
+      "sha256": "3f054309bfb8b566f456520a22403640748426ddaec1b70570c0972aab3e5a2e",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/brand-guidelines.md",
+      "bytes": 2764,
+      "sha256": "3a127c3d0bea07b7f378df9c2539241bb2f211607e35f7726998d366817b07e8",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/brief-and-gap-audit.md",
+      "bytes": 3678,
+      "sha256": "31f937e0b974879f8bdeaa18f5f6b1e191c22e1012f8cdef725719a0e6239179",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/creative-territories.md",
+      "bytes": 1565,
+      "sha256": "5cfbbfe292083efe0dd052bc1fd8f89ffbaa9c1f77c5f242aa017dbf7b8ae6d2",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/decision-packet.md",
+      "bytes": 1478,
+      "sha256": "d5b8d1680f45524ba32a8efe49806d09ee8cbaecd5a988585bdfec54f6e53f14",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/handover.md",
+      "bytes": 1892,
+      "sha256": "b4caabdc7e4e8a8a3c6b12f42e810c6acede22b1050a60998aa6deff72d51bde",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/imagery-and-rights.md",
+      "bytes": 2143,
+      "sha256": "bfd286a2ee25af993102c705d64d9fb14e61f1db6eaebee37e55139169cf77ba",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/logo-system.md",
+      "bytes": 1631,
+      "sha256": "caaf8f059433f94f49618899576deed59124a44a1837e41a69385f45286af8f8",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/project-context.md",
+      "bytes": 2912,
+      "sha256": "f3838b1edfd168f343c0bb40a8d4c68c7061755469152121135ed9aa7c519595",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/strategy.md",
+      "bytes": 2385,
+      "sha256": "47e7ea1ae83b669d674d63283b8da1c192f341ba097a855b3017420bf177691d",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/validation-report.md",
+      "bytes": 2936,
+      "sha256": "a7b13e7acb396e2c9c749d24b6f464b62e2ae1ef9d3b5c73b1372817d1631684",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "docs/verbal-system.md",
+      "bytes": 2142,
+      "sha256": "e399c307af596f404f26aca664c0d7174ec3357fe8e0ca93147e17db0208e207",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7046,
+      "sha256": "380c3311c38aa6e064fb61abb0e0ccdf1dc47d815aaa5f5e7d7f0c29313be2bc",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/compact.png",
+      "bytes": 696,
+      "sha256": "d40c3a46bf7c76a851a3f5d0cbc2ab26eb00440f28dbff08353dff988c29b1ee",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/logo-proof-sheet.png",
+      "bytes": 62022,
+      "sha256": "7ffdc3c7293905388a268fedbf6ccb9542dcbc33ebefba2881e21353d5a6fd90",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/mono.png",
+      "bytes": 18201,
+      "sha256": "b934bc86375f3d1c7f6a95f612ca7c758acd37b9191d0902a4b22e91a1754b8a",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/order-label.png",
+      "bytes": 48020,
+      "sha256": "3e270daee69808071148990d80bc019903cfd60be36da49ece818168adefcc08",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/primary.png",
+      "bytes": 18948,
+      "sha256": "f43f23d80d2315a666b908ced9f386be13937206ac4df5cf5dd2ebc26d4a56a7",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/reversed.png",
+      "bytes": 17833,
+      "sha256": "6dd476556c35e3b58414452fa58b14c7a80fd963900d6ac1dd8501c826c9520b",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/rice-pattern.png",
+      "bytes": 4764,
+      "sha256": "2105c2896470fd3e5f53574e4f6db936cf4ac49c1552dccd0b4df7b658f8aa94",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "proofs/social-portrait.png",
+      "bytes": 77596,
+      "sha256": "ffc3afd54112ce2a75e28c94c6a03e7b5648a26a956b1e8cdca51972b208d0ec",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/alternative-type-only.svg",
+      "bytes": 1928,
+      "sha256": "8b957f3a16d75d861d6e65f73b1a0c4f540750764ba9e9651e455323ce6cabd3",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/build_identity.py",
+      "bytes": 5760,
+      "sha256": "e778b0e091bc74328bc8c41b5853628bc4d516968632625303e04f30cf25904c",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/imagery-prompt.txt",
+      "bytes": 924,
+      "sha256": "5473587122a5354f5b3033fd2150f50bb86d47846e605ec4b22ae493ad9d799b",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/imagery-provenance.json",
+      "bytes": 378,
+      "sha256": "cfe67a59f1e45aa08b89fd028384303748711a29da58da54899f519dc5a672b3",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/render.cjs",
+      "bytes": 1760,
+      "sha256": "432332d64692519d99af035247cec15c83c125b2b3c96bcb871612c556aeed14",
+      "status": "review-v1-draft"
+    },
+    {
+      "path": "sources/validate.py",
+      "bytes": 2209,
+      "sha256": "8d4d10289357c5f0a70195f96b1805a02d4cb5de65d5b605a516a35451cc1d43",
+      "status": "review-v1-draft"
+    }
+  ]
+}

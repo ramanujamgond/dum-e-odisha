@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-17T12:18:58.742Z",
+  "exports": [
+    {
+      "file": "hindi-initial.png",
+      "width": 1600,
+      "height": 700,
+      "text": "दम E Odisha",
+      "nativeFont": "\"Hindi Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "hindi-middle.png",
+      "width": 1600,
+      "height": 700,
+      "text": "Dum ए Odisha",
+      "nativeFont": "\"Hindi Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "hindi-end.png",
+      "width": 1600,
+      "height": 700,
+      "text": "Dum E ओडिशा",
+      "nativeFont": "\"Hindi Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "hindi-wordmark.png",
+      "width": 1600,
+      "height": 700,
+      "text": "दम E Odisha",
+      "nativeFont": "\"Hindi Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "odia-initial.png",
+      "width": 1600,
+      "height": 700,
+      "text": "ଦମ୍ E Odisha",
+      "nativeFont": "\"Odia Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "odia-middle.png",
+      "width": 1600,
+      "height": 700,
+      "text": "Dum ଏ Odisha",
+      "nativeFont": "\"Odia Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "odia-end.png",
+      "width": 1600,
+      "height": 700,
+      "text": "Dum E ଓଡ଼ିଶା",
+      "nativeFont": "\"Odia Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    },
+    {
+      "file": "odia-wordmark.png",
+      "width": 1600,
+      "height": 700,
+      "text": "Dum E ଓଡ଼ିଶା",
+      "nativeFont": "\"Odia Serif\", serif",
+      "nativeFontLoaded": true,
+      "clipped": false,
+      "actual": {
+        "width": 1600,
+        "height": 700,
+        "hasAlpha": true,
+        "alphaMin": 0,
+        "alphaMax": 255
+      }
+    }
+  ],
+  "host": {
+    "width": 1254,
+    "height": 1254,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  "stamp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "checks": [
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "index",
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "handi-host",
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "handi-host",
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "handi-host",
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "hindi",
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "hindi",
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "hindi",
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "odia",
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "odia",
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "odia",
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 1440,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 390,
+      "overflow": false,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 320,
+      "overflow": false,
+      "missingAlt": 0
+    }
+  ],
+  "switches": [
+    {
+      "script": "hindi",
+      "position": "initial",
+      "text": "दम E Odisha",
+      "expected": "दम E Odisha",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/hindi-initial.png",
+      "editableLink": "hindi-initial-artwork.html"
+    },
+    {
+      "script": "hindi",
+      "position": "middle",
+      "text": "Dum ए Odisha",
+      "expected": "Dum ए Odisha",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/hindi-middle.png",
+      "editableLink": "hindi-middle-artwork.html"
+    },
+    {
+      "script": "hindi",
+      "position": "end",
+      "text": "Dum E ओडिशा",
+      "expected": "Dum E ओडिशा",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/hindi-end.png",
+      "editableLink": "hindi-end-artwork.html"
+    },
+    {
+      "script": "odia",
+      "position": "initial",
+      "text": "ଦମ୍ E Odisha",
+      "expected": "ଦମ୍ E Odisha",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/odia-initial.png",
+      "editableLink": "odia-initial-artwork.html"
+    },
+    {
+      "script": "odia",
+      "position": "middle",
+      "text": "Dum ଏ Odisha",
+      "expected": "Dum ଏ Odisha",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/odia-middle.png",
+      "editableLink": "odia-middle-artwork.html"
+    },
+    {
+      "script": "odia",
+      "position": "end",
+      "text": "Dum E ଓଡ଼ିଶା",
+      "expected": "Dum E ଓଡ଼ିଶା",
+      "pressed": "true",
+      "download": "file:///Users/string1301/code_den/dum-e-biryani/brand-system/review-v2/explorations/round-03/assets/odia-end.png",
+      "editableLink": "odia-end-artwork.html"
+    }
+  ],
+  "links": [
+    {
+      "page": "../index.html",
+      "newLinks": 3,
+      "overflow": false
+    },
+    {
+      "page": "../../index.html",
+      "newLinks": 4,
+      "overflow": false
+    },
+    {
+      "page": "../../../../index.html",
+      "newLinks": 1,
+      "overflow": false
+    }
+  ],
+  "editable": true,
+  "skipFocused": true,
+  "errors": [],
+  "failures": [],
+  "switchFailures": []
+}

@@ -1,0 +1,150 @@
+{
+  "brand_name": "Dum E Odisha",
+  "revision": "07",
+  "status": "Three illustrative concepts, no final route selected",
+  "tagline": "Flavour in Every Layer.",
+  "routes": [
+    {
+      "slug": "shared-handi",
+      "title": "The Shared Handi",
+      "theme": "Odisha community \u00b7 contemporary folk-inspired",
+      "meaning": "Two people cradle one handi. Their curved arms embrace the vessel; rising rice turns the shared meal into the centre of the symbol.",
+      "promise": "A generous meal, made to share.",
+      "personality": "Grounded, generous, sociable.",
+      "palette": [
+        [
+          "Earth red",
+          "#A23D32",
+          "Pot and warm primary identity"
+        ],
+        [
+          "Forest",
+          "#254C3B",
+          "People, lettering and information"
+        ],
+        [
+          "Ochre",
+          "#D6A64D",
+          "Rice and small accents"
+        ],
+        [
+          "Ivory",
+          "#FFF7E8",
+          "Main background"
+        ]
+      ],
+      "grammar": "Use spare human gestures, rice plants and vessels to show preparing and sharing a meal. Keep a simple horizontal storytelling band on packaging; leave the main logo uncluttered.",
+      "boundary": "A contemporary folk-inspired proposal. It is not labelled authentic Saura, Warli or an artisan-made identity. The stock reference is inspiration only and has not been reproduced.",
+      "type": "Sturdy, approachable sans lettering; a plain sans-serif for dish information.",
+      "use": "Strongest route for a local, warm identity with scope for illustrated walls, bags and menus.",
+      "source": "https://kruticoffee.com/pages/about-us",
+      "source_name": "Kruti Coffee \u2014 official story"
+    },
+    {
+      "slug": "garden-handi",
+      "title": "The Dum Garden",
+      "theme": "Mughal botanical-inspired \u00b7 aroma & abundance",
+      "meaning": "A handi grows into a balanced flowering garden. The pot identifies cooking; the rising grains and botanical rhythm suggest layers of aroma.",
+      "promise": "Aromatic layers, generously served.",
+      "personality": "Expressive, composed, abundant.",
+      "palette": [
+        [
+          "Aubergine",
+          "#4D2445",
+          "Pot, typography and anchor colour"
+        ],
+        [
+          "Coral",
+          "#CE6B4F",
+          "Floral accent"
+        ],
+        [
+          "Ochre",
+          "#D3A749",
+          "Rice and leaf accents"
+        ],
+        [
+          "Ivory",
+          "#FFF6E7",
+          "Main background"
+        ]
+      ],
+      "grammar": "Extend the logo\u2019s flower-and-leaf forms into generous botanical borders and large cropped panels. Use a quiet label field so floral detail never competes with dish names.",
+      "boundary": "Mughal botanical painting is courtly art, rather than a tribal style. This is a modern interpretation of its floral rhythm, with no royal-recipe or historical-lineage claim.",
+      "type": "Softly flared display capitals with a simple sans-serif for menus and order information.",
+      "use": "Best for a richly illustrated packaging world with a more composed restaurant feel.",
+      "source": "https://www.metmuseum.org/art/collection/search/838376",
+      "source_name": "The Met \u2014 Mughal composite flower"
+    },
+    {
+      "slug": "dum-host",
+      "title": "The Dum Keeper",
+      "theme": "Modern illustrative mascot \u00b7 care & aroma",
+      "meaning": "A cook holds a handi close, with the face and aroma shaped through negative space. The gesture communicates care and anticipation of the meal.",
+      "promise": "Good food, warmly served.",
+      "personality": "Personable, confident, welcoming.",
+      "palette": [
+        [
+          "Indigo",
+          "#293C5A",
+          "Host silhouette and primary type"
+        ],
+        [
+          "Saffron",
+          "#D99C38",
+          "Pot, rice and warm accents"
+        ],
+        [
+          "Cream",
+          "#FFF7E8",
+          "Negative space and main background"
+        ]
+      ],
+      "grammar": "Use the host as a recognisable recurring character on labels and social posts. Supporting illustrations can show serving and sharing; keep the face, pot and main pose consistent.",
+      "boundary": "An original illustrated host. The supplied chef references informed negative-space simplicity; their specific silhouettes, moustaches and hats are not the identity.",
+      "type": "Rounded sans lettering with a clear functional sans-serif for menu copy.",
+      "use": "Best for immediate food-service recognition and a compact, friendly symbol.",
+      "source": "research/illustrative-directions-research.md",
+      "source_name": "Research and reference interpretation"
+    }
+  ],
+  "artwork": "Nano Banana MCP only",
+  "files": [
+    {
+      "file": "shared-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "shared-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "garden-handi-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-logo.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "JPEG"
+    },
+    {
+      "file": "dum-host-mockup.jpg",
+      "width": 5056,
+      "height": 3392,
+      "format": "JPEG"
+    }
+  ]
+}

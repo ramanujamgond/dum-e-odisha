@@ -1,0 +1,57 @@
+[
+  {
+    "file": "selected/dum-e-multicolour-saffron-chilli.jpg",
+    "title": "Saffron lid + chilli lettering",
+    "role": "Recommended multicolour treatment",
+    "format": "JPEG",
+    "width": 4096,
+    "height": 4096,
+    "source": "Nano Banana MCP",
+    "transparent": false,
+    "status": "Raster colourway"
+  },
+  {
+    "file": "selected/dum-e-multicolour-green-chilli.jpg",
+    "title": "Chilli lid + leaf-green lettering",
+    "role": "Three-colour alternate",
+    "format": "JPEG",
+    "width": 4096,
+    "height": 4096,
+    "source": "Nano Banana MCP",
+    "transparent": false,
+    "status": "Raster colourway"
+  },
+  {
+    "file": "selected/dum-e-multicolour-black-chilli.jpg",
+    "title": "Chilli lid + black lettering",
+    "role": "Black with warm colours",
+    "format": "JPEG",
+    "width": 4096,
+    "height": 4096,
+    "source": "Nano Banana MCP",
+    "transparent": false,
+    "status": "Raster colourway"
+  },
+  {
+    "file": "selected/dum-e-black.jpg",
+    "title": "Black on white",
+    "role": "Single-colour treatment",
+    "format": "JPEG",
+    "width": 4096,
+    "height": 4096,
+    "source": "Nano Banana MCP",
+    "transparent": false,
+    "status": "Raster colourway"
+  },
+  {
+    "file": "selected/dum-e-white.jpg",
+    "title": "White on black",
+    "role": "Reverse treatment",
+    "format": "JPEG",
+    "width": 4096,
+    "height": 4096,
+    "source": "Nano Banana MCP",
+    "transparent": false,
+    "status": "Raster colourway"
+  }
+]

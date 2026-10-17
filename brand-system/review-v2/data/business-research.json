@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-10-17",
+  "timezone": "Asia/Kolkata",
+  "brand": {
+    "name": {
+      "value": "Dum E Odisha",
+      "status": "owner_confirmed",
+      "source": "Current chat, owner reply"
+    },
+    "category": {
+      "value": "Biryani",
+      "status": "project_documented",
+      "source": "brand-system/review-v1/docs/verbal-system.md"
+    },
+    "tagline": {
+      "value": "Flavour in Every Layer.",
+      "status": "existing_project_copy",
+      "source": "brand-system/review-v1/docs/verbal-system.md"
+    },
+    "publicBioLine": {
+      "value": "The Fine Art of Dum, From Odisha",
+      "status": "first_party_observed",
+      "sourceId": "I1",
+      "note": "Observed Instagram positioning line; does not replace owner-retained project name."
+    }
+  },
+  "verifiedOperationalFields": {
+    "instagramUrl": "https://www.instagram.com/dum_e_odisha/",
+    "phone": "+917894265632",
+    "whatsappUrl": null,
+    "email": null,
+    "address": null,
+    "openingHours": null,
+    "orderingUrl": null,
+    "menu": [],
+    "foodLicense": null,
+    "city": "Bhubaneswar",
+    "catering": true,
+    "bulkOrderContact": "tel:+917894265632",
+    "platformLinks": {
+      "zomato": "https://www.zomato.com/bhubaneswar/dum-e-odisha-baramunda-bhubaneshwar/order",
+      "swiggy": "https://www.swiggy.com/city/bhubaneswar/dum-e-odisha-khandagiri-rest1303591"
+    }
+  },
+  "sources": [
+    {
+      "id": "I1",
+      "title": "Owner-supplied Dum E Odisha Instagram public profile",
+      "url": "https://www.instagram.com/dum_e_odisha/",
+      "access": "fresh_unauthenticated_browser_http_200",
+      "checkedAt": "2026-10-17T11:18:03.528Z",
+      "sourceClass": "first_party_public_profile",
+      "localEvidence": "brand-system/review-v2/data/instagram-access.json",
+      "note": "Public bio text and metadata observed; dynamic follower counters omitted."
+    },
+    {
+      "id": "B1",
+      "title": "Zomato Dum - E - Odisha, Baramunda menu",
+      "url": "https://www.zomato.com/bhubaneswar/dum-e-odisha-baramunda-bhubaneshwar/order",
+      "access": "search_index_text_only_direct_open_cache_miss",
+      "checkedAt": "2026-10-17",
+      "sourceClass": "platform_record"
+    },
+    {
+      "id": "B2",
+      "title": "Swiggy Dum E Odisha, Khandagiri",
+      "url": "https://www.swiggy.com/city/bhubaneswar/dum-e-odisha-khandagiri-rest1303591",
+      "access": "search_index_text_only_direct_open_cache_miss",
+      "checkedAt": "2026-10-17",
+      "sourceClass": "platform_record"
+    }
+  ],
+  "unknowns": [
+    "Approved current menu and prices",
+    "WhatsApp availability and email",
+    "Owner-approved detailed address and current service area",
+    "Weekly opening hours",
+    "Current platform deliverability",
+    "Current license certificate",
+    "Allergens and dietary designations",
+    "Founder story and founding year",
+    "Claims about sourcing, recipes and preparation",
+    "Catering capacity, prices and lead time"
+  ],
+  "instagramDiscovery": {
+    "status": "resolved_owner_supplied_url_public_profile_observed",
+    "queriesIncluded": [
+      "exact brand name + Instagram",
+      "exact brand name constrained to instagram.com",
+      "hyphenated name",
+      "dum_e_odisha",
+      "dum.e.odisha",
+      "dumeodisha",
+      "dume.odisha",
+      "dum_e_odisha_biryani",
+      "brand + Baramunda",
+      "platform phone + Instagram"
+    ],
+    "interpretation": "Initial search did not return an attributable profile. The owner subsequently supplied the exact URL, successfully observed in an unauthenticated browser. Search failure is historical, not a present access blocker.",
+    "ownerSuppliedUrl": "https://www.instagram.com/dum_e_odisha/",
+    "profileContentVerified": false
+  },
+  "publicationRule": "Instagram URL, first-party public phone, city and catering/bulk-enquiry claims may populate the brand project with source attribution. Platform links are strongly corroborated and may be offered as external destinations, without guaranteeing availability. Menu, prices, detailed address, hours, dietary designations and regulatory status retain their field-specific limits; do not invent missing information.",
+  "updatedAt": "2026-10-17T11:18:03.528Z",
+  "operationalFieldProvenance": {
+    "instagramUrl": {
+      "sourceId": "I1",
+      "status": "owner_supplied_url_public_profile_observed"
+    },
+    "phone": {
+      "sourceIds": [
+        "I1",
+        "B1"
+      ],
+      "status": "first_party_observed_and_platform_corroborated"
+    },
+    "city": {
+      "sourceIds": [
+        "I1",
+        "B1",
+        "B2"
+      ],
+      "status": "first_party_observed_and_platform_corroborated"
+    },
+    "catering": {
+      "sourceId": "I1",
+      "status": "first_party_bio_claim",
+      "note": "Catering and bulk-order enquiries advertised; capacity, prices and lead time unknown."
+    },
+    "platformLinks": {
+      "sourceIds": [
+        "I1",
+        "B1",
+        "B2"
+      ],
+      "status": "bio_names_platforms_exact_outlets_linked_by_phone_and_location",
+      "note": "Platform availability is a public bio claim; no current deliverability or completed checkout verified."
+    }
+  },
+  "linkedPlatformBusiness": {
+    "status": "identity_bridge_resolved_listing_details_observed",
+    "reason": "Owner supplied Instagram URL. Public profile names Bhubaneswar and phone +917894265632; phone matches Zomato, whose shop/locality and published license match Swiggy.",
+    "safeToUseAsCustomerFact": false,
+    "listingName": "Dum - E - Odisha / Dum E Odisha",
+    "location": "Shop 20 A, Soubhagya Nagar, Baramunda, Bhubaneswar",
+    "foodLicense": {
+      "value": "22025069000283",
+      "sourceIds": [
+        "B1",
+        "B2"
+      ],
+      "status": "platform_published_not_regulator_verified"
+    },
+    "menuCandidates": [
+      {
+        "name": "Biryani Rice",
+        "variant": "Medium",
+        "sourceIds": [
+          "B1",
+          "B2"
+        ],
+        "observedPriceInr": 100,
+        "priceSourceId": "B2"
+      },
+      {
+        "name": "Chicken Dum Biryani",
+        "variants": [
+          "Regular 450 g",
+          "Large 700 g",
+          "Family Pack Mega 3.2 kg"
+        ],
+        "sourceId": "B1",
+        "observedPriceInr": null
+      },
+      {
+        "name": "Egg Biryani",
+        "variant": "2 eggs, regular 450 g",
+        "sourceId": "B1",
+        "observedPriceInr": null
+      },
+      {
+        "name": "Chicken Seekh Kebab Biryani",
+        "variants": [
+          "Regular 450 g",
+          "Large 700 g"
+        ],
+        "sourceId": "B1",
+        "observedPriceInr": null
+      },
+      {
+        "name": "Extra Raita",
+        "sourceId": "B1",
+        "observedPriceInr": null
+      },
+      {
+        "name": "Extra Onion Salad",
+        "sourceId": "B1",
+        "observedPriceInr": null
+      },
+      {
+        "name": "Thums Up soft beverage",
+        "variant": "250 ml",
+        "sourceId": "B2",
+        "observedPriceInr": 20
+      }
+    ],
+    "menuCautions": [
+      "The two indexed menus differ substantially; neither is a complete owner-approved current menu.",
+      "Prices are observed platform snapshots, not approved brand prices.",
+      "Do not infer vegetarian suitability, allergens, ingredients, halal status or portion promises from dish names.",
+      "Do not turn a location-dependent closed status into opening hours or permanent closure."
+    ],
+    "safeToUseNote": "Field-specific: Instagram, phone and city are first-party observed. Platform links are strongly corroborated. Detailed address, menu, prices and license remain platform observations with the limits recorded below.",
+    "phone": {
+      "value": "+917894265632",
+      "sourceIds": [
+        "I1",
+        "B1"
+      ],
+      "status": "first_party_observed_platform_corroborated"
+    }
+  },
+  "identityBridge": {
+    "status": "strong_first_party_to_platform_match",
+    "chain": [
+      "Owner supplies Instagram URL",
+      "Public Instagram bio lists Bhubaneswar and +917894265632",
+      "Zomato exact-name listing uses same phone and city",
+      "Swiggy exact-name listing shares Zomato shop/locality and published license"
+    ],
+    "limits": "This resolves business identity to a practical research standard; does not establish that every indexed menu, price, address detail or availability message is current."
+  }
+}

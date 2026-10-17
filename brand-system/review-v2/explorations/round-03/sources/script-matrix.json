@@ -1,0 +1,50 @@
+{
+  "brand": "Dum E Odisha",
+  "status": "draft_native_review_pending",
+  "primary": {
+    "hindi": "initial",
+    "odia": "end"
+  },
+  "proposals": {
+    "hindi": {
+      "initial": [
+        "दम",
+        "E",
+        "Odisha"
+      ],
+      "middle": [
+        "Dum",
+        "ए",
+        "Odisha"
+      ],
+      "end": [
+        "Dum",
+        "E",
+        "ओडिशा"
+      ]
+    },
+    "odia": {
+      "initial": [
+        "ଦମ୍",
+        "E",
+        "Odisha"
+      ],
+      "middle": [
+        "Dum",
+        "ଏ",
+        "Odisha"
+      ],
+      "end": [
+        "Dum",
+        "E",
+        "ଓଡ଼ିଶା"
+      ]
+    }
+  },
+  "fontSources": "../../fonts/provenance.json",
+  "invariants": [
+    "Three name units remain Dum E Odisha",
+    "Whole words change script; no hybrid pseudo-glyphs",
+    "No marks or matras removed for decoration"
+  ]
+}

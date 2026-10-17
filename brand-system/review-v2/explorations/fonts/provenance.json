@@ -1,0 +1,66 @@
+[
+  {
+    "file": "notoseriforiya.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoseriforiya/NotoSerifOriya%5Bwght%5D.ttf",
+    "upstreamName": "NotoSerifOriya[wght].ttf",
+    "sha256": "9fa2a08cb6a677d155a823bc58b4c587613780bd43013fd362369c251001502a",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notoseriforiya-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoseriforiya/OFL.txt",
+    "upstreamName": "OFL.txt",
+    "sha256": "c90ff15ade263a49148e35af34e9c177c6d56881e81260b29f10123e9e227eca",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notosansoriya.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansoriya/NotoSansOriya%5Bwdth%2Cwght%5D.ttf",
+    "upstreamName": "NotoSansOriya[wdth,wght].ttf",
+    "sha256": "910342275d619081b896b4ed25fd9ad6ff320c25591b810de1fcc4beb153ba82",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notosansoriya-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansoriya/OFL.txt",
+    "upstreamName": "OFL.txt",
+    "sha256": "c90ff15ade263a49148e35af34e9c177c6d56881e81260b29f10123e9e227eca",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notoserifdevanagari.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifdevanagari/NotoSerifDevanagari%5Bwdth%2Cwght%5D.ttf",
+    "upstreamName": "NotoSerifDevanagari[wdth,wght].ttf",
+    "sha256": "1191e07bfeb062d80e252eb85b0eafdfbda1e350707a2a60628668e8f677dbbb",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notoserifdevanagari-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifdevanagari/OFL.txt",
+    "upstreamName": "OFL.txt",
+    "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notosansdevanagari.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/NotoSansDevanagari%5Bwdth%2Cwght%5D.ttf",
+    "upstreamName": "NotoSansDevanagari[wdth,wght].ttf",
+    "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  },
+  {
+    "file": "notosansdevanagari-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/OFL.txt",
+    "upstreamName": "OFL.txt",
+    "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331",
+    "checkedAt": "2026-10-17",
+    "modified": false
+  }
+]

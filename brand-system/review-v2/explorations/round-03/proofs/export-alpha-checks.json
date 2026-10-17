@@ -1,0 +1,66 @@
+[
+  {
+    "file": "hindi-initial.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "hindi-middle.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "hindi-end.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "hindi-wordmark.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "odia-initial.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "odia-middle.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "odia-end.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "odia-wordmark.png",
+    "width": 1600,
+    "height": 700,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255
+  }
+]

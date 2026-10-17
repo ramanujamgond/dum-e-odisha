@@ -1,0 +1,11 @@
+{
+  "base_url": "https://dum-e-odisha.vercel.app/",
+  "checked_pages_images_and_downloads": 275,
+  "zip_downloads": 8,
+  "deployment": {
+    "repository": "ramanujamgond/dum-e-odisha",
+    "commit": "270f2916f64c14a24ac6180d0e55ee6ba9dfc1e1",
+    "bundles": 8
+  },
+  "errors": []
+}

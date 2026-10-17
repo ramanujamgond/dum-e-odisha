@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-17T11:24:50.995Z",
+  "method": "Installed Chrome via Playwright; file:// URLs",
+  "pages": 18,
+  "widths": [
+    1440,
+    390,
+    320
+  ],
+  "checks": [
+    {
+      "file": "application-kit.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "application-kit.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "application-kit.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brand-guidelines.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brand-guidelines.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brand-guidelines.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brief.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brief.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "brief.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "creative-territories.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "creative-territories.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "creative-territories.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "decision-log.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "decision-log.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "decision-log.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "evidence-ledger.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "evidence-ledger.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "evidence-ledger.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "handover-manifest.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "handover-manifest.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "handover-manifest.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "imagery-brief.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "imagery-brief.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "imagery-brief.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "index.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "logo-system.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "logo-system.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "logo-system.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "packaging-spec.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "packaging-spec.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "packaging-spec.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-context.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-context.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-context.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-overview.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-overview.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "project-overview.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "public-research.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "public-research.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "public-research.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "strategy.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "strategy.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "strategy.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "validation-report.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "validation-report.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "validation-report.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "verbal-system.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "verbal-system.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "verbal-system.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "visual-system.html",
+      "width": 1440,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "visual-system.html",
+      "width": 390,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    },
+    {
+      "file": "visual-system.html",
+      "width": 320,
+      "overflow": false,
+      "heading": 1,
+      "markdownLinks": 0
+    }
+  ],
+  "tableScroll": {
+    "contained": true,
+    "canScroll": true
+  },
+  "skipFocused": true,
+  "skipWorked": true,
+  "errors": [],
+  "failed": []
+}

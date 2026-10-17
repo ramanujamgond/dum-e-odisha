@@ -1,0 +1,9 @@
+{
+  "tool": "Nano Banana MCP",
+  "model": "pro",
+  "mode": "edit",
+  "source": "dum-e-odisha-core.png",
+  "prompt": "Clean the background of this existing Dum E Odisha logo image. Keep the exact existing dum e artwork, lid, rice grain and the large word ODISHA unchanged. The complete design has ONLY TWO text lines: dum e and ODISHA. EVERYTHING beneath the bottom edge of ODISHA must be perfectly blank solid pure white, with no marks, faint ghosts, strokes or additional words. Do not add a slogan. Do not add any illustration. Remove the faint unwanted remnants below ODISHA by restoring pure white background there. This is a faithful cleanup, not a redesign.",
+  "actual_output": "1024 × 1024 JPEG",
+  "usage": "Core logo and profile placement; no separate redrawn profile asset"
+}

@@ -1,0 +1,109 @@
+{
+  "brand": "Dum E Odisha",
+  "findings": [
+    {
+      "area": "Creative direction",
+      "finding": "The warm cooking-lid idea fitted the brief, but its intent was spread across competing studies.",
+      "correction": "Keep the chosen wordmark and define the emotional target as welcoming and appetising.",
+      "status": "Documented; a full founder strategy workshop has not been conducted."
+    },
+    {
+      "area": "Colour",
+      "finding": "Three multi-colour routes and several single-colour studies were presented without a stable everyday palette.",
+      "correction": "Use two logo inks: chilli for letters and saffron for lid/rice. Keep dark neutrals for supporting copy.",
+      "status": "Targets specified; generated pixels are approximate."
+    },
+    {
+      "area": "Logo",
+      "finding": "BIRYANI was the large second line and ODISHA was a tiny location label. That represented the wrong brand.",
+      "correction": "Remove BIRYANI from the logo; make ODISHA a prominent part of Dum E Odisha. Add a separate tagline version.",
+      "status": "Corrected name and tagline checked visually in the delivered images."
+    },
+    {
+      "area": "Pattern and texture",
+      "finding": "No consistent graphic device existed; adding decorative motifs would introduce noise.",
+      "correction": "Use clean fields and the selected lid/rice idea. Do not invent folk patterns, extra spices or texture.",
+      "status": "Deliberate restraint; no separate pattern library is delivered."
+    },
+    {
+      "area": "Typography and layout",
+      "finding": "The name hierarchy was wrong; the guide read mainly as an equal-weight card gallery.",
+      "correction": "Prioritise the complete name, then tagline. Use measured rule panels, a table of contents and actual supporting type samples.",
+      "status": "Guide rebuilt; generated logo lettering is not a named or licensed typeface."
+    },
+    {
+      "area": "Graphics",
+      "finding": "Only isolated logo renders were available; applications did not demonstrate the correct name.",
+      "correction": "Provide a compact identity canvas with food-container and carry-bag studies.",
+      "status": "Illustrative proof of use, not production packaging artwork."
+    },
+    {
+      "area": "Icons",
+      "finding": "The full wordmark cannot be read as a 16 px favicon. The first new profile attempt added an unrequested pepper.",
+      "correction": "Reject the drift; reuse the cleaned tagline-free core file for the profile. Do not claim a 16 px icon.",
+      "status": "Small favicon remains out of scope; profile requires actual-size checking."
+    },
+    {
+      "area": "Application",
+      "finding": "Earlier assets carried the wrong name into every touchpoint.",
+      "correction": "Only corrected Dum E Odisha files are linked in the current download. Older names are labelled superseded in history.",
+      "status": "Current asset links and package contents validated."
+    },
+    {
+      "area": "Style guide",
+      "finding": "Old and current studies coexisted without enough separation between rules, proposals and history.",
+      "correction": "Create one current guide, linked audit and clearly labelled archive. Record fixed colour roles, naming, voice and delivery limits.",
+      "status": "Current content and file references checked; historical source images retained."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Rampstack logo design",
+      "url": "https://github.com/rampstackco/claude-skills/blob/main/skills/logo-design/SKILL.md",
+      "principle": "Separate primary, compact and monochrome uses; keep one clear wordmark idea.",
+      "application": "Named variants and application rules replace a set of equally ranked colour experiments."
+    },
+    {
+      "name": "zstvns design skills",
+      "url": "https://github.com/zstvns/design-skills",
+      "principle": "Assess Simple, Appropriate and Distinct in context; keep fixed core and flexible use separate.",
+      "application": "Full-name hierarchy repaired; distinctiveness remains unscored without a confirmed direct competitor set."
+    },
+    {
+      "name": "Magnus919 brand designer",
+      "url": "https://github.com/magnus919/agent-skills/blob/main/brand-designer/SKILL.md",
+      "principle": "Document strategy, visual identity, voice, usage and inventory together.",
+      "application": "One identity record, named asset manifest and an explicit current-versus-history split."
+    },
+    {
+      "name": "Ziguishian brand design",
+      "url": "https://github.com/ziguishian/brand-design-skill/blob/main/SKILL.md",
+      "principle": "Preserve the selected image source and show usable logo specifications.",
+      "application": "Nano Banana reference-based refinement; clear-space, positive/negative, small-use and application panels."
+    },
+    {
+      "name": "Atypica logo design",
+      "url": "https://github.com/atypica-ai/marketing-skills/blob/main/skills/logo-design/SKILL.md",
+      "principle": "Analyse letter hierarchy, spacing, restrained colours and monochrome usability.",
+      "application": "ODISHA promoted into the main name; generated letters checked visually; two logo inks selected."
+    },
+    {
+      "name": "SanbaoAI logo generator",
+      "url": "https://github.com/SanbaoAI/logo-generator-skill",
+      "principle": "Preserve silhouette when recolouring and prove the identity in relevant scenarios.",
+      "application": "Colour roles tied to the lid and lettering; a food-packaging presentation instead of unrelated mockups. Mascot route reviewed and excluded because the selected mark is typographic."
+    },
+    {
+      "name": "rknall SVG logo designer",
+      "url": "https://github.com/rknall/claude-skills/blob/main/svg-logo-designer/SKILL.md",
+      "principle": "Plan lockups, backgrounds, clear space and organised delivery.",
+      "application": "Usage variants and file organisation applied; SVG construction not used because the user requested Nano Banana only."
+    },
+    {
+      "name": "Anthropic canvas design",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md",
+      "principle": "Begin with a visual philosophy; make hierarchy, space and colour carry the composition.",
+      "application": "Shared Warmth philosophy and a visual identity canvas with restrained text. Rendering remains Nano Banana-generated, following the user\u2019s tool choice."
+    }
+  ]
+}

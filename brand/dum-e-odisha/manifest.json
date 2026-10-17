@@ -1,0 +1,62 @@
+[
+  {
+    "stem": "dum-e-odisha-primary-tagline",
+    "label": "Primary + tagline",
+    "use": "Use for launch graphics, larger packaging labels and clear brand introductions.",
+    "file": "dum-e-odisha/dum-e-odisha-primary-tagline.jpg",
+    "width": 4096,
+    "height": 4096,
+    "format": "JPEG",
+    "transparent": false,
+    "generator": "Nano Banana MCP",
+    "sha256": "9060fd4c58c735c04a13bf99c0c638472ee0c74797652d8bdd1505b827372a6f"
+  },
+  {
+    "stem": "dum-e-odisha-core-final",
+    "label": "Core logo",
+    "use": "The full brand name without the tagline. Use where the tagline would become too small.",
+    "file": "dum-e-odisha/dum-e-odisha-core-final.jpg",
+    "width": 1024,
+    "height": 1024,
+    "format": "JPEG",
+    "transparent": false,
+    "generator": "Nano Banana MCP",
+    "sha256": "83a713330437396755d2b3d696d8c72264bfa1f6f0647540e77fac09f8cfeb30"
+  },
+  {
+    "stem": "dum-e-odisha-black",
+    "label": "Black",
+    "use": "Single-colour option for white backgrounds.",
+    "file": "dum-e-odisha/dum-e-odisha-black.jpg",
+    "width": 4096,
+    "height": 4096,
+    "format": "JPEG",
+    "transparent": false,
+    "generator": "Nano Banana MCP",
+    "sha256": "ce17c8bcc383b969c33025841c6cc9a86911c831d46db9bd3ee7ad1d6cabeeb6"
+  },
+  {
+    "stem": "dum-e-odisha-white",
+    "label": "White",
+    "use": "Reversed single-colour option for black backgrounds.",
+    "file": "dum-e-odisha/dum-e-odisha-white.jpg",
+    "width": 4096,
+    "height": 4096,
+    "format": "JPEG",
+    "transparent": false,
+    "generator": "Nano Banana MCP",
+    "sha256": "84f655ec82397a3dd5d9ee544797d1f87e66c156659aa66f17d12b903e801dae"
+  },
+  {
+    "stem": "dum-e-odisha-identity-board",
+    "label": "Identity board",
+    "use": "Illustrative brand presentation; not a logo master or print packaging file.",
+    "file": "dum-e-odisha/dum-e-odisha-identity-board.jpg",
+    "width": 5056,
+    "height": 3392,
+    "format": "JPEG",
+    "transparent": false,
+    "generator": "Nano Banana MCP",
+    "sha256": "39fda85a2cc2784a51ccccd67e2fb2324be37f4b456e3e2e5b1cb84dac24ffde"
+  }
+]

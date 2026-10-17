@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-17T11:47:53.031Z",
+  "dimensions": [
+    {
+      "file": "rice-club-logo.png",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "rice-club-brand.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "dum-block-logo.png",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "file": "dum-block-brand.png",
+      "width": 5056,
+      "height": 3392
+    },
+    {
+      "file": "bowl-d-logo.png",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "file": "bowl-d-brand.png",
+      "width": 5056,
+      "height": 3392
+    },
+    {
+      "file": "grain-press-logo.png",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "file": "grain-press-brand.png",
+      "width": 5056,
+      "height": 3392
+    }
+  ],
+  "checks": [
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "index",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "reference-study",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "rice-club",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "rice-club",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "rice-club",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "dum-block",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "dum-block",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "dum-block",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "bowl-d",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "bowl-d",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "bowl-d",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "grain-press",
+      "width": 1440,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "grain-press",
+      "width": 390,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    },
+    {
+      "page": "grain-press",
+      "width": 320,
+      "overflow": false,
+      "headings": 1,
+      "missingAlt": 0
+    }
+  ],
+  "linkedChecks": [
+    {
+      "page": "../index.html",
+      "overflow": false,
+      "newCollectionLinks": 10
+    },
+    {
+      "page": "../../index.html",
+      "overflow": false,
+      "newCollectionLinks": 6
+    }
+  ],
+  "errors": [],
+  "failures": []
+}

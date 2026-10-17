@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-17",
+  "tool": "Nano Banana MCP",
+  "requestedModel": "pro",
+  "assets": [
+    {
+      "slug": "letter-and-lid",
+      "prompt": "Architectural branding mockup photograph, 16:9 landscape. Use supplied image as the exact reference wordmark for Letter & lid, a new exploratory identity for Dum E Odisha. Preserve the reference's lettering, script, name spelling, layout and symbol faithfully. Place it large on the clean main wall behind a compact contemporary biryani takeaway counter. Warm rice-cream plaster, chilli-red wordmark and terracotta tile counter, one broad red-pencil rice/steam mural band along the lower wall. Natural side daylight, warm wood, tactile painted plaster, convincing matte paint and human brush texture. One elegant unoccupied interior, not a collage. No invented menu prices, business hours, claims, addresses, certifications, no people. The full name must stay visibly readable. No temple, deity, elephant, mandala, crown or gold. Realistic architectural photography, no glossy 3D. Concept only, not the actual restaurant.",
+      "file": "assets/letter-and-lid-wall.png",
+      "reference": "assets/letter-and-lid-logo.png",
+      "note": "Actual dimensions may differ from requested resolution; inspect the output metadata. Generated architectural concept, not real premises."
+    },
+    {
+      "slug": "odia-first",
+      "prompt": "Architectural branding mockup photograph, 16:9 landscape. Use supplied image as the exact reference wordmark for Odia at heart, a new exploratory identity for Dum E Odisha. Preserve the reference's lettering, script, name spelling, layout and symbol faithfully. Place it large on the clean main wall behind a compact contemporary biryani takeaway counter. Warm ivory plaster, deep forest/leaf green wordmark, terracotta counter and long original hand-painted rice-stalk mural band in restrained green and rust. No borrowed ritual or traditional craft motif. Natural side daylight, warm wood, tactile painted plaster, convincing matte paint and human brush texture. One elegant unoccupied interior, not a collage. No invented menu prices, business hours, claims, addresses, certifications, no people. The full name must stay visibly readable. No temple, deity, elephant, mandala, crown or gold. Realistic architectural photography, no glossy 3D. Concept only, not the actual restaurant.",
+      "file": "assets/odia-first-wall.png",
+      "reference": "assets/odia-first-logo.png",
+      "note": "Actual dimensions may differ from requested resolution; inspect the output metadata. Generated architectural concept, not real premises."
+    },
+    {
+      "slug": "hindi-signature",
+      "prompt": "Architectural branding mockup photograph, 16:9 landscape. Use supplied image as the exact reference wordmark for Dum, in Devanagari, a new exploratory identity for Dum E Odisha. Preserve the reference's lettering, script, name spelling, layout and symbol faithfully. Place it large on the clean main wall behind a compact contemporary biryani takeaway counter. Ivory plaster, deep vermilion sign-painted Devanagari wordmark, mustard accents and a broad freely hand-painted steam/rice brushwork mural at the lower wall. Natural side daylight, warm wood, tactile painted plaster, convincing matte paint and human brush texture. One elegant unoccupied interior, not a collage. No invented menu prices, business hours, claims, addresses, certifications, no people. The full name must stay visibly readable. No temple, deity, elephant, mandala, crown or gold. Realistic architectural photography, no glossy 3D. Concept only, not the actual restaurant.",
+      "file": "assets/hindi-signature-wall.png",
+      "reference": "assets/hindi-signature-logo.png",
+      "note": "Actual dimensions may differ from requested resolution; inspect the output metadata. Generated architectural concept, not real premises."
+    }
+  ]
+}
