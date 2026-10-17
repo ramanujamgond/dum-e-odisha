@@ -52,3 +52,8 @@ The local Chrome renderer exported eight transparent 1600 × 700 logo compositio
 The original pictorial PNG is 1254 × 1254 with actual alpha values spanning 0–255. The Nano Banana stamp interpretation is 1024 × 1024 on white, although 2K was requested. Original and simplified symbol were inspected at 128/96/48 px: the 48 px image retains a recognisable pot/lid silhouette but loses face/rice detail. The preferred raster starting size is at least 96 px for the stamp. These observations do not establish a physical-print minimum.
 
 Evidence: [browser report](../explorations/round-03/proofs/browser-checks.json), [small-size proof](../explorations/round-03/proofs/small-size-proof.png), [desktop collection](../explorations/round-03/proofs/index-desktop.png), [mobile collection](../explorations/round-03/proofs/index-mobile.png). Colour master, stamp interpretation, Hindi and Odia primary exports and the reference crops were visually inspected. No native-reader, trademark, vector-contour or physical production verification is claimed.
+
+
+## Repository handoff / 17 October 2026
+
+The owner requested commit and push to origin, and supplied the GitHub repository URL. The relocation baseline includes 451 Git metadata files alongside 368 project files. Configuring origin and changing branch legitimately changes .git/config and .git/HEAD. The validator now excludes .git metadata from project-preservation assertions while keeping the original relocation inventory intact. It still checks all 368 baseline project files, all 36 review-01 manifest files, current review hashes and local HTML references. Earlier 819-file reports included Git internals.

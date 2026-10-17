@@ -236,8 +236,8 @@
     },
     {
       "path": "docs/project-overview.html",
-      "bytes": 8775,
-      "sha256": "3f1d028142716a12a4c638a96fb8499c3c8d3de10296369ab590efd1e582e4b4"
+      "bytes": 8912,
+      "sha256": "34712e372ef98ec73bc6c14cb7372ebbe464b33e84b82e41359451bfe8a2f6fa"
     },
     {
       "path": "docs/public-research.html",
@@ -261,13 +261,13 @@
     },
     {
       "path": "docs/validation-report.html",
-      "bytes": 12495,
-      "sha256": "d386f33504b38c7f235adf01652b0fe674888e829fde84cc975f01c85dbe1e40"
+      "bytes": 13246,
+      "sha256": "2f7b6e7e03f56e2934ff6a9300092293ffd9f59ac7b62fd6a8d05ca19dc89ae5"
     },
     {
       "path": "docs/validation-report.md",
-      "bytes": 8965,
-      "sha256": "a13f6972e44058d29714a24b87e4a6638af0d495b3200540299e2707f27b4562"
+      "bytes": 9580,
+      "sha256": "07bfa7ccbc80596eb8bb348a0f102e248c96b39a437fc52c12caf31316ce6a6a"
     },
     {
       "path": "docs/verbal-system.html",
@@ -1471,8 +1471,8 @@
     },
     {
       "path": "sources/validate.py",
-      "bytes": 4698,
-      "sha256": "095dd5f69a5aa8875709c9c675c20b1a92ccc56b436cde634c4a96bfcd5ffe9a"
+      "bytes": 5096,
+      "sha256": "1024d652f5110ba9147371539521c4a5debc5e6bba1fb00be8205d8472700654"
     }
   ]
 }

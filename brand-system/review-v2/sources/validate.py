@@ -55,8 +55,12 @@ for pair,val in ratios.items():
     if pair!='saffron/cream' and val<4.5:errors.append('Text contrast failed '+pair)
 
 inventory=json.loads((PROJECT/'operations/relocation-verification.json').read_text())['sha256_manifest']
+# The relocation snapshot includes Git internals. Commits, branch changes and
+# configuring origin legitimately mutate these; preserve-check project files.
+git_metadata=[rel for rel in inventory if rel=='.git' or rel.startswith('.git/')]
+archive_inventory={rel:digest for rel,digest in inventory.items() if rel not in git_metadata}
 archive_errors=[]
-for rel,digest in inventory.items():
+for rel,digest in archive_inventory.items():
     p=PROJECT/rel
     if not p.is_file() or hashlib.sha256(p.read_bytes()).hexdigest()!=digest:archive_errors.append(rel)
 if archive_errors:errors.append(f'Original archive changed: {archive_errors}')
@@ -73,7 +77,7 @@ if '--refresh-manifest' in sys.argv:
 elif not manifest.exists():errors.append('Manifest missing; generate after finishing artifacts')
 else:
     if json.loads(manifest.read_text())['files']!=files():errors.append('Review 02 manifest differs from current files')
-report={'checkedAt':'2026-10-17','localReferences':refs,'contrastRatios':ratios,'preservedOriginalsChecked':len(inventory),'originalArchiveChanges':archive_errors,'review01ManifestFilesChecked':len(original_v1['files']),'errors':errors}
+report={'checkedAt':'2026-10-17','localReferences':refs,'contrastRatios':ratios,'preservedOriginalsChecked':len(archive_inventory),'relocationGitMetadataExcluded':len(git_metadata),'originalArchiveChanges':archive_errors,'review01ManifestFilesChecked':len(original_v1['files']),'errors':errors}
 (R/'proofs/validation.json').write_text(json.dumps(report,indent=2)+'\n')
 print(json.dumps(report,indent=2))
 sys.exit(bool(errors))

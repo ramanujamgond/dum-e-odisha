@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-17",
-  "localReferences": 1188,
+  "localReferences": 1189,
   "contrastRatios": {
     "chilli/cream": 8.16,
     "ink/cream": 14.46,
@@ -9,7 +9,8 @@
     "muted/cream": 6.26,
     "saffron/cream": 1.99
   },
-  "preservedOriginalsChecked": 819,
+  "preservedOriginalsChecked": 368,
+  "relocationGitMetadataExcluded": 451,
   "originalArchiveChanges": [],
   "review01ManifestFilesChecked": 36,
   "errors": []
